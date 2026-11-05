@@ -1,0 +1,107 @@
+{
+  "date": "2026-11-03",
+  "generatedAt": "2026-11-03T14:20:00+01:00",
+  "lede": "Les députés doivent se prononcer sur la partie recettes du budget 2027, sans majorité pour le gouvernement Lecornu, alors que l'inflation française monte à 3,4 % sous l'effet de l'énergie. Aux États-Unis, c'est le jour des élections de mi-mandat, et le pétrole recule sur l'espoir de négociations avec l'Iran.",
+  "figures": [
+    { "label": "Inflation France (oct., provisoire)", "value": "3,4 %", "note": "Sur un an, dont 1,8 point dû à l'énergie", "source": "Insee" },
+    { "label": "PIB France (3e trimestre)", "value": "−0,1 %", "note": "Par rapport au 2e trimestre", "source": "Insee" },
+    { "label": "Chômage (2e trimestre)", "value": "8,3 %", "note": "Au sens du BIT, +0,2 point", "source": "Insee" },
+    { "label": "Taux de dépôt BCE", "value": "2,50 %", "note": "Inchangé le 29 octobre", "source": "BCE / Reuters" },
+    { "label": "Inflation zone euro (sept.)", "value": "3,8 %", "note": "Objectif de la BCE : 2 %", "source": "Reuters" },
+    { "label": "Brent (2 nov.)", "value": "104,85 $", "note": "−7,6 % sur la séance", "source": "BFM Bourse" },
+    { "label": "CAC 40 (2 nov.)", "value": "8 047,69", "note": "+0,98 % sur la séance", "source": "BFM Bourse" }
+  ],
+  "items": [
+    {
+      "cat": "politique",
+      "title": "Budget 2027 : vote incertain sur la partie recettes à l'Assemblée",
+      "summary": "Les députés poursuivent l'examen du projet de loi de finances 2027, avec encore environ 1 450 amendements à étudier lundi. Le gouvernement de Sébastien Lecornu n'a pas de majorité : plusieurs votes ont été acquis contre son avis, dont le refus de prolonger la surtaxe sur les bénéfices des grandes entreprises. Le vote solennel sur les recettes, prévu ce mardi, pourrait être repoussé.",
+      "why": "Si la partie recettes est rejetée, le Sénat examinera la version initiale du gouvernement. Le Parlement a jusqu'au 17 décembre pour voter le budget, faute de quoi il pourrait être appliqué par ordonnances.",
+      "sources": [
+        { "name": "LCP", "url": "https://lcp.fr/actualites/budget-2027-calendrier-procedure-pistes-d-atterrissage-ou-en-est-on-des-debats" },
+        { "name": "Assemblée nationale", "url": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/examen-de-la-premiere-partie-du-projet-de-loi-de-finances-pour-2027" }
+      ]
+    },
+    {
+      "cat": "politique",
+      "title": "Protection de l'enfance : vote solennel au Sénat",
+      "summary": "Les sénateurs se prononcent ce mardi sur le projet de loi de protection de l'enfance, qu'ils ont profondément remanié en séance. Ils y ont notamment rétabli l'imprescriptibilité des crimes sexuels commis sur des mineurs.",
+      "why": "Le texte devra ensuite être concilié avec la version de l'Assemblée nationale avant d'être adopté définitivement.",
+      "sources": [ { "name": "Public Sénat", "url": "https://www.publicsenat.fr/actualites" } ]
+    },
+    {
+      "cat": "politique",
+      "title": "Pouvoir d'achat : le Smic et la mobilisation lycéenne au menu",
+      "summary": "Une revalorisation du Smic au-delà de la formule légale divise les sénateurs, alors que le gouvernement est sous pression sur le pouvoir d'achat. Côté mobilisation, 41 lycées sur 3 700 étaient bloqués lundi matin selon le ministère de l'Éducation nationale ; le Premier ministre s'est dit prêt à recevoir de nouveau les lycéens.",
+      "why": "Avec une inflation à 3,4 %, la question des salaires s'installe dans le débat public, à quelques mois de la présidentielle de 2027.",
+      "sources": [ { "name": "Public Sénat", "url": "https://www.publicsenat.fr/actualites" } ]
+    },
+    {
+      "cat": "economie",
+      "title": "Inflation : 3,4 % sur un an en octobre, tirée par l'énergie",
+      "summary": "Selon l'estimation provisoire de l'Insee, les prix progressent de 3,4 % sur un an en octobre. L'énergie (+24,1 %) en explique à elle seule 1,8 point ; sans elle, la hausse serait de 1,7 %. Le prix repère du gaz augmente de 6,6 % au 1er novembre, et le chiffre définitif d'octobre sera publié le 13 novembre.",
+      "why": "Avec un Livret A à 1,7 %, l'épargne réglementée perd du pouvoir d'achat. C'est aussi un argument pour une nouvelle hausse des taux de la BCE.",
+      "sources": [
+        { "name": "Insee", "url": "https://www.insee.fr/fr/statistiques/2107840" },
+        { "name": "JeChange", "url": "https://www.jechange.fr/banques/news/inflation-3-4-pourcent-octobre-2026-energie-1-8-point-insee" }
+      ]
+    },
+    {
+      "cat": "economie",
+      "title": "Le PIB français recule de 0,1 % au troisième trimestre",
+      "summary": "D'après la première estimation de l'Insee, l'activité a légèrement baissé au troisième trimestre 2026 par rapport au précédent. Le taux de chômage au sens du BIT s'établissait à 8,3 % au deuxième trimestre, en hausse de 0,2 point.",
+      "why": "Deux trimestres consécutifs de baisse correspondraient à une récession technique. Une croissance faible réduit aussi les recettes fiscales, au cœur du débat budgétaire.",
+      "sources": [ { "name": "Insee", "url": "https://www.insee.fr/fr/statistiques/2107840" } ]
+    },
+    {
+      "cat": "economie",
+      "title": "BCE : taux inchangés, une hausse envisagée en décembre",
+      "summary": "La Banque centrale européenne a maintenu son taux de dépôt à 2,50 % le 29 octobre. L'inflation de la zone euro a atteint 3,8 % sur un an en septembre. Selon des sources citées par Reuters, ses responsables envisagent une hausse en décembre, puis une pause ; les marchés estiment cette hausse probable à environ 80 %.",
+      "why": "Une hausse des taux renchérirait le crédit immobilier et les emprunts des entreprises, mais vise à freiner l'inflation.",
+      "sources": [ { "name": "Boursorama (Reuters)", "url": "https://www.boursorama.com/bourse/actualites/la-bce-maintient-ses-taux-sans-exclure-une-hausse-en-decembre-prudence-quant-a-la-croissance-1231fcb764032366420d866dd21c3e08" } ]
+    },
+    {
+      "cat": "international",
+      "title": "États-Unis : jour des élections de mi-mandat",
+      "summary": "Les Américains votent ce mardi pour renouveler la Chambre des représentants et une partie du Sénat. La veille, un juge fédéral a temporairement interdit aux ministères de la Justice et de la Sécurité intérieure d'envoyer aux États des listes d'électeurs présentés comme non citoyens, et la Cour suprême a rejeté une demande visant à faire mettre de côté 20 000 bulletins par correspondance en Californie.",
+      "why": "Le résultat déterminera si l'administration Trump garde le contrôle du Congrès pour la fin de son mandat.",
+      "sources": [ { "name": "Just Security (synthèse Reuters, NYT)", "url": "https://www.justsecurity.org/163177/early-edition-november-3-2026/" } ]
+    },
+    {
+      "cat": "international",
+      "title": "Iran : le détroit d'Ormuz au cœur des négociations",
+      "summary": "Le porte-parole de la diplomatie iranienne affirme que le détroit d'Ormuz pourrait rouvrir en deux jours si Washington accepte les conditions de Téhéran ; une délégation qatarie est sur place. Un responsable iranien juge toutefois les deux camps encore loin d'un accord. Lundi, le Brent a chuté de 7,6 %, à 104,85 dollars, après des informations selon lesquelles Donald Trump privilégie la négociation.",
+      "why": "Une large part du pétrole mondial transite par Ormuz : sa fermeture explique en grande partie la flambée des prix de l'énergie et de l'inflation en Europe.",
+      "sources": [
+        { "name": "Just Security (synthèse NYT, Reuters)", "url": "https://www.justsecurity.org/163177/early-edition-november-3-2026/" },
+        { "name": "BFM Bourse", "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-un-coup-de-telephone-de-trump-fait-decrocher-les-cours-du-petrole-propulsant-le-cac-40-au-dessus-des-8000-points-1172977.html" }
+      ]
+    },
+    {
+      "cat": "international",
+      "title": "Ukraine : des pourparlers annoncés à Abou Dhabi",
+      "summary": "L'émissaire américain Steve Witkoff annonce des discussions de paix entre les États-Unis, la Russie et l'Ukraine les 10 et 11 novembre à Abou Dhabi. Sur le terrain, un bombardement russe a tué au moins 29 personnes dans un centre de distribution d'aide de la région de Zaporijjia. Le Royaume-Uni et la France vont mener en Pologne un exercice réunissant près de 3 000 militaires de 12 pays européens.",
+      "why": "L'exercice teste la capacité des Européens à se déployer en Ukraine en cas d'accord de paix, un enjeu central de la défense européenne.",
+      "sources": [ { "name": "Just Security (synthèse BBC, Axios, Reuters)", "url": "https://www.justsecurity.org/163177/early-edition-november-3-2026/" } ]
+    },
+    {
+      "cat": "international",
+      "title": "Royaume-Uni et UE : vers la fin des contrôles post-Brexit sur l'alimentaire",
+      "summary": "Londres et Bruxelles ont conclu un projet d'accord pour supprimer les contrôles sur les exportations alimentaires et agricoles instaurés après le Brexit. Le texte, d'environ 200 pages, a été transmis aux États membres.",
+      "why": "C'est l'un des rapprochements commerciaux les plus importants depuis la sortie du Royaume-Uni de l'UE.",
+      "sources": [ { "name": "Just Security (synthèse BBC)", "url": "https://www.justsecurity.org/163177/early-edition-november-3-2026/" } ]
+    },
+    {
+      "cat": "entreprises",
+      "title": "Bourse de Paris : le CAC 40 repasse au-dessus des 8 000 points",
+      "summary": "L'indice a gagné 0,98 % lundi pour clôturer à 8 047,69 points, porté par la nette baisse du pétrole après les signaux d'apaisement entre Washington et Téhéran.",
+      "why": "Les marchés européens restent très sensibles au prix de l'énergie, qui pèse sur les coûts des entreprises.",
+      "sources": [ { "name": "BFM Bourse", "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-un-coup-de-telephone-de-trump-fait-decrocher-les-cours-du-petrole-propulsant-le-cac-40-au-dessus-des-8000-points-1172977.html" } ]
+    }
+  ],
+  "quiz": [
+    { "q": "Selon l'estimation provisoire de l'Insee, quelle est l'inflation en France sur un an en octobre 2026 ?", "options": ["2,7 %", "3,4 %", "3,8 %", "4,1 %"], "answer": 1, "explain": "3,4 % sur un an, dont 1,8 point dû à l'énergie. Le chiffre de 3,8 % correspond à la zone euro en septembre." },
+    { "q": "À quel niveau la BCE a-t-elle maintenu son taux de dépôt le 29 octobre 2026 ?", "options": ["2,00 %", "2,25 %", "2,50 %", "2,75 %"], "answer": 2, "explain": "Le taux de dépôt reste à 2,50 %. Une hausse est envisagée lors de la réunion de décembre." },
+    { "q": "Jusqu'à quelle date le Parlement peut-il voter le budget 2027 avant un possible recours aux ordonnances ?", "options": ["17 novembre", "1er décembre", "17 décembre", "31 décembre"], "answer": 2, "explain": "Le délai de 70 jours expire le 17 décembre. Le 17 novembre marque seulement la fin de la première lecture à l'Assemblée." }
+  ]
+}
