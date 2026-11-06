@@ -2055,10 +2055,22 @@ function seedCours(){
   for (const txt of COURS_CSV){ try { addCards(parseCards(txt), null); } catch(e){} }
   F.coursV = COURS_V;
 }
+/* Tâches ajoutées à la demande (une seule fois par lot) */
+const TASK_SEED = [
+  { v:1, title:'Contrôle · Droit du numérique et PI (14h, salle C-001)', date:'2026-11-09', deck:'Droit du numérique et PI' },
+  { v:1, title:'Contrôle · Droit public économique (9h, salle C-001)', date:'2026-11-10', deck:'Droit public économique' }
+];
+function seedTasks(){
+  const v = state.seedT || 0, todo = TASK_SEED.filter(t => t.v > v); if (!todo.length) return;
+  for (const t of todo){ if (t.date < todayKey() || state.tasks.some(x => x.title === t.title && x.date === t.date)) continue;
+    const d = state.fc.decks.find(x => x.name === t.deck);
+    state.tasks.push({ id:uid(), title:t.title, date:t.date, cat:'cours', prio:true, done:false, deck:d ? d.id : null, sub:[] }); }
+  state.seedT = Math.max(...TASK_SEED.map(t => t.v));
+}
 function ensureFc(){
-  if (state.fc){ state.fc.exams = state.fc.exams || []; state.fc.prefs = state.fc.prefs || { mode:'flip' }; seedCours(); if (weeklyOn()) clampWeekly(); return; }
+  if (state.fc){ state.fc.exams = state.fc.exams || []; state.fc.prefs = state.fc.prefs || { mode:'flip' }; seedCours(); seedTasks(); if (weeklyOn()) clampWeekly(); return; }
   state.fc = { decks:[], cards:[], newDay:{ d:'', n:0 }, log:{}, exams:[], prefs:{ mode:'flip' } };
-  seedCours();
+  seedCours(); seedTasks();
 }
 ui.fc = { view:'home', deck:null, queue:[], cur:null, flipped:false, res:null, total:0 };
 const deckOf = id => state.fc.decks.find(d=>d.id===id);
