@@ -1071,6 +1071,11 @@ label.btn{display:inline-flex;align-items:center;justify-content:center;cursor:p
 .tripdur b{font-size:28px;line-height:1.1}.tripdur small{font-size:12px;opacity:.8}
 .tabvis{margin:6px 0 12px}
 .iaehero{align-items:center}
+.edtl{list-style:none;margin:0;padding:4px 0}.edtr{display:flex;gap:12px;padding:10px 14px;border-left:3px solid var(--c-cours);margin:6px 10px;border-radius:10px;background:var(--surface-2)}
+.edtr.wk{border-left-color:var(--c-alt)}.edtr.ex{border-left-color:var(--danger);background:var(--danger-soft)}.edtr.cur{box-shadow:0 0 0 2px var(--accent)}.edtr.past{opacity:.55}
+.edtt{display:flex;flex-direction:column;font-size:14px;font-weight:700;min-width:44px}.edtt small{font-weight:500;color:var(--muted)}
+.edtb{min-width:0;display:flex;flex-direction:column;gap:2px}.edtb b{font-size:15px;line-height:1.3}.edtb small{color:var(--muted);font-size:13px}.edtb em{font-style:normal;font-weight:700;color:var(--danger)}
+.wday li.edtw{color:var(--fg)}.wday li.edtw .mono{font-size:12px;color:var(--c-cours);min-width:38px;flex:none}.wday li.edtw.wk .mono{color:var(--c-alt)}.wday li.edtw.ex{color:var(--danger);font-weight:600}.wday li.edtw.ex .mono{color:var(--danger)}
 .tmtx{margin:0 0 10px;padding:10px 12px;border-left:3px solid var(--accent);background:var(--surface-2);border-radius:8px;font-size:14.5px;line-height:1.5}
 .tmst{margin:8px 0 0;padding-left:0;list-style:none;display:grid;gap:6px;font-size:15px}.tmst li{padding:8px 10px;border-radius:10px;background:var(--surface-2)}.iaetot{flex:none;display:flex;flex-direction:column;align-items:center;justify-content:center;width:96px;height:96px;border-radius:50%;background:var(--accent-soft);color:var(--accent)}
 .iaetot b{font-size:30px;line-height:1}.iaetot span{font-size:12px;font-weight:700;opacity:.75}
@@ -1573,7 +1578,7 @@ function vAgenda(){
     const rel = isToday ? "Aujourd'hui" : ui.day === key(addDays(new Date(),1)) ? 'Demain' : ui.day === key(addDays(new Date(),-1)) ? 'Hier' : fmt(d,{year:'numeric'});
     body = `<div class="daynav"><button class="icon-btn" data-day="-1" aria-label="Jour précédent">${CHEV_L}</button>
       <div class="t"><button data-act="today"><b>${fmt(d,{weekday:'long',day:'numeric',month:'long'})}</b><span>${rel}${isToday?'':' · revenir à aujourd’hui'}</span></button></div>
-      <button class="icon-btn" data-day="1" aria-label="Jour suivant">${CHEV_R}</button></div>
+      <button class="icon-btn" data-day="1" aria-label="Jour suivant">${CHEV_R}</button></div>${edtBlock(ui.day)}${edtOn(ui.day).length && list.length ? '<h2 class="tsk-h">Tâches</h2>' : ''}
       <div class="card">${list.length?`<ul class="tasks">${list.map(taskRow).join('')}</ul>`:`<div class="empty"><b>Rien de prévu</b>Appuie sur « Tâche » pour ajouter quelque chose à ce jour.</div>`}</div>`;
     const wb = weekBucket(key(monday(d))).filter(t=>!t.done);
     if (wb.length) body += `<section><h2>À caser cette semaine</h2><div class="card"><ul class="tasks">${sortTasks(wb).map(taskRow).join('')}</ul></div></section>`;
@@ -1585,7 +1590,7 @@ function vAgenda(){
       const d = addDays(ws,i), k = key(d), l = sortTasks(tasksOn(k)); all.push(...l);
       const dn = l.filter(t=>t.done).length;
       rows += `<div class="card wday ${k===tk?'today':''}"><button class="hd" data-open-day="${k}"><b>${fmt(d,{weekday:'long',day:'numeric'})}</b><span class="mono">${l.length?`${dn}/${l.length}`:'—'}</span></button>
-        ${l.length?`<ul>${l.map(t=>`<li class="${t.done?'done':''}"><i class="dot"></i><span>${esc(t.title)}</span></li>`).join('')}</ul>`:''}</div>`;
+        ${(l.length || edtOn(k).length)?`<ul>${edtWeekLines(k)}${l.map(t=>`<li class="${t.done?'done':''}"><i class="dot"></i><span>${esc(t.title)}</span></li>`).join('')}</ul>`:''}</div>`;
     }
     const wb = sortTasks(weekBucket(ui.weekStart)); all.push(...wb);
     const pct = all.length ? Math.round(100*all.filter(t=>t.done).length/all.length) : 0;
@@ -5848,6 +5853,7 @@ function vParams(){
   return `<button class="back" data-h2="params-back">${CHEV_L}Retour</button>${cloudCard()}
     <section><h2>Espace</h2><div class="card pad"><div class="seg pmode">${[['study','Études'],['health','Santé']].map(([k,l]) => `<button data-h2="mode" data-k="${k}" aria-pressed="${appMode===k}">${l}</button>`).join('')}</div><p class="fine">Études : agenda, révisions, calcul, sudoku. Santé : repas, activité, poids, planning et courses.</p></div></section>
     <section><h2>Apparence</h2><div class="card plist">${row('look','sun','Thème et couleurs', pal ? `Thème actuel : ${pal}` : 'Clair, sombre et palettes')}</div></section>
+    <section><h2>Études</h2><div class="card plist">${row('edt','calendar','Emploi du temps', state.edt && state.edt.ev.length ? `${state.edt.ev.length} créneaux · importer une mise à jour` : 'Importer le fichier .ics / .vcs d’ADE')}</div></section>
     ${tabsParamsHtml()}<section><h2>Préférences</h2><div class="card pad"><div class="field"><label for="pp-name">Prénom</label><input id="pp-name" maxlength="30" value="${esc(userName())}" placeholder="Affiché sur l’accueil" data-p2-name></div></div></section>
     <section><h2>Profil nutritionnel</h2><div class="card plist">${row('profile','target', P ? goalName(goalOf(P)) : 'Créer mon profil', T ? `${nf(T.kcal)} kcal · P ${T.p} g · G ${T.c} g · L ${T.f} g` : 'Sexe, âge, taille, poids, activité, objectif')}${row('mprefs','heart','Préférences alimentaires', 'Régime, allergies, temps, matériel, budget, répartition')}</div></section>
     <section><h2>Santé</h2><div class="card plist">${row('fp','trophy','Carnet muscu', (state.health && state.health.fp && state.health.fp.at) ? 'Relié · séances importées' : 'Ouvre-le une première fois')}${row('steps','flame','Pas automatiques', (H.sync||{}).id ? 'Raccourci iPhone configuré' : 'Non configuré')}</div></section>
@@ -5927,6 +5933,7 @@ function v2Click(e){
   else if (a==='mprefs') mealPrefsSheet();
   else if (a==='hevy') hevySheet();
   else if (a==='fp'){ location.href = FP_URL; }
+  else if (a==='edt') edtSheet();
   else if (a==='steps') syncSheet();
   else if (a==='cloud') cloudSheet();
   else if (a==='tabvis') tabVisToggle(b.dataset.m, b.dataset.k);
@@ -6649,6 +6656,68 @@ HELP.tage = { t:'TAGE MAGE', i:'Prépare les 6 sous-tests du TAGE MAGE en condit
   ['cards','Tes propres questions','Importe des cartes QCM dans une matière « TAGE MAGE », un chapitre par sous-test. Une erreur remet la carte à revoir dans les flashcards.'],
   ['calendar','Le compte à rebours','Fixe la date du test, ou crée un examen dont le titre contient « TAGE MAGE ».']] };
 
+/* ---------- Emploi du temps (import .ics / .vcs d’ADE) ---------- */
+function icsParse(txt){
+  const s = String(txt).replace(/\r\n?/g, '\n').replace(/\n[ \t]/g, ''), out = [];
+  const un = v => (v || '').replace(/\\n/gi, '\n').replace(/\\([,;\\])/g, '$1').trim();
+  const dt = v => { const m = /^(\d{4})(\d{2})(\d{2})(?:T(\d{2})(\d{2})(\d{2})?(Z)?)?$/.exec((v || '').trim()); if (!m) return null;
+    const [, y, mo, d, h, mi, se, z] = m; if (h == null) return new Date(+y, +mo-1, +d).getTime();
+    return z ? Date.UTC(+y, +mo-1, +d, +h, +mi, +(se||0)) : new Date(+y, +mo-1, +d, +h, +mi, +(se||0)).getTime(); };
+  for (const b of s.split('BEGIN:VEVENT').slice(1)){
+    const body = b.split('END:VEVENT')[0], f = {};
+    for (const line of body.split('\n')){ const i = line.indexOf(':'); if (i < 0) continue; const k = line.slice(0, i).split(';')[0].toUpperCase(); if (!(k in f)) f[k] = line.slice(i+1); }
+    const st = dt(f.DTSTART); if (st == null) continue; const en = dt(f.DTEND) || st;
+    const desc = un(f.DESCRIPTION).split('\n').map(x => x.trim()).filter(x => x && !/^\(Modifi/i.test(x) && !/^(BUT|LP|DUT|L\d|M\d)\w*(\s|$)/.test(x));
+    out.push({ u:f.UID || (f.SUMMARY + st), t:un(f.SUMMARY) || 'Cours', s:st, e:en, l:un(f.LOCATION), p:desc.join(', ') });
+  }
+  return out.sort((a,b) => a.s - b.s);
+}
+const ensureEdt = () => state.edt || (state.edt = { ev:[], at:null, grp:'' });
+const edtExam = x => /examen/i.test(x.l) || /^(DSR|Soutenances?)\b/i.test(x.t);
+const edtWork = x => /^Entreprise\b/i.test(x.t);
+const edtGrpOf = x => { const m = /Groupe\s+([A-Z0-9]+)/i.exec(x.t); return m ? m[1].toUpperCase() : ''; };
+const edtShow = x => { const g = (state.edt && state.edt.grp) || '', xg = edtGrpOf(x); return !g || !xg || xg === g; };
+function edtOn(k){ const E = state.edt; if (!E || !E.ev.length) return []; return E.ev.filter(x => key(new Date(x.s)) === k && edtShow(x)); }
+const hm = ms => { const d = new Date(ms); return `${d.getHours()}h${d.getMinutes() ? pad(d.getMinutes()) : ''}`; };
+const edtShort = t => t.replace(/\s*\((S[56])\)/g, '').replace(/\s*-\s*(Groupe [A-Z0-9]+|Classe entière)$/i, '');
+function edtRow(x){
+  const ex = edtExam(x), wk = edtWork(x), now = Date.now(), cur = now >= x.s && now < x.e;
+  return `<li class="edtr ${wk ? 'wk' : ex ? 'ex' : ''} ${cur ? 'cur' : ''} ${x.e < now ? 'past' : ''}"><span class="edtt mono">${hm(x.s)}<small>${hm(x.e)}</small></span><span class="edtb"><b>${esc(x.t)}</b><small>${[ex ? '<em>Examen</em>' : '', wk ? 'Journée en entreprise' : '', esc(x.l), esc(x.p)].filter(Boolean).join(' · ')}</small></span></li>`;
+}
+function edtBlock(k){ const l = edtOn(k); if (!l.length) return '';
+  return `<section class="edtsec"><h2>Emploi du temps</h2><div class="card"><ul class="edtl">${l.map(edtRow).join('')}</ul></div></section>`; }
+function edtWeekLines(k){ return edtOn(k).map(x => `<li class="edtw ${edtExam(x) ? 'ex' : edtWork(x) ? 'wk' : ''}"><span class="mono">${hm(x.s)}</span><span>${esc(edtShort(x.t))}${edtExam(x) ? ' · examen' : ''}</span></li>`).join(''); }
+function edtTodayRow(){
+  const E = state.edt; if (!E || !E.ev.length) return null;
+  const tk = todayKey(), now = Date.now(), today = edtOn(tk), left = today.filter(x => x.e > now);
+  const desc = l => l[0] && edtWork(l[0]) && l.length === 1 ? 'Entreprise' : l.map(x => `${hm(x.s)} ${edtShort(x.t)}${x.l ? ` (${x.l.replace(/\s*\(\d+\)/, '')})` : ''}`).slice(0, 2).join(' · ') + (l.length > 2 ? ` · +${l.length-2}` : '');
+  if (left.length) return ['mj-edt','calendar', left.some(edtExam) ? 'Examen aujourd’hui' : 'Cours aujourd’hui', desc(left), false];
+  const tm = key(addDays(new Date(), 1)), nx = edtOn(tm);
+  if (nx.length) return ['mj-edt-t','calendar', nx.some(edtExam) ? 'Examen demain' : 'Demain', desc(nx), false];
+  return null;
+}
+function edtExamsAhead(){ const E = state.edt; if (!E) return []; const tk = todayKey(); ensurePartiels();
+  return E.ev.filter(x => edtExam(x) && /examen/i.test(x.l) && key(new Date(x.s)) >= tk && edtShow(x)).filter(x => !state.partiels.some(p => p.date === key(new Date(x.s)) && p.title === edtShort(x.t))); }
+function edtDeckFor(t){ ensureFc(); const w = s => new Set(s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').split(/[^a-z]+/).filter(x => x.length > 3));
+  const tw = w(t); let best = null, bs = 1; for (const d of state.fc.decks){ const n = [...w(d.name)].filter(x => tw.has(x)).length; if (n > bs){ bs = n; best = d.id; } } return best; }
+function edtSheet(){
+  const E = ensureEdt(), n = E.ev.length, grps = [...new Set(E.ev.map(edtGrpOf).filter(Boolean))].sort(), exs = edtExamsAhead();
+  sheet(`<h3>Emploi du temps</h3>
+    <p class="fine" style="margin-top:0">${n ? `${n} créneaux importés${E.at ? ` le ${fmt(new Date(E.at),{day:'numeric',month:'long'})}` : ''}${E.src ? ` depuis « ${esc(E.src)} »` : ''}. Ils s’affichent dans l’agenda et dans « Ma journée ».` : 'Importe le fichier .ics ou .vcs exporté depuis ADE ou Univ-EDT. Rien n’est envoyé en ligne : tout reste sur ce téléphone.'}</p>
+    <label class="btn primary bigbtn" style="display:flex;justify-content:center;cursor:pointer">${n ? 'Importer une version à jour' : 'Choisir le fichier'}<input type="file" id="edt-f" accept=".ics,.vcs,.ical,.ifb,text/calendar,text/x-vcalendar" hidden></label>
+    ${grps.length > 1 ? `<div class="field" style="margin-top:14px"><span class="lab">Ton groupe de TD</span><div class="seg" id="edt-g" style="grid-template-columns:repeat(${grps.length+1},1fr)"><button type="button" data-g="" aria-pressed="${!E.grp}">Tous</button>${grps.map(g => `<button type="button" data-g="${g}" aria-pressed="${E.grp===g}">Groupe ${g}</button>`).join('')}</div><p class="fine">Masque les cours de l’autre groupe.</p></div>` : ''}
+    ${exs.length ? `<div class="field"><span class="lab">Examens repérés (salle d’examen)</span><div class="card plist">${exs.slice(0,8).map((x,i) => `<button class="prow" data-ex="${i}"><span class="ic">${bicon('target')}</span><span><b>${esc(edtShort(x.t))}</b><small>${fmt(new Date(x.s),{weekday:'long',day:'numeric',month:'long'})} · ${hm(x.s)} · préparer les révisions</small></span>${CHEV_R}</button>`).join('')}</div></div>` : ''}
+    <div class="btns">${n ? '<button class="btn danger" id="edt-x">Tout effacer</button>' : ''}<button class="btn" data-close>Fermer</button></div>`, s => {
+    s.querySelector('#edt-f').addEventListener('change', async e => { const f = e.target.files && e.target.files[0]; if (!f) return;
+      let ev = []; try { ev = icsParse(await f.text()); } catch(_){}
+      if (!ev.length) return toast('Aucun créneau trouvé dans ce fichier');
+      E.ev = ev; E.at = new Date().toISOString(); E.src = f.name; close(); commit(); toast(`${ev.length} créneaux importés`); setTimeout(edtSheet, 300); });
+    const g = s.querySelector('#edt-g'); g && g.addEventListener('click', e => { const b = e.target.closest('[data-g]'); if (!b) return; E.grp = b.dataset.g; commit(); g.querySelectorAll('button').forEach(x => x.setAttribute('aria-pressed', x===b)); });
+    s.querySelectorAll('[data-ex]').forEach(b => b.addEventListener('click', () => { const x = exs[+b.dataset.ex]; close(); setTimeout(() => partielSheet(null, { title:edtShort(x.t), date:key(new Date(x.s)), deck:edtDeckFor(x.t) }), 260); }));
+    const x = s.querySelector('#edt-x'); x && x.addEventListener('click', () => { if (!x.dataset.armed){ x.dataset.armed = '1'; x.textContent = 'Confirmer'; return; } E.ev = []; E.at = null; E.src = ''; close(); commit(); toast('Emploi du temps effacé'); });
+  });
+}
+
 /* ---------- Mode trajet ---------- */
 let tripEl = null;
 const tripRem = T => Math.max(0, T.dur - T.used - (T.t0 ? Date.now() - T.t0 : 0));
@@ -6792,6 +6861,7 @@ function dayCard(ctx){
   const sun = prof && new Date().getDay()===0 && !(H.weights || []).some(w => w.d===tk) && notifState().weigh !== false;
   const rows = [['mj-tasks','tasks','Tâches', tl.length ? (left ? `${left} à faire sur ${tl.length}` : 'Tout est fait') : 'Rien de prévu aujourd’hui', tl.length && !left],
     ['mj-cards','cards','Flashcards', due ? `${due} carte${due>1?'s':''} à réviser` : 'Révisions à jour', !due && state.fc.cards.length]];
+  const er = edtTodayRow(); if (er) rows.unshift(er);
   if (prof) rows.push(['mj-sport','flame','Séance du jour', D.sport.length ? `${D.sport.map(x => x.name).slice(0,2).join(', ')} · ${nf(r0(sportKcal(D)))} kcal` : 'Pas encore de séance enregistrée', D.sport.length > 0]);
   if (meals.length) rows.push(['mj-meals','heart','Repas prévus', meals.join(' · '), false]);
   if (sun && ctx !== 'h') rows.push(['mj-weigh','target','Pesée du dimanche','À jeun, au réveil', false]);
@@ -6827,7 +6897,8 @@ function v3Click(e){
   else if (a==='iae-end'){ if (!b.dataset.armed){ b.dataset.armed = '1'; b.textContent = 'Confirmer'; return true; } iaeFinish(false); }
   else if (a==='cloud-get') cloudGet(b);
   else if (a==='cloud-ign'){ if (CLOUD.newer) CLOUD.setCfg({ dismiss:CLOUD.newer.at }); CLOUD.newer = null; render(); CLOUD.soon(); }
-  else if (a==='mj-tasks'){ ui.seg = 'jour'; ui.day = todayKey(); goMode('study', 'agenda'); }
+  else if (a==='mj-tasks' || a==='mj-edt'){ ui.seg = 'jour'; ui.day = todayKey(); goMode('study', 'agenda'); }
+  else if (a==='mj-edt-t'){ ui.seg = 'jour'; ui.day = key(addDays(new Date(),1)); goMode('study', 'agenda'); }
   else if (a==='mj-cards'){ if (dueCards().all.length){ if (appMode !== 'study') goMode('study', 'cartes'); ui.tab = 'cartes'; startReview(null); } else { ui.fc.view = 'home'; goMode('study', 'cartes'); } }
   else if (a==='mj-sport') goMode('health', 'h-sport');
   else if (a==='mj-meals'){ ui.rseg = 'semaine'; goMode('health', 'h-repas'); }
