@@ -1,0 +1,264 @@
+{
+ "date": "2026-11-06",
+ "generatedAt": "2026-11-06T06:36:09+01:00",
+ "lede": "L'Assemblée a rejeté à l'unanimité la partie recettes du budget 2027, et Matignon convoque syndicats et patronat lundi après une forte mobilisation sur les salaires. Sur les marchés, la chute des valeurs de l'IA a fait plonger Wall Street, tandis que la Banque d'Angleterre a relevé son taux à 4 %.",
+ "figures": [
+  {
+   "label": "CAC 40 (clôture du 5 nov.)",
+   "value": "8 205,37",
+   "note": "+0,34 % sur la séance",
+   "source": "BFM Bourse"
+  },
+  {
+   "label": "Nasdaq (clôture du 5 nov.)",
+   "value": "-5,5 %",
+   "note": "Chute des valeurs liées à l'IA, Nvidia -9,3 %",
+   "source": "Reuters via L'EnerGeek"
+  },
+  {
+   "label": "Brent (5 nov.)",
+   "value": "96,80 $",
+   "note": "+2,3 % après une chute de plus de 8 % la veille",
+   "source": "Reuters via Boursorama"
+  },
+  {
+   "label": "Taux directeur Banque d'Angleterre (5 nov.)",
+   "value": "4,00 %",
+   "note": "+0,25 point, première hausse depuis août 2023",
+   "source": "AFP"
+  },
+  {
+   "label": "Manifestants le 5 nov.",
+   "value": "600 000",
+   "note": "Près de 1,6 million selon la CGT",
+   "source": "Public Sénat"
+  },
+  {
+   "label": "Mises en chantier de logements (sept. 2026)",
+   "value": "-9,7 %",
+   "note": "28 682 logements, par rapport à août",
+   "source": "SDES via MySweetImmo"
+  }
+ ],
+ "items": [
+  {
+   "cat": "politique",
+   "title": "Budget 2027 : l'Assemblée rejette la partie recettes à l'unanimité",
+   "summary": "Mercredi soir, les députés ont rejeté la première partie du projet de loi de finances 2027 par 458 voix contre, aucune pour et 2 abstentions. La partie dépenses ne sera donc pas examinée. Le Sénat reçoit la version initiale du gouvernement. Matignon attend un compromis après l'examen au Sénat, courant décembre.",
+   "why": "Sans adoption définitive dans le délai de 70 jours, qui expire le 17 décembre, le gouvernement peut passer par ordonnances. Le recours au 49.3 reste possible, avec un risque de censure.",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://fr.euronews.com/2026/11/05/budget-2027-lassemblee-nationale-rejette-le-texte-a-lunanimite"
+    }
+   ]
+  },
+  {
+   "cat": "politique",
+   "title": "Après la mobilisation du 5 novembre, Lecornu convoque une conférence sociale",
+   "summary": "Jeudi, 600 000 personnes ont défilé selon les chiffres relayés par Public Sénat, près de 1,6 million selon la CGT. Sébastien Lecornu réunit syndicats et patronat lundi à Matignon sur le pouvoir d'achat et les salaires. La CFDT demande 100 euros net de plus sur le Smic, la CGT une hausse de 10 % et l'indexation des salaires sur les prix.",
+   "why": "Le Smic et les salaires deviennent le sujet central de la rentrée sociale. Une hausse aurait un effet direct sur la masse salariale des entreprises.",
+   "sources": [
+    {
+     "name": "Public Sénat",
+     "url": "https://www.publicsenat.fr/actualites/politique/manifestation-du-5-novembre-sebastien-lecornu-annonce-une-conference-sociale-avec-les-syndicats-et-le-patronat-lundi"
+    }
+   ]
+  },
+  {
+   "cat": "economie",
+   "title": "La Banque d'Angleterre relève son taux à 4 %",
+   "summary": "La BoE a monté son taux directeur de 0,25 point, une première depuis août 2023. Elle prévoit une inflation à 4,5 % en 2027, avec un pic à 4,9 % au deuxième trimestre. Son gouverneur Andrew Bailey estime que ce ne sera probablement pas la dernière hausse si le conflit au Moyen-Orient dure.",
+   "why": "La flambée de l'énergie pousse des banques centrales à remonter leurs taux. Le crédit devient plus cher pour les ménages et les entreprises.",
+   "sources": [
+    {
+     "name": "Boursorama (AFP)",
+     "url": "https://www.boursorama.com/actualite-economique/actualites/la-banque-d-angleterre-remonte-son-taux-a-4-et-sonne-l-alerte-sur-l-inflation-303d131feca2f4593f6deb1101bffb2d"
+    }
+   ]
+  },
+  {
+   "cat": "economie",
+   "title": "Wall Street décroche, le CAC 40 résiste au-dessus de 8 200 points",
+   "summary": "Le CAC 40 a fini en hausse de 0,34 % à 8 205,37 points, après avoir gagné plus de 1,3 % en séance. Le reste de l'Europe a reculé : DAX -0,41 %, Euro Stoxx 50 -0,61 %. À New York, le Nasdaq a perdu environ 5,5 % à la clôture.",
+   "why": "La Bourse de Paris, moins exposée à la tech, profite d'une rotation vers les secteurs traditionnels. Cela montre l'intérêt de la diversification sectorielle.",
+   "sources": [
+    {
+     "name": "BFM Bourse",
+     "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-la-debacle-des-valeurs-liees-a-l-ia-fait-chuter-le-nasdaq-de-4-le-cac-40-resiste-au-dessus-des-8200-points-1173263.html"
+    },
+    {
+     "name": "Boursorama (Reuters)",
+     "url": "https://www.boursorama.com/bourse/actualites/l-europe-finit-en-baisse-deroute-a-wall-street-ff8371051e8f6d836a9bf8c95e2fe826"
+    },
+    {
+     "name": "L'EnerGeek",
+     "url": "https://lenergeek.com/2026/11/06/chute-actions-ia-centres-donnees-electricite-novembre-2026/"
+    }
+   ]
+  },
+  {
+   "cat": "economie",
+   "title": "Pétrole : rebond du Brent après une forte chute",
+   "summary": "Le Brent a gagné environ 2,3 % jeudi, autour de 96,80 dollars. La veille, il avait chuté de plus de 8 %. De nouveaux incidents touchant des navires près du détroit d'Ormuz ont ravivé les craintes sur l'approvisionnement.",
+   "why": "Le prix du baril pèse sur l'inflation, les carburants et le coût des chantiers. Sa forte volatilité complique les prévisions budgétaires des entreprises.",
+   "sources": [
+    {
+     "name": "L'EnerGeek",
+     "url": "https://lenergeek.com/2026/11/06/petrole-rebond-brent-5-novembre-2026-ormuz/"
+    },
+    {
+     "name": "Boursorama (Reuters)",
+     "url": "https://www.boursorama.com/bourse/actualites/l-europe-finit-en-baisse-deroute-a-wall-street-ff8371051e8f6d836a9bf8c95e2fe826"
+    }
+   ]
+  },
+  {
+   "cat": "international",
+   "title": "États-Unis : les démocrates prennent le contrôle du Congrès",
+   "summary": "Jeudi soir, les démocrates comptaient 253 sièges à la Chambre contre 155 aux républicains, avec 27 courses non attribuées. Au Sénat, ils avaient 54 sièges contre 44. L'Alaska et le Mississippi restaient indécis. Hakeem Jeffries est candidat au poste de speaker.",
+   "why": "Un Congrès d'opposition limite la marge de manœuvre de Donald Trump, notamment sur les droits de douane et la guerre en Iran.",
+   "sources": [
+    {
+     "name": "Yahoo News",
+     "url": "https://www.yahoo.com/news/politics/live/midterms-2026-election-results-and-latest-updates-mississippi-votes-still-being-counted-in-senate-nail-biter-after-democrats-take-control-of-congress-200037541.html"
+    },
+    {
+     "name": "CBS News",
+     "url": "https://www.cbsnews.com/live-updates/house-election-results-2026/"
+    }
+   ]
+  },
+  {
+   "cat": "international",
+   "title": "Ormuz : l'Iran signale trois navires en feu",
+   "summary": "Selon les Gardiens de la Révolution, un grand pétrolier a pris feu après avoir heurté une mine au sud du détroit. Un autre superpétrolier et un remorqueur venu l'aider ont aussi pris feu. Ces versions iraniennes ne sont pas vérifiées de façon indépendante.",
+   "why": "Le détroit d'Ormuz est un point de passage clé du pétrole mondial. Chaque incident fait bouger les cours de l'énergie.",
+   "sources": [
+    {
+     "name": "Connaissance des Énergies (AFP)",
+     "url": "https://www.connaissancedesenergies.org/afp/trois-navires-ont-pris-feu-dans-le-detroit-dormuz-selon-liran-261105"
+    }
+   ]
+  },
+  {
+   "cat": "international",
+   "title": "Ukraine : pourparlers prévus les 10 et 11 novembre à Abou Dhabi",
+   "summary": "Le Kremlin a confirmé des discussions de paix entre la Russie et l'Ukraine sous médiation américaine. Vladimir Medinsky mènera la délégation russe. Aucune réunion à trois n'avait eu lieu depuis le début de la guerre en Iran, fin février.",
+   "why": "Une reprise du dialogue pourrait peser sur l'énergie et la sécurité en Europe. Les précédents cycles n'avaient pas réglé les questions territoriales.",
+   "sources": [
+    {
+     "name": "Boursorama (Reuters)",
+     "url": "https://www.boursorama.com/actualite-economique/actualites/le-kremlin-confirme-la-tenue-de-pourparlers-avec-l-ukraine-a-abou-dhabi-b261b3843aabd04291fb7990dfe3f7eb"
+    }
+   ]
+  },
+  {
+   "cat": "entreprises",
+   "title": "Bourse : Air France-KLM s'envole, Rheinmetall et Soitec chutent",
+   "summary": "Air France-KLM a gagné 12,1 % jeudi après des résultats supérieurs aux attentes. Rheinmetall a perdu 16 % après avoir abaissé ses prévisions de chiffre d'affaires 2026. Soitec a cédé 16,7 % et STMicroelectronics 9,3 %, dans le sillage des valeurs des semi-conducteurs.",
+   "why": "Les publications trimestrielles et le sentiment sur l'IA font bouger fortement les cours. Ces écarts rappellent le poids des prévisions dans la valorisation.",
+   "sources": [
+    {
+     "name": "BFM Bourse",
+     "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-la-debacle-des-valeurs-liees-a-l-ia-fait-chuter-le-nasdaq-de-4-le-cac-40-resiste-au-dessus-des-8200-points-1173263.html"
+    }
+   ]
+  },
+  {
+   "cat": "btp",
+   "title": "Bouygues relève son objectif annuel, Bouygues Construction en forte hausse",
+   "summary": "Sur neuf mois, Bouygues réalise 41,6 milliards d'euros de chiffre d'affaires, stable. Son résultat net est divisé par deux, à 306 millions d'euros, à cause d'une dépréciation de 569 millions sur TF1. Bouygues Construction progresse de 7 % à 8,5 milliards, tandis que Colas recule de 3 % à 11,5 milliards. Le groupe attend désormais un résultat opérationnel courant en légère hausse.",
+   "why": "La dépréciation de TF1 montre qu'une perte comptable non cash peut faire chuter le résultat net sans toucher la trésorerie. Le carnet de commandes de la construction reste solide à 32,5 milliards.",
+   "sources": [
+    {
+     "name": "Bouygues (communiqué)",
+     "url": "https://www.globenewswire.com/news-release/2026/11/05/3396045/0/fr/bouygues-r%C3%A9sultats-du-groupe-des-neuf-premiers-mois-tr%C3%A8s-solides-roca-annuel-du-groupe-d%C3%A9sormais-attendu-en-l%C3%A9g%C3%A8re-hausse.html"
+    },
+    {
+     "name": "Boursorama (AFP)",
+     "url": "https://www.boursorama.com/bourse/actualites/bouygues-benefice-net-divise-par-2-sur-neuf-mois-mais-objectif-de-rentabilite-annuel-releve-3b47988120bbd1b1421fce3dc96cfb6b"
+    }
+   ]
+  },
+  {
+   "cat": "btp",
+   "title": "Logement neuf : les mises en chantier reculent de 9,7 % en septembre",
+   "summary": "Selon le SDES, 28 682 logements ont été mis en chantier en septembre, soit 9,7 % de moins qu'en août. Les permis de construire progressent de 1,2 %. Sur douze mois, 318 419 logements ont été lancés, 5,1 % de moins que la moyenne des cinq années précédentes. Le projet de loi logement arrive à l'Assemblée le 17 novembre.",
+   "why": "Le logement neuf reste loin de l'objectif de 400 000 logements par an. Cela pèse sur le carnet de commandes du bâtiment et des réseaux.",
+   "sources": [
+    {
+     "name": "MySweetImmo",
+     "url": "https://www.mysweetimmo.com/2026/10/29/logement-neuf-les-mises-en-chantier-chutent-de-pres-de-10-en-septembre/"
+    },
+    {
+     "name": "Batiweb",
+     "url": "https://www.batiweb.com/actualites/construction/permis-construire-mises-en-chantier-septembre-2026-49512"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "title": "IA : les valeurs technologiques plongent à Wall Street",
+   "summary": "Nvidia a perdu 9,3 % et le Nasdaq environ 5,5 % jeudi. Les investisseurs craignent un encadrement plus strict de l'IA après la victoire démocrate au Congrès. Ils doutent aussi du rythme de construction des centres de données et de leur rentabilité.",
+   "why": "La hausse des marchés reposait en grande partie sur l'IA. Un retournement touche aussi les fournisseurs d'énergie et d'équipements des centres de données.",
+   "sources": [
+    {
+     "name": "L'EnerGeek",
+     "url": "https://lenergeek.com/2026/11/06/chute-actions-ia-centres-donnees-electricite-novembre-2026/"
+    },
+    {
+     "name": "Economie Matin",
+     "url": "https://www.economiematin.fr/nasdaq-chute-5-pourcent-ia-semi-conducteurs-5-novembre-2026"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "title": "Mistral AI rachète SkipLabs, sa cinquième acquisition de l'année",
+   "summary": "La start-up française d'IA s'offre SkipLabs, spécialiste de la génération de code par IA, fondée par Julien Verlaguet, ancien ingénieur de Meta. Le montant n'est pas communiqué. Mistral a levé 3 milliards d'euros en septembre, pour une valorisation de 21 milliards.",
+   "why": "Mistral reste le principal champion européen de l'IA. Il consolide son offre face aux géants américains.",
+   "sources": [
+    {
+     "name": "Maddyness",
+     "url": "https://www.maddyness.com/2026/11/05/mistral-ai-soffre-une-cinquieme-acquisition-depuis-le-debut-de-lannee/"
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "À combien la Banque d'Angleterre a-t-elle fixé son taux directeur le 5 novembre ?",
+   "options": [
+    "3,50 %",
+    "3,75 %",
+    "4,00 %",
+    "4,25 %"
+   ],
+   "answer": 2,
+   "explain": "La BoE a relevé son taux de 0,25 point à 4 %, sa première hausse depuis août 2023."
+  },
+  {
+   "q": "Quel a été le résultat du vote sur la partie recettes du budget 2027 à l'Assemblée ?",
+   "options": [
+    "Rejet par 458 voix contre 0",
+    "Adoption par 289 voix contre 170",
+    "Rejet par 312 voix contre 146",
+    "Adoption par 301 voix contre 157"
+   ],
+   "answer": 0,
+   "explain": "Les députés ont rejeté le texte par 458 voix contre, aucune pour et 2 abstentions."
+  },
+  {
+   "q": "Quelle filiale de Bouygues a vu son chiffre d'affaires reculer de 3 % sur neuf mois ?",
+   "options": [
+    "Bouygues Construction",
+    "Colas",
+    "Bouygues Telecom",
+    "Bouygues Immobilier"
+   ],
+   "answer": 1,
+   "explain": "Colas recule de 3 % à 11,5 milliards d'euros, quand Bouygues Construction progresse de 7 %."
+  }
+ ]
+}
