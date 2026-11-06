@@ -1076,6 +1076,15 @@ label.btn{display:inline-flex;align-items:center;justify-content:center;cursor:p
 .edtt{display:flex;flex-direction:column;font-size:14px;font-weight:700;min-width:44px}.edtt small{font-weight:500;color:var(--muted)}
 .edtb{min-width:0;display:flex;flex-direction:column;gap:2px}.edtb b{font-size:15px;line-height:1.3}.edtb small{color:var(--muted);font-size:13px}.edtb em{font-style:normal;font-weight:700;color:var(--danger)}
 .wday li.edtw{color:var(--fg)}.wday li.edtw .mono{font-size:12px;color:var(--c-cours);min-width:38px;flex:none}.wday li.edtw.wk .mono{color:var(--c-alt)}.wday li.edtw.ex{color:var(--danger);font-weight:600}.wday li.edtw.ex .mono{color:var(--danger)}
+.seg.five{grid-template-columns:repeat(5,1fr)}.seg.five button{font-size:12.5px;padding:8px 1px}
+.hwl{list-style:none;margin:0;padding:0}.hwr{display:flex;gap:10px;align-items:flex-start;padding:12px 14px;border-top:1px solid var(--line)}.hwr:first-child{border-top:0}
+.hwr .check{flex:none;width:26px;height:26px;border-radius:50%;border:2px solid var(--line);background:none;display:grid;place-items:center;color:transparent;margin-top:2px}.hwr .check svg{width:14px;height:14px}
+.hwr.done .check{background:var(--ok);border-color:var(--ok);color:#fff}.hwr.done b{text-decoration:line-through;color:var(--muted)}
+.hwb{all:unset;cursor:pointer;display:flex;flex-direction:column;gap:3px;min-width:0;flex:1}.hwb b{font-size:15px;line-height:1.3}.hwb small{color:var(--muted);font-size:13px;display:flex;align-items:center;gap:6px;flex-wrap:wrap}.hwb small b{font-size:13px;color:var(--danger)}
+.hwr.soon .hwb small:first-of-type{color:var(--amber)}
+.hwdots{display:inline-flex;gap:3px}.hwdots i{width:7px;height:7px;border-radius:50%;background:var(--line)}.hwdots i.on{background:var(--accent)}.hwr.imp5 .hwdots i.on,.hwr.imp4 .hwdots i.on{background:var(--amber)}
+.hwdone summary{cursor:pointer;font-weight:700;padding:6px 2px;color:var(--muted)}
+section h2 .link{font-size:13px;font-weight:600;color:var(--accent);background:none;border:0;padding:0;margin-left:auto}
 .tmtx{margin:0 0 10px;padding:10px 12px;border-left:3px solid var(--accent);background:var(--surface-2);border-radius:8px;font-size:14.5px;line-height:1.5}
 .tmst{margin:8px 0 0;padding-left:0;list-style:none;display:grid;gap:6px;font-size:15px}.tmst li{padding:8px 10px;border-radius:10px;background:var(--surface-2)}.iaetot{flex:none;display:flex;flex-direction:column;align-items:center;justify-content:center;width:96px;height:96px;border-radius:50%;background:var(--accent-soft);color:var(--accent)}
 .iaetot b{font-size:30px;line-height:1}.iaetot span{font-size:12px;font-weight:700;opacity:.75}
@@ -1570,15 +1579,15 @@ view.addEventListener('click', e => {
 });
 
 function vAgenda(){
-  const seg = `<div class="seg four" role="group" aria-label="Vue">
-    ${[['jour','Jour'],['semaine','Semaine'],['objectifs','Objectifs'],['examens','Examens']].map(([k,l])=>`<button data-seg-btn="${k}" aria-pressed="${ui.seg===k}">${l}</button>`).join('')}</div>`;
+  const seg = `<div class="seg five" role="group" aria-label="Vue">
+    ${[['jour','Jour'],['semaine','Semaine'],['devoirs','Devoirs'],['objectifs','Objectifs'],['examens','Examens']].map(([k,l])=>`<button data-seg-btn="${k}" aria-pressed="${ui.seg===k}">${l}</button>`).join('')}</div>`;
   let body = '';
   if (ui.seg === 'jour'){
     const d = parse(ui.day), list = sortTasks(tasksOn(ui.day)), isToday = ui.day === todayKey();
     const rel = isToday ? "Aujourd'hui" : ui.day === key(addDays(new Date(),1)) ? 'Demain' : ui.day === key(addDays(new Date(),-1)) ? 'Hier' : fmt(d,{year:'numeric'});
     body = `<div class="daynav"><button class="icon-btn" data-day="-1" aria-label="Jour précédent">${CHEV_L}</button>
       <div class="t"><button data-act="today"><b>${fmt(d,{weekday:'long',day:'numeric',month:'long'})}</b><span>${rel}${isToday?'':' · revenir à aujourd’hui'}</span></button></div>
-      <button class="icon-btn" data-day="1" aria-label="Jour suivant">${CHEV_R}</button></div>${edtBlock(ui.day)}${edtOn(ui.day).length && list.length ? '<h2 class="tsk-h">Tâches</h2>' : ''}
+      <button class="icon-btn" data-day="1" aria-label="Jour suivant">${CHEV_R}</button></div>${edtBlock(ui.day)}${hwDayBlock(ui.day)}${(edtOn(ui.day).length || hwDayBlock(ui.day)) && list.length ? '<h2 class="tsk-h">Tâches</h2>' : ''}
       <div class="card">${list.length?`<ul class="tasks">${list.map(taskRow).join('')}</ul>`:`<div class="empty"><b>Rien de prévu</b>Appuie sur « Tâche » pour ajouter quelque chose à ce jour.</div>`}</div>`;
     const wb = weekBucket(key(monday(d))).filter(t=>!t.done);
     if (wb.length) body += `<section><h2>À caser cette semaine</h2><div class="card"><ul class="tasks">${sortTasks(wb).map(taskRow).join('')}</ul></div></section>`;
@@ -1598,10 +1607,12 @@ function vAgenda(){
       <div class="t"><button data-act="thisweek"><b>Semaine ${isoWeek(ws)}</b><span>${fmt(ws,{day:'numeric',month:'short'})} – ${fmt(we,{day:'numeric',month:'short'})} · ${pct} % fait</span></button></div>
       <button class="icon-btn" data-week="1" aria-label="Semaine suivante">${CHEV_R}</button></div>
       <div class="bar"><i style="width:${pct}%"></i></div>
-      <section><h2>Sans jour précis</h2><div class="card">${wb.length?`<ul class="tasks">${wb.map(taskRow).join('')}</ul>`:`<div class="empty">Les tâches « cette semaine » sans date apparaissent ici.</div>`}</div></section>
+      ${hwWeekBlock(ws)}<section><h2>Sans jour précis</h2><div class="card">${wb.length?`<ul class="tasks">${wb.map(taskRow).join('')}</ul>`:`<div class="empty">Les tâches « cette semaine » sans date apparaissent ici.</div>`}</div></section>
       <div class="week">${rows}</div>`;
   } else if (ui.seg==='examens'){
     body = vPartiels();
+  } else if (ui.seg==='devoirs'){
+    body = vDevoirs();
   } else {
     body = `<div class="goals">${state.goals.map(goalCard).join('') || '<div class="card empty"><b>Aucun objectif</b>Appuie sur « Objectif » pour en créer un.</div>'}</div>`;
   }
@@ -6723,12 +6734,84 @@ function edtSheet(){
     s.querySelector('#edt-f').addEventListener('change', async e => { const f = e.target.files && e.target.files[0]; if (!f) return;
       let ev = []; try { ev = icsParse(await f.text()); } catch(_){}
       if (!ev.length) return toast('Aucun créneau trouvé dans ce fichier');
-      E.ev = ev; E.at = new Date().toISOString(); E.src = f.name; close(); commit(); toast(`${ev.length} créneaux importés`); setTimeout(edtSheet, 300); });
+      E.ev = ev; E.at = new Date().toISOString(); E.src = f.name; close(); commit(); setTimeout(edtAutoRun, 600); toast(`${ev.length} créneaux importés`); setTimeout(edtSheet, 300); });
     const g = s.querySelector('#edt-g'); g && g.addEventListener('click', e => { const b = e.target.closest('[data-g]'); if (!b) return; E.grp = b.dataset.g; commit(); g.querySelectorAll('button').forEach(x => x.setAttribute('aria-pressed', x===b)); });
     s.querySelectorAll('[data-ex]').forEach(b => b.addEventListener('click', () => { const x = exs[+b.dataset.ex]; close(); setTimeout(() => partielSheet(null, { title:edtShort(x.t), date:key(new Date(x.s)), deck:edtDeckFor(x.t) }), 260); }));
     const x = s.querySelector('#edt-x'); x && x.addEventListener('click', () => { if (!x.dataset.armed){ x.dataset.armed = '1'; x.textContent = 'Confirmer'; return; } E.ev = []; E.at = null; E.src = ''; close(); commit(); toast('Emploi du temps effacé'); });
   });
 }
+
+/* ---------- Contrôles de la semaine suivante, ajoutés tout seuls ---------- */
+function edtAutoExams(){
+  const E = state.edt; if (!E || !E.ev.length) return 0; E.auto = E.auto || [];
+  const ws = monday(new Date()), from = key(addDays(ws, 7)), to = key(addDays(ws, 13)); let n = 0;
+  for (const x of E.ev){ if (!edtExam(x) || !edtShow(x) || E.auto.includes(x.u)) continue;
+    const k = key(new Date(x.s)); if (k < from || k > to) continue;
+    const deck = edtDeckFor(x.t), room = /examen/i.test(x.l) ? x.l.split(' ')[0] : x.l.replace(/\s*\(\d+\)/, '').replace(/\\/g, '');
+    const dup = state.tasks.some(t => t.date === k && /^(Contrôle|Épreuve)/.test(t.title) && (deck ? t.deck === deck : t.title.includes(edtShort(x.t))));
+    if (!dup){ state.tasks.push({ id:uid(), title:`${/examen/i.test(x.l) ? 'Contrôle' : 'Épreuve'} · ${edtShort(x.t)} (${hm(x.s)}${room ? `, salle ${room}` : ''})`, date:k, cat:'cours', prio:true, done:false, deck, edtU:x.u, sub:[] }); n++; }
+    E.auto.push(x.u); }
+  return n;
+}
+function edtAutoRun(){ try { const n = edtAutoExams(); if (n){ commit(); toast(`${n} contrôle${n>1?'s':''} de la semaine prochaine ajouté${n>1?'s':''} à l’agenda`); } } catch(e){} }
+setTimeout(edtAutoRun, 1200);
+document.addEventListener('visibilitychange', () => { if (document.visibilityState === 'visible') edtAutoRun(); });
+
+/* ---------- Devoirs à échéance, visibles N semaines avant selon l’importance ---------- */
+const ensureHw = () => state.hw || (state.hw = []);
+const HW_IMP = { 1:'Peu important', 2:'Assez léger', 3:'Moyen', 4:'Important', 5:'Très important' };
+const hwIn = d => d > 1 ? `dans ${d} jours` : d === 1 ? 'demain' : 'aujourd’hui';
+const hwFrom = h => key(addDays(parse(h.due), -7 * h.imp));
+const hwOn = k => ensureHw().filter(h => !h.done && hwFrom(h) <= k && h.due >= k);
+const hwLate = () => ensureHw().filter(h => !h.done && h.due < todayKey());
+const hwDots = n => `<span class="hwdots" aria-label="Importance ${n} sur 5">${[1,2,3,4,5].map(i => `<i class="${i<=n?'on':''}"></i>`).join('')}</span>`;
+function hwRow(h, ref){
+  const d = daysUntil(h.due), dk = h.deck && deckOf(h.deck), k = ref || todayKey();
+  const when = h.done ? `Rendu${h.doneAt ? ' le ' + fmt(parse(h.doneAt),{day:'numeric',month:'short'}) : ''}` : h.due === k ? '<b>À rendre ce jour</b>' : d < 0 ? `<b>En retard de ${-d} j</b>` : `À rendre ${hwIn(d)} · ${fmt(parse(h.due),{weekday:'short',day:'numeric',month:'short'})}`;
+  return `<li class="hwr imp${h.imp} ${h.done ? 'done' : ''} ${!h.done && d <= 7 ? 'soon' : ''}" data-hw="${h.id}">
+    <button class="check" data-hw-tog="${h.id}" aria-label="${h.done ? 'Marquer à faire' : 'Marquer comme rendu'}">${ICON_CHECK}</button>
+    <button class="hwb" data-hw-edit="${h.id}"><b>${esc(h.title)}</b><small>${when}${dk ? ` · ${esc(dk.name)}` : ''}</small><small>${hwDots(h.imp)} ${HW_IMP[h.imp]}</small></button></li>`;
+}
+function hwDayBlock(k){ const l = hwOn(k).concat(k === todayKey() ? hwLate() : []).sort((a,b) => a.due.localeCompare(b.due));
+  return l.length ? `<section><h2>Devoirs en cours <button class="link" data-seg-btn="devoirs">Tout voir</button></h2><div class="card"><ul class="hwl">${l.map(h => hwRow(h, k)).join('')}</ul></div></section>` : ''; }
+function hwWeekBlock(ws){ const w0 = key(ws), w6 = key(addDays(ws, 6)), l = ensureHw().filter(h => !h.done && hwFrom(h) <= w6 && h.due >= w0).sort((a,b) => a.due.localeCompare(b.due));
+  return l.length ? `<section><h2>Devoirs en cours</h2><div class="card"><ul class="hwl">${l.map(h => hwRow(h)).join('')}</ul></div></section>` : ''; }
+function vDevoirs(){
+  const H = ensureHw(), tk = todayKey(), act = H.filter(h => !h.done && hwFrom(h) <= tk).sort((a,b) => a.due.localeCompare(b.due));
+  const later = H.filter(h => !h.done && hwFrom(h) > tk).sort((a,b) => hwFrom(a).localeCompare(hwFrom(b))), done = H.filter(h => h.done).sort((a,b) => b.due.localeCompare(a.due));
+  return `<div class="card pad hwintro"><p style="margin:0">Note un devoir dès qu’on te le donne, même pour dans 3 mois. Son <b>importance (1 à 5)</b> fixe combien de semaines avant l’échéance il apparaît dans ton agenda : 5 = 5 semaines avant, 1 = 1 semaine avant.</p></div>
+    <section><h2>En cours <span class="mono" style="color:var(--muted);font-size:13px">${act.length}</span></h2><div class="card">${act.length ? `<ul class="hwl">${act.map(h => hwRow(h)).join('')}</ul>` : '<div class="empty">Aucun devoir à travailler pour l’instant.</div>'}</div></section>
+    ${later.length ? `<section><h2>Pas encore dans l’agenda</h2><div class="card"><ul class="hwl">${later.map(h => hwRow(h).replace('</small><small>', ` · arrive dans l’agenda le ${fmt(parse(hwFrom(h)),{day:'numeric',month:'short'})}</small><small>`)).join('')}</ul></div></section>` : ''}
+    ${done.length ? `<section><details class="hwdone"><summary>Rendus (${done.length})</summary><div class="card"><ul class="hwl">${done.slice(0,30).map(h => hwRow(h)).join('')}</ul></div></details></section>` : ''}`;
+}
+function hwSheet(h){
+  ensureFc(); const isNew = !h, d = h || { title:'', due:key(addDays(new Date(), 28)), imp:3, deck:null, note:'' }; let imp = d.imp;
+  sheet(`<form id="hwf" style="display:contents"><h3>${isNew ? 'Nouveau devoir' : 'Modifier le devoir'}</h3>
+    <div class="field"><label for="hw-t">Devoir</label><input id="hw-t" required maxlength="100" value="${esc(d.title)}" placeholder="Ex. Dossier de fiscalité à rendre"></div>
+    <div class="two"><div class="field"><label for="hw-d">À rendre le</label><input type="date" id="hw-d" required value="${d.due}"></div>
+      <div class="field"><label for="hw-k">Matière</label><select id="hw-k"><option value="">Aucune</option>${state.fc.decks.map(x => `<option value="${x.id}" ${d.deck===x.id ? 'selected' : ''}>${esc(x.name)}</option>`).join('')}</select></div></div>
+    <div class="field"><span class="lab">Importance</span><div class="seg" id="hw-i" style="grid-template-columns:repeat(5,1fr)">${[1,2,3,4,5].map(n => `<button type="button" data-i="${n}">${n}</button>`).join('')}</div><p class="fine" id="hw-x"></p></div>
+    <div class="field"><label for="hw-n">Consignes <span class="fine">facultatif</span></label><textarea id="hw-n" maxlength="600" style="font-family:var(--f-body);font-size:15px;min-height:70px">${esc(d.note || '')}</textarea></div>
+    <div class="btns">${isNew ? '' : '<button type="button" class="btn danger" id="hw-del">Supprimer</button>'}<button type="button" class="btn" data-close>Annuler</button><button class="btn primary" type="submit">${isNew ? 'Ajouter' : 'Enregistrer'}</button></div></form>`, s => {
+    const dIn = s.querySelector('#hw-d'), x = s.querySelector('#hw-x');
+    const sync = () => { s.querySelectorAll('#hw-i button').forEach(b => b.setAttribute('aria-pressed', +b.dataset.i === imp));
+      const due = dIn.value; if (!due){ x.textContent = ''; return; } const fr = key(addDays(parse(due), -7*imp));
+      x.innerHTML = `${HW_IMP[imp]} : il apparaît dans ton agenda <b>${imp} semaine${imp>1?'s':''} avant</b>, ${fr <= todayKey() ? 'donc dès maintenant' : `à partir du ${fmt(parse(fr),{weekday:'long',day:'numeric',month:'long'})}`}.`; };
+    s.querySelector('#hw-i').addEventListener('click', e => { const b = e.target.closest('[data-i]'); if (b){ imp = +b.dataset.i; sync(); } });
+    dIn.addEventListener('input', sync); sync();
+    const del = s.querySelector('#hw-del'); del && del.addEventListener('click', () => { if (!del.dataset.armed){ del.dataset.armed = '1'; del.textContent = 'Confirmer ?'; return; } state.hw = state.hw.filter(y => y !== h); close(); commit(); toast('Devoir supprimé'); });
+    s.querySelector('#hwf').addEventListener('submit', e => { e.preventDefault(); const title = s.querySelector('#hw-t').value.trim(), due = dIn.value; if (!title || !due) return;
+      const o = h || { id:uid(), done:false }; Object.assign(o, { title, due, imp, deck:s.querySelector('#hw-k').value || null, note:s.querySelector('#hw-n').value.trim() });
+      if (isNew) ensureHw().push(o); close(); commit();
+      toast(isNew ? (hwFrom(o) <= todayKey() ? 'Devoir ajouté à l’agenda' : `Devoir noté · dans l’agenda à partir du ${fmt(parse(hwFrom(o)),{day:'numeric',month:'short'})}`) : 'Devoir modifié'); });
+  });
+}
+function hwTodayRow(){ const tk = todayKey(), l = hwOn(tk).concat(hwLate()); if (!l.length) return null; l.sort((a,b) => a.due.localeCompare(b.due)); const f = l[0], d = daysUntil(f.due);
+  return ['mj-hw','tasks', `Devoirs en cours · ${l.length}`, `${f.title} · ${d < 0 ? 'en retard' : d === 0 ? 'à rendre aujourd’hui' : 'à rendre ' + hwIn(d)}`, false]; }
+document.addEventListener('click', e => {
+  const t = e.target.closest('[data-hw-tog]'); if (t){ const h = ensureHw().find(x => x.id === t.dataset.hwTog); if (h){ h.done = !h.done; h.doneAt = h.done ? todayKey() : null; commit(); if (h.done) toast('Devoir rendu'); } return; }
+  const ed = e.target.closest('[data-hw-edit]'); if (ed){ const h = ensureHw().find(x => x.id === ed.dataset.hwEdit); if (h) hwSheet(h); }
+});
 
 /* ---------- Mode trajet ---------- */
 let tripEl = null;
@@ -6874,6 +6957,7 @@ function dayCard(ctx){
   const rows = [['mj-tasks','tasks','Tâches', tl.length ? (left ? `${left} à faire sur ${tl.length}` : 'Tout est fait') : 'Rien de prévu aujourd’hui', tl.length && !left],
     ['mj-cards','cards','Flashcards', due ? `${due} carte${due>1?'s':''} à réviser` : 'Révisions à jour', !due && state.fc.cards.length]];
   const er = edtTodayRow(); if (er) rows.unshift(er);
+  const hr = hwTodayRow(); if (hr) rows.splice(er ? 2 : 1, 0, hr);
   if (prof) rows.push(['mj-sport','flame','Séance du jour', D.sport.length ? `${D.sport.map(x => x.name).slice(0,2).join(', ')} · ${nf(r0(sportKcal(D)))} kcal` : 'Pas encore de séance enregistrée', D.sport.length > 0]);
   if (meals.length) rows.push(['mj-meals','heart','Repas prévus', meals.join(' · '), false]);
   if (sun && ctx !== 'h') rows.push(['mj-weigh','target','Pesée du dimanche','À jeun, au réveil', false]);
@@ -6910,6 +6994,7 @@ function v3Click(e){
   else if (a==='cloud-get') cloudGet(b);
   else if (a==='cloud-ign'){ if (CLOUD.newer) CLOUD.setCfg({ dismiss:CLOUD.newer.at }); CLOUD.newer = null; render(); CLOUD.soon(); }
   else if (a==='mj-tasks' || a==='mj-edt'){ ui.seg = 'jour'; ui.day = todayKey(); goMode('study', 'agenda'); }
+  else if (a==='mj-hw'){ ui.seg = 'devoirs'; goMode('study', 'agenda'); }
   else if (a==='mj-edt-t'){ ui.seg = 'jour'; ui.day = key(addDays(new Date(),1)); goMode('study', 'agenda'); }
   else if (a==='mj-cards'){ if (dueCards().all.length){ if (appMode !== 'study') goMode('study', 'cartes'); ui.tab = 'cartes'; startReview(null); } else { ui.fc.view = 'home'; goMode('study', 'cartes'); } }
   else if (a==='mj-sport') goMode('health', 'h-sport');
@@ -7040,7 +7125,7 @@ function render(){
   if (ui.tab==='calcul' && ui.calc.phase==='play') setTimeout(() => { const i = $('#c-ans'); i && i.focus(); }, 30);
   const fab = $('#fab');
   fab.hidden = ui.tab!=='agenda';
-  $('#fab-lbl').textContent = ui.tab==='agenda' && ui.seg==='objectifs' ? 'Objectif' : ui.tab==='agenda' && ui.seg==='examens' ? 'Examen' : 'Tâche';
+  $('#fab-lbl').textContent = ui.tab==='agenda' && ui.seg==='objectifs' ? 'Objectif' : ui.tab==='agenda' && ui.seg==='examens' ? 'Examen' : ui.tab==='agenda' && ui.seg==='devoirs' ? 'Devoir' : 'Tâche';
 }
 function commit(){ checkBadges(!badgesReady); save(); render(); SNAP.later(); CLOUD.soon(); }
 let toastT;
@@ -7091,7 +7176,7 @@ view.addEventListener('click', e => {
 });
 const dn_ = el => +el.dataset.week;
 
-$('#fab').addEventListener('click', () => (ui.tab==='agenda' && ui.seg==='objectifs') ? goalSheet() : (ui.tab==='agenda' && ui.seg==='examens') ? partielSheet() : taskSheet());
+$('#fab').addEventListener('click', () => (ui.tab==='agenda' && ui.seg==='objectifs') ? goalSheet() : (ui.tab==='agenda' && ui.seg==='examens') ? partielSheet() : (ui.tab==='agenda' && ui.seg==='devoirs') ? hwSheet() : taskSheet());
 $('#btn-search').addEventListener('click', searchSheet);
 $('#btn-help').addEventListener('click', helpSheet);
 $('#btn-params').addEventListener('click', () => { if (ui.tab!=='params'){ lastTab[appMode] = ui.tab; ui.tab = 'params'; } else ui.tab = lastTab[appMode] || (appMode==='health' ? 'h-jour' : 'today'); ui.open = null; render(); window.scrollTo(0,0); });
