@@ -1,0 +1,270 @@
+{
+ "date": "2026-11-07",
+ "generatedAt": "2026-11-07T06:36:09+01:00",
+ "lede": "Après la forte mobilisation du 5 novembre, le gouvernement réunit syndicats et patronat lundi pour parler salaires et Smic, pendant que le budget 2027 rejeté à l'Assemblée part au Sénat. Sur les marchés, la tech rebondit un peu à Wall Street après son krach de jeudi, mais Paris, Tokyo et Séoul reculent.",
+ "figures": [
+  {
+   "label": "CAC 40 (clôture du 6 nov.)",
+   "value": "8 139,00",
+   "note": "-0,81 % sur la séance, environ +2,1 % sur la semaine",
+   "source": "BFM Bourse"
+  },
+  {
+   "label": "Brent (6 nov.)",
+   "value": "97,58 $",
+   "note": "-0,7 % sur la journée, sous les 100 $",
+   "source": "BFM Bourse"
+  },
+  {
+   "label": "Emplois créés aux États-Unis (oct. 2026)",
+   "value": "165 000",
+   "note": "Environ 70 000 attendus",
+   "source": "Quartz / BLS"
+  },
+  {
+   "label": "Chômage aux États-Unis (oct. 2026)",
+   "value": "4,1 %",
+   "note": "Contre 4,2 % en septembre",
+   "source": "Quartz / BLS"
+  },
+  {
+   "label": "Taux de dépôt de la BCE (29 oct.)",
+   "value": "2,50 %",
+   "note": "Inchangé lors de la dernière réunion",
+   "source": "Euronews"
+  },
+  {
+   "label": "Déficit public 2027 selon le texte de l'Assemblée (chiffrage du 5 nov.)",
+   "value": "5,9 % du PIB",
+   "note": "Contre 5 % dans le projet initial, chiffrage de David Amiel",
+   "source": "NosParlementaires"
+  },
+  {
+   "label": "Euro / dollar (6 nov.)",
+   "value": "1,1152 $",
+   "note": "-0,7 % sur la journée",
+   "source": "BFM Bourse"
+  }
+ ],
+ "items": [
+  {
+   "cat": "politique",
+   "title": "Salaires : conférence sociale lundi à Matignon",
+   "summary": "Après la mobilisation du 5 novembre (600 000 manifestants selon les autorités, près de 1,6 million selon la CGT), Sébastien Lecornu réunit syndicats et patronat lundi 9 novembre à Matignon. Le ministre du Travail Jean-Pierre Farandou dit qu'une hausse du Smic n'est « pas tabou ». La CFDT demande 100 euros nets de plus pour le Smic, la CGT une hausse de 10 % et l'indexation des salaires sur les prix.",
+   "why": "Le niveau du Smic et des salaires pèse directement sur la masse salariale des entreprises, un poste clé en contrôle de gestion.",
+   "sources": [
+    {
+     "name": "Public Sénat",
+     "url": "https://www.publicsenat.fr/actualites/politique/manifestation-du-5-novembre-sebastien-lecornu-annonce-une-conference-sociale-avec-les-syndicats-et-le-patronat-lundi"
+    }
+   ]
+  },
+  {
+   "cat": "politique",
+   "title": "Budget 2027 : après le rejet à l'Assemblée, cap sur le Sénat",
+   "summary": "L'Assemblée a rejeté la partie recettes du budget 2027 le 4 novembre par 458 voix contre 0. Le texte initial du gouvernement part donc au Sénat, qui doit l'examiner à partir du 20 novembre et voter le 9 décembre. Le ministre des Comptes publics David Amiel chiffre le texte issu des débats à l'Assemblée à un déficit de 5,9 % du PIB, contre 5 % prévus au départ. La date limite pour le Parlement est fixée au 17 décembre.",
+   "why": "Sans budget voté à temps, l'État peut recourir à une loi spéciale, ce qui crée de l'incertitude pour les entreprises et les collectivités qui investissent.",
+   "sources": [
+    {
+     "name": "NosParlementaires",
+     "url": "https://nosparlementaires.fr/actualites/budget-2027-calendrier-assemblee-cinq-semaines"
+    },
+    {
+     "name": "Assemblée nationale",
+     "url": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/examen-de-la-premiere-partie-du-projet-de-loi-de-finances-pour-2027"
+    }
+   ]
+  },
+  {
+   "cat": "politique",
+   "title": "Présidentielle 2027 : Édouard Philippe refuse toujours la primaire",
+   "summary": "Bruno Retailleau a accepté le principe d'une primaire de la droite et du centre, comme Gabriel Attal et David Lisnard. Édouard Philippe maintient son refus. Son camp propose plutôt que les candidats les moins bien placés se retirent entre Noël et février. Le même jour, Jean-Luc Mélenchon a présenté son programme de 1 069 mesures.",
+   "why": "La question d'une candidature unique ou non à droite et au centre structure la campagne présidentielle de 2027.",
+   "sources": [
+    {
+     "name": "Public Sénat",
+     "url": "https://www.publicsenat.fr/actualites/politique/la-febrilite-est-de-leur-cote-pas-du-sien-sous-pression-du-camp-attal-et-retailleau-edouard-philippe-reste-droit-dans-ses-bottes-et-refuse-la-primaire"
+    }
+   ]
+  },
+  {
+   "cat": "economie",
+   "title": "Le CAC 40 recule vendredi mais gagne plus de 2 % sur la semaine",
+   "summary": "La Bourse de Paris a fini la séance du 6 novembre en baisse de 0,81 %, à 8 139 points, après avoir perdu jusqu'à 1,9 % en cours de journée. 35 valeurs du CAC 40 ont reculé, dont Capgemini (-2,8 %). Sur la semaine, l'indice gagne environ 2,1 %. Francfort a perdu 1,92 % et Londres 1,01 %.",
+   "why": "Les marchés européens restent sensibles à la chute des valeurs liées à l'IA aux États-Unis.",
+   "sources": [
+    {
+     "name": "BFM Bourse",
+     "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-malgre-des-chiffres-de-l-emploi-solides-et-un-sursaut-du-nasdaq-le-cac-40-finit-la-semaine-en-baisse-1173355.html"
+    },
+    {
+     "name": "Boursorama (AFP)",
+     "url": "https://www.boursorama.com/bourse/actualites/marches-mondiaux-l-europe-rattrapee-par-la-deroute-de-la-tech-aux-etats-unis-et-en-asie-19c308d313c0e282345b6655c7d7ba6e"
+    }
+   ]
+  },
+  {
+   "cat": "economie",
+   "title": "États-Unis : 165 000 emplois créés en octobre",
+   "summary": "L'économie américaine a créé 165 000 emplois en octobre, plus du double des 70 000 attendus. Le taux de chômage baisse de 4,2 % à 4,1 %. Le salaire horaire progresse de 0,4 % sur un mois et de 3,1 % sur un an. Les chiffres de septembre ont aussi été revus en hausse, à 60 000.",
+   "why": "Un marché du travail solide rend plus probable une hausse des taux de la Fed, ce qui renchérit le crédit dans le monde entier.",
+   "sources": [
+    {
+     "name": "Quartz",
+     "url": "https://fr.qz.com/economie-americaine-cree-165000-emplois-octobre-chomage-recule-110726"
+    },
+    {
+     "name": "Cercle de l'Épargne",
+     "url": "https://cercledelepargne.com/le-coin-des-epargnants-du-6-novembre-2026-doutes-sur-lia-espoir-sur-le-petrole"
+    }
+   ]
+  },
+  {
+   "cat": "economie",
+   "title": "Succession de Lagarde à la BCE : les candidatures sont closes",
+   "summary": "Les pays de la zone euro avaient jusqu'au vendredi 6 novembre pour proposer un candidat à la présidence de la BCE. Les ministres des Finances de l'Eurogroupe examinent les dossiers lundi 9 novembre. Christine Lagarde partira le 7 février 2027. L'Espagnol Pablo Hernández de Cos et le Néerlandais Klaas Knot sont cités parmi les favoris.",
+   "why": "Le futur président de la BCE pèsera sur les taux d'intérêt, donc sur le coût des emprunts des entreprises et des ménages.",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://fr.euronews.com/2026/11/03/zone-euro-les-gouvernements-designent-leurs-candidats-a-la-presidence-de-la-bce"
+    }
+   ]
+  },
+  {
+   "cat": "international",
+   "title": "Golfe : un marin tué sur un pétrolier, nouveaux navires en feu selon l'Iran",
+   "summary": "Le pétrolier Velos Sapphire, sous pavillon des Îles Marshall, a été touché jeudi par un projectile non identifié dans le Golfe, et un membre d'équipage est mort. Vendredi, les Gardiens de la révolution ont affirmé que deux pétroliers avaient pris feu après avoir heurté des mines près du détroit d'Ormuz. Les agences de sécurité maritime n'ont pas confirmé cette version.",
+   "why": "Le détroit d'Ormuz est une route majeure du pétrole : chaque incident peut faire bouger le prix du baril et donc celui des carburants.",
+   "sources": [
+    {
+     "name": "Quartz",
+     "url": "https://fr.qz.com/marin-tue-petrolier-velos-sapphire-golfe-projectile-110726"
+    },
+    {
+     "name": "Hespress (AFP)",
+     "url": "https://fr.hespress.com/495351-liran-signale-deux-navires-en-feu-dans-le-detroit-dormuz.html"
+    }
+   ]
+  },
+  {
+   "cat": "international",
+   "title": "Asie : Tokyo et Séoul chutent de près de 6 %",
+   "summary": "Vendredi, la Bourse de Tokyo a perdu 5,96 % et celle de Séoul 6,02 %, dans le sillage de la chute des valeurs technologiques à Wall Street la veille. SK Hynix et SoftBank ont perdu plus de 10 %. Wall Street a ensuite rebondi un peu vendredi, le Nasdaq gagnant 1,09 %.",
+   "why": "Les marchés asiatiques sont très exposés aux semi-conducteurs, au cœur des investissements dans l'IA.",
+   "sources": [
+    {
+     "name": "Boursorama (AFP)",
+     "url": "https://www.boursorama.com/bourse/actualites/marches-mondiaux-l-europe-rattrapee-par-la-deroute-de-la-tech-aux-etats-unis-et-en-asie-19c308d313c0e282345b6655c7d7ba6e"
+    },
+    {
+     "name": "Libnanews",
+     "url": "https://libnanews.com/marches-du-6-novembre-lemploi-resiste-la-tech-rebondit"
+    }
+   ]
+  },
+  {
+   "cat": "entreprises",
+   "title": "Bourse : TP plonge de 15 %, Air France-KLM bondit encore",
+   "summary": "TP (ex-Teleperformance) a chuté de 15,3 % vendredi après une croissance décevante et une baisse de ses objectifs pour 2026. Air France-KLM a gagné 7,1 %, porté par Barclays qui a relevé sa recommandation de deux crans. Le titre avait déjà pris 12,1 % la veille après des résultats du troisième trimestre en nette amélioration.",
+   "why": "Une révision des objectifs annuels est souvent sanctionnée plus fort en Bourse que les résultats eux-mêmes.",
+   "sources": [
+    {
+     "name": "BFM Bourse",
+     "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-malgre-des-chiffres-de-l-emploi-solides-et-un-sursaut-du-nasdaq-le-cac-40-finit-la-semaine-en-baisse-1173355.html"
+    }
+   ]
+  },
+  {
+   "cat": "btp",
+   "title": "BTP : l'aide au gazole non routier prolongée jusqu'en décembre",
+   "summary": "Un décret du 3 novembre, publié au Journal officiel le 4, reconduit l'aide au GNR pour novembre et décembre 2026. Elle vaut 20 centimes par litre, avec un plafond de 4 000 euros par entreprise et par mois. Elle vise les PME du BTP de 50 salariés au plus. La demande se fait sur impots.gouv.fr, du 1er au 31 décembre pour le mois de novembre.",
+   "why": "Le carburant des engins pèse lourd dans les coûts de chantier des travaux publics. L'aide doit être reversée si l'EBE de l'entreprise reste au moins à 98 % de celui de l'année précédente.",
+   "sources": [
+    {
+     "name": "LégiFiscal",
+     "url": "https://www.legifiscal.fr/actualites-fiscales/4721-aide-gnr-btp-dispositif-reconduit-novembre-decembre-2026.html"
+    },
+    {
+     "name": "Economie Matin",
+     "url": "https://www.economiematin.fr/aide-gnr-btp-novembre-decembre-decret-2026-1023"
+    }
+   ]
+  },
+  {
+   "cat": "btp",
+   "title": "Garantie décennale : la FNTP inquiète d'une décision du Conseil d'État",
+   "summary": "Le Conseil d'État a jugé le 16 juin 2026 qu'en cas de réception avec réserves d'un marché public, la garantie décennale ne court qu'à partir de la levée des réserves. La Fédération nationale des travaux publics s'en inquiète, surtout pour les PME. Elle demande que la date d'achèvement des travaux reste le seul point de départ et que le CCAG Travaux le prévoie clairement.",
+   "why": "Le point de départ de la garantie allonge la durée pendant laquelle une entreprise reste responsable, donc ses risques et ses provisions.",
+   "sources": [
+    {
+     "name": "FNTP",
+     "url": "https://www.fntp.fr/garantie-decennale-la-fntp-sinquiete-de-la-decision-du-conseil-detat-qui-fixe-son-point-de-depart-a-la-levee-des-reserves/"
+    }
+   ]
+  },
+  {
+   "cat": "societe",
+   "title": "200 lycées à rénover en priorité : les régions contestent la méthode",
+   "summary": "Le gouvernement a diffusé cette semaine une liste de 200 lycées à rénover en priorité, issue d'une consultation en ligne lancée en octobre. Les régions, qui ont la charge des bâtiments des lycées, critiquent la méthode et parlent d'un « TripAdvisor des lycées ».",
+   "why": "La rénovation du bâti scolaire est un gros gisement de travaux publics pour les collectivités.",
+   "sources": [
+    {
+     "name": "Public Sénat",
+     "url": "https://www.publicsenat.fr/actualites/politique/liste-des-200-etablissements-a-renover-le-gouvernement-a-invente-le-tripadvisor-des-lycees-les-regions-fustigent-la-methode-du-gouvernement"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "title": "IA : krach jeudi à Wall Street, rebond partiel vendredi",
+   "summary": "Jeudi 5 novembre, le Nasdaq a perdu 5,52 %, sa pire séance depuis avril 2025, et Nvidia 9,3 %. La crainte de nouvelles règles sur les data centers après la victoire démocrate aux élections de mi-mandat est citée comme cause. La gouverneure élue du Texas a promis un moratoire sur les nouveaux data centers. Vendredi, Nvidia a regagné 2,78 % et AMD 11 %.",
+   "why": "La question d'une bulle de l'IA conditionne des centaines de milliards d'investissements dans les data centers et l'énergie.",
+   "sources": [
+    {
+     "name": "Le Grand Continent",
+     "url": "https://legrandcontinent.eu/fr/2026/11/06/la-bulle-de-lia-est-elle-vraiment-en-train-declater/"
+    },
+    {
+     "name": "Boursorama (AFP)",
+     "url": "https://www.boursorama.com/bourse/actualites/marches-mondiaux-l-europe-rattrapee-par-la-deroute-de-la-tech-aux-etats-unis-et-en-asie-19c308d313c0e282345b6655c7d7ba6e"
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Combien d'emplois l'économie américaine a-t-elle créés en octobre ?",
+   "options": [
+    "65 000",
+    "110 000",
+    "165 000",
+    "215 000"
+   ],
+   "answer": 2,
+   "explain": "165 000 emplois ont été créés, plus du double des 70 000 attendus. Le chômage est passé à 4,1 %."
+  },
+  {
+   "q": "Quel montant l'aide GNR reconduite verse-t-elle aux PME du BTP ?",
+   "options": [
+    "20 centimes par litre",
+    "10 centimes par litre",
+    "30 centimes par litre",
+    "15 centimes par litre"
+   ],
+   "answer": 0,
+   "explain": "L'aide vaut 20 centimes par litre de gazole non routier, avec un plafond de 4 000 euros par mois."
+  },
+  {
+   "q": "Quand Sébastien Lecornu réunit-il la conférence sociale sur les salaires ?",
+   "options": [
+    "Le samedi 7 novembre",
+    "Le mardi 10 novembre",
+    "Le jeudi 12 novembre",
+    "Le lundi 9 novembre"
+   ],
+   "answer": 3,
+   "explain": "La conférence sociale réunit syndicats et patronat à Matignon lundi 9 novembre."
+  }
+ ]
+}
