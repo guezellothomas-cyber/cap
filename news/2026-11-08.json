@@ -1,0 +1,270 @@
+{
+ "date": "2026-11-08",
+ "generatedAt": "2026-11-08T06:37:20+01:00",
+ "lede": "La mobilisation sociale recule samedi avec 146 000 manifestants selon l'Intérieur, avant la conférence sociale de lundi à Matignon où le Smic à 1 500 euros net sera au centre des débats. À l'international, la Russie a lancé une attaque massive sur le réseau électrique ukrainien, à quelques jours de discussions à Abou Dhabi.",
+ "figures": [
+  {
+   "label": "Inflation en France (oct. 2026, provisoire)",
+   "value": "3,4 %",
+   "note": "Sur un an, après 3,1 % en septembre. Énergie : +24,1 %",
+   "source": "Insee"
+  },
+  {
+   "label": "PIB de la France (3e trim. 2026)",
+   "value": "-0,1 %",
+   "note": "Après 0,0 % au 2e trimestre",
+   "source": "Insee"
+  },
+  {
+   "label": "Smic mensuel net (nov. 2026)",
+   "value": "1 477,93 €",
+   "note": "Le gouvernement évoque un passage au-dessus de 1 500 €",
+   "source": "Quartz"
+  },
+  {
+   "label": "CAC 40 (clôture du 6 nov.)",
+   "value": "8 139,00",
+   "note": "-0,81 % sur la séance",
+   "source": "BFM Bourse"
+  },
+  {
+   "label": "Nasdaq (clôture du 6 nov.)",
+   "value": "24 579,42",
+   "note": "+1,09 % après le krach de jeudi",
+   "source": "Boursorama"
+  },
+  {
+   "label": "Brent (6 nov., soir)",
+   "value": "97,88 $",
+   "note": "-1,45 % sur la journée",
+   "source": "Boursorama"
+  },
+  {
+   "label": "Taux de dépôt de la BCE (29 oct.)",
+   "value": "2,50 %",
+   "note": "Inchangé lors de la dernière réunion",
+   "source": "Euronews"
+  }
+ ],
+ "items": [
+  {
+   "cat": "politique",
+   "title": "Mobilisation du 7 novembre : 146 000 manifestants selon l'Intérieur",
+   "summary": "Samedi, 146 000 personnes ont défilé en France selon le ministère de l'Intérieur, dont 46 000 à Paris, lors de 141 rassemblements. L'intersyndicale de la jeunesse en compte 250 000. Au moins 360 personnes ont été interpellées et des heurts ont eu lieu à Toulouse, Grenoble, Marseille, Nantes, Lyon ou Bordeaux. La mobilisation baisse : le ministère comptait 575 000 manifestants le 5 novembre.",
+   "why": "La pression de la rue reste forte avant la conférence sociale de lundi, mais le recul du nombre de manifestants pèse sur le rapport de force.",
+   "sources": [
+    {
+     "name": "Entrevue",
+     "url": "https://entrevue.fr/manifestations-et-conflits-sociaux/manifestations-du-7-novembre-seulement-146-000-participants-360/"
+    },
+    {
+     "name": "Orange Actu / L'Express",
+     "url": "https://actu.orange.fr/france/mobilisation-du-7-novembre-a-quoi-faut-il-s-attendre-pour-l-acte-de-iv-des-manifestations-l-express-via-6medias-CNT000002tBu0Y.html"
+    }
+   ]
+  },
+  {
+   "cat": "politique",
+   "title": "Conférence sociale lundi : le Smic au cœur des discussions",
+   "summary": "Sébastien Lecornu réunit syndicats et patronat lundi 9 novembre à Matignon. Le ministre du Travail Jean-Pierre Farandou juge important de faire passer le Smic au-dessus de 1 500 euros net, contre 1 477,93 euros aujourd'hui. La CFDT demande 100 euros de plus, la CGT environ 150 euros et FO un Smic à 2 000 euros. Le patronat refuse tout coup de pouce.",
+   "why": "Une hausse du Smic touche directement la masse salariale des entreprises, en particulier dans le BTP où beaucoup de salariés sont proches du salaire minimum.",
+   "sources": [
+    {
+     "name": "Quartz",
+     "url": "https://fr.qz.com/sebastien-lecornu-reunit-syndicats-patronat-matignon-smic-110726"
+    },
+    {
+     "name": "LCP",
+     "url": "https://lcp.fr/actualites/salaires-pouvoir-d-achat-que-peut-on-attendre-de-la-conference-sociale-du-lundi-9"
+    }
+   ]
+  },
+  {
+   "cat": "politique",
+   "title": "Budget 2027 : le calendrier jusqu'à décembre",
+   "summary": "Après le rejet du budget à l'Assemblée, le Sénat examine d'abord le budget de la Sécurité sociale du 12 au 17 novembre, avec un vote le 18. Le projet de loi de finances est débattu en séance du 20 novembre au 8 décembre, avec un vote solennel le 9 décembre. Une commission mixte paritaire est prévue mi-décembre. Le gouvernement pourrait ensuite recourir au 49.3, au risque d'une motion de censure.",
+   "why": "Sans budget voté à temps, l'État devra passer par une loi spéciale ou des ordonnances, ce qui crée de l'incertitude pour les entreprises et les collectivités.",
+   "sources": [
+    {
+     "name": "Public Sénat",
+     "url": "https://www.publicsenat.fr/actualites/politique/budget-2027-calendrier-49-3-ordonnancesquelles-sont-les-echeances-a-venir-et-les-scenarios-possibles"
+    }
+   ]
+  },
+  {
+   "cat": "economie",
+   "title": "BCE : Klaas Knot et Pablo Hernández de Cos candidats à la succession de Lagarde",
+   "summary": "Le président de l'Eurogroupe, Kyriakos Pierrakakis, a annoncé vendredi les deux seuls candidats proposés par les pays de la zone euro. Il s'agit du Néerlandais Klaas Knot et de l'Espagnol Pablo Hernández de Cos, anciens gouverneurs des banques centrales de leur pays. Christine Lagarde a annoncé un départ anticipé, effectif en février.",
+   "why": "Le futur président de la BCE pèsera sur les taux d'intérêt, donc sur le coût du crédit pour les entreprises et les ménages.",
+   "sources": [
+    {
+     "name": "La Libre (AFP)",
+     "url": "https://www.lalibre.be/economie/conjoncture/2026/11/06/qui-succedera-a-christine-lagarde-a-la-bce-les-deux-candidats-sont-connus-6MIZ2ZVZCBBB3E5Y5WNUC2VMJ4/"
+    }
+   ]
+  },
+  {
+   "cat": "economie",
+   "title": "Wall Street : le Nasdaq rebondit après le krach de la tech",
+   "summary": "Vendredi 6 novembre, le Nasdaq a gagné 1,09 % à 24 579 points, porté par le rebond des valeurs technologiques. Le S&P 500 a pris 0,31 % et le Dow Jones a perdu 0,46 %. L'indice des semi-conducteurs a grimpé de 4,2 %, avec AMD et Nvidia en hausse. Le Brent a reculé autour de 98 dollars.",
+   "why": "Le rebond reste partiel après la pire séance du Nasdaq depuis plus d'un an : les marchés restent nerveux sur l'IA et les data centers.",
+   "sources": [
+    {
+     "name": "Boursorama",
+     "url": "https://www.boursorama.com/bourse/actualites/wall-street-termine-dans-le-desordre-rebond-du-nasdaq-cf309a06c5d44f52937e5fb530ab498c"
+    }
+   ]
+  },
+  {
+   "cat": "economie",
+   "title": "Inflation à 3,4 % et PIB en recul : le contexte du débat sur les salaires",
+   "summary": "Selon l'Insee, les prix ont augmenté de 3,4 % sur un an en octobre, après 3,1 % en septembre. L'énergie s'envole de 24,1 % sur un an, tirée par le gaz et le pétrole. Dans le même temps, le PIB a reculé de 0,1 % au troisième trimestre, pénalisé par les exportations. Le chiffre définitif de l'inflation d'octobre sera publié le 13 novembre.",
+   "why": "Des prix qui montent et une croissance à l'arrêt : c'est ce mélange qui nourrit la demande de hausse des salaires et limite les marges de l'État.",
+   "sources": [
+    {
+     "name": "Insee, inflation octobre 2026",
+     "url": "https://www.insee.fr/fr/statistiques/fichier/version-html/9107965/IR266_IPCprov_oct26.pdf"
+    },
+    {
+     "name": "Insee, PIB 3e trimestre 2026",
+     "url": "https://www.insee.fr/fr/statistiques/fichier/version-html/9111036/IR263_CNT1e_%203T2026.pdf"
+    }
+   ]
+  },
+  {
+   "cat": "international",
+   "title": "Ukraine : frappes russes massives sur le réseau énergétique",
+   "summary": "Dans la nuit de vendredi à samedi, la Russie a lancé 36 missiles balistiques et 172 drones sur l'Ukraine, selon Volodymyr Zelensky. Seuls quatre missiles ont été neutralisés. Au moins neuf personnes sont blessées et cinq régions, dont Kiev, ont subi des coupures de courant. À Kiev, le pont Nord a été touché et le chauffage perturbé.",
+   "why": "Ces frappes arrivent juste avant des discussions entre Kiev, Washington et Moscou prévues les 10 et 11 novembre à Abou Dhabi.",
+   "sources": [
+    {
+     "name": "La Libre (AFP)",
+     "url": "https://www.lalibre.be/dernieres-depeches/2026/11/07/lukraine-frappee-par-des-bombardements-nocturnes-russes-massifs-contre-ses-infrastructures-energetiques-4AXJZE35VJEDNKAEHRU7WHC7ZY/"
+    },
+    {
+     "name": "Boursorama (AFP)",
+     "url": "https://www.boursorama.com/actualite-economique/actualites/l-ukraine-touchee-par-des-frappes-russes-massives-contre-le-reseau-energetique-a35b0fe31659cee931ff33b1fb02fe6e"
+    },
+    {
+     "name": "Quartz",
+     "url": "https://fr.qz.com/frappes-russes-endommagent-des-sites-nergtiques-en-ukraine-et-blessent-neuf-personnes-110726"
+    }
+   ]
+  },
+  {
+   "cat": "international",
+   "title": "Détroit d'Ormuz : l'Iran fait état de pétroliers en feu",
+   "summary": "Les forces armées iraniennes affirment que cinq pétroliers et un remorqueur ont pris feu près du détroit d'Ormuz, plusieurs après avoir heurté des mines. Les agences de sécurité maritime n'ont pas confirmé ces incidents. Washington dit avoir en grande partie déminé le détroit. La guerre a commencé fin février avec des frappes israélo-américaines sur l'Iran.",
+   "why": "Environ un cinquième du pétrole mondial passe par Ormuz : chaque incident pèse sur le prix du baril, donc sur le carburant des chantiers.",
+   "sources": [
+    {
+     "name": "Connaissance des Énergies (AFP)",
+     "url": "https://www.connaissancedesenergies.org/afp/cinq-petroliers-ont-pris-feu-dans-le-detroit-dormuz-selon-liran-261105"
+    },
+    {
+     "name": "Marine & Océans",
+     "url": "https://marine-oceans.com/actualites/cinq-petroliers-ont-pris-feu-dans-le-detroit-dormuz-selon-liran/"
+    }
+   ]
+  },
+  {
+   "cat": "entreprises",
+   "title": "Bouygues : la construction soutient la rentabilité, le résultat net chute",
+   "summary": "Bouygues a publié le 5 novembre ses résultats des neuf premiers mois de 2026. Le résultat opérationnel courant progresse grâce aux activités énergie et construction. En revanche, le résultat net part du groupe est plus que divisé, à cause d'une dépréciation sur TF1.",
+   "why": "Bouygues est un concurrent direct de NGE : la bonne tenue de sa branche construction donne une idée de la santé du marché.",
+   "sources": [
+    {
+     "name": "Batiactu",
+     "url": "https://www.batiactu.com/edito/bouygues-un-resultat-net-part-groupe-plus-que-divise-75803.php"
+    }
+   ]
+  },
+  {
+   "cat": "btp",
+   "title": "LGV Bordeaux-Toulouse : SNCF Réseau lance les appels d'offres",
+   "summary": "SNCF Réseau a annoncé l'ouverture prochaine d'appels à candidatures pour la future ligne à grande vitesse Bordeaux-Toulouse. Il s'agit de marchés de conception-réalisation, où une même équipe conçoit et construit l'ouvrage.",
+   "why": "C'est l'un des plus gros chantiers de travaux publics à venir en France, un marché que visent les majors comme les entreprises de taille intermédiaire du secteur.",
+   "sources": [
+    {
+     "name": "Batiactu",
+     "url": "https://www.batiactu.com/edito/ligne-nouvelle-sud-ouest-un-appel-offres-conception-75806.php"
+    }
+   ]
+  },
+  {
+   "cat": "btp",
+   "title": "Coût des matériaux : une mission propose un préavis avant les hausses",
+   "summary": "Une mission flash de l'Assemblée sur les coûts de construction propose d'encadrer les hausses de prix des matériaux et de les rendre plus transparentes. Le député Éric Michoux, co-rapporteur, veut un préavis minimal en cas de forte augmentation.",
+   "why": "Les hausses brutales de prix des matériaux font déraper le budget des chantiers : un préavis aiderait le contrôle de gestion à anticiper.",
+   "sources": [
+    {
+     "name": "Batiactu",
+     "url": "https://www.batiactu.com/edito/couts-materiaux-construction-bientot-un-preavis-avant-75792.php"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "title": "OpenAI réduit sa levée de fonds : 11 milliards de dollars réunis",
+   "summary": "OpenAI a réuni 11 milliards de dollars pour une valorisation de 1 250 milliards, selon le Wall Street Journal. L'objectif a été ramené de 30 à environ 20 milliards, et la valorisation visée de 1 400 à 1 250 milliards. Plusieurs investisseurs ont réduit leurs engagements dans un contexte de repli des valeurs de l'IA.",
+   "why": "Même le leader de l'IA générative peine à lever autant que prévu : signe que les investisseurs deviennent plus prudents sur le secteur.",
+   "sources": [
+    {
+     "name": "AI Weekly",
+     "url": "https://aiweekly.co/fr/alerts/openai-ramne-son-tour-de-table-20-md-pour-1-250-md-et-na-runi-que-11-md-sur-30"
+    },
+    {
+     "name": "Brief IA",
+     "url": "https://www.briefia.fr/brief/2026-11-07"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "title": "Data centers : le débat américain arrive en France",
+   "summary": "Après les élections de mi-mandat, gagnées par des démocrates critiques envers l'essor des data centers, les valeurs liées à l'IA et aux data centers ont chuté en Bourse. Plusieurs acteurs français s'interrogent sur les conséquences pour le marché en France.",
+   "why": "Les data centers sont un relais de croissance pour le BTP et l'énergie : un ralentissement des projets toucherait aussi les entreprises de travaux.",
+   "sources": [
+    {
+     "name": "Batiactu",
+     "url": "https://www.batiactu.com/edito/debats-americains-sur-data-centers-s-invitent-dans-75811.php"
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Combien de missiles balistiques la Russie a-t-elle tirés sur l'Ukraine dans la nuit du 6 au 7 novembre, selon Zelensky ?",
+   "options": [
+    "24 missiles",
+    "48 missiles",
+    "36 missiles",
+    "52 missiles"
+   ],
+   "answer": 2,
+   "explain": "Volodymyr Zelensky a parlé de 36 missiles balistiques et 172 drones. Seuls quatre missiles ont été neutralisés."
+  },
+  {
+   "q": "Qui sont les deux candidats à la présidence de la BCE ?",
+   "options": [
+    "Joachim Nagel et Fabio Panetta",
+    "Klaas Knot et Pablo Hernández de Cos",
+    "Isabel Schnabel et Philip Lane",
+    "Pierre Wunsch et Mário Centeno"
+   ],
+   "answer": 1,
+   "explain": "L'Eurogroupe a annoncé vendredi les candidatures du Néerlandais Klaas Knot et de l'Espagnol Pablo Hernández de Cos."
+  },
+  {
+   "q": "Combien de manifestants le ministère de l'Intérieur a-t-il comptés en France le samedi 7 novembre ?",
+   "options": [
+    "250 000",
+    "575 000",
+    "320 000",
+    "146 000"
+   ],
+   "answer": 3,
+   "explain": "Le ministère a compté 146 000 manifestants, contre 250 000 selon l'intersyndicale de la jeunesse. Il en comptait 575 000 le 5 novembre."
+  }
+ ]
+}
