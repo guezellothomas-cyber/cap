@@ -1,0 +1,282 @@
+{
+ "date": "2026-11-09",
+ "generatedAt": "2026-11-09T06:32:57+01:00",
+ "lede": "Sébastien Lecornu réunit ce lundi syndicats et patronat à Matignon pour une conférence sociale centrée sur les salaires et le Smic. À l'international, l'Iran dit que les tractations avec Washington sont à l'arrêt après la victoire des démocrates aux midterms, tandis que Russes, Ukrainiens et Américains se retrouvent mardi à Abou Dhabi.",
+ "figures": [
+  {
+   "label": "Inflation en France (oct. 2026, provisoire)",
+   "value": "3,4 %",
+   "note": "Sur un an, après 3,1 % en septembre",
+   "source": "Insee"
+  },
+  {
+   "label": "PIB de la France (3e trim. 2026)",
+   "value": "-0,1 %",
+   "note": "Après 0,0 % au 2e trimestre",
+   "source": "Insee"
+  },
+  {
+   "label": "CAC 40 (clôture du 6 nov.)",
+   "value": "8 139,00",
+   "note": "-0,81 % sur la séance, +2,3 % sur la semaine",
+   "source": "Trading Economics"
+  },
+  {
+   "label": "Brent (6 nov.)",
+   "value": "98,32 $",
+   "note": "Environ -13 % sur la semaine, plus forte baisse depuis mars 2020",
+   "source": "Trading Economics"
+  },
+  {
+   "label": "Taux de dépôt de la BCE (29 oct.)",
+   "value": "2,50 %",
+   "note": "Inchangé lors de la dernière réunion",
+   "source": "Euronews"
+  },
+  {
+   "label": "Smic mensuel net (nov. 2026)",
+   "value": "1 477,93 €",
+   "note": "Le ministre du Travail veut dépasser 1 500 €",
+   "source": "Entrevue / BFMTV"
+  },
+  {
+   "label": "Part des voitures électriques (oct. 2026)",
+   "value": "41 %",
+   "note": "Des immatriculations neuves, contre 24 % un an plus tôt",
+   "source": "AAA Data"
+  }
+ ],
+ "items": [
+  {
+   "cat": "politique",
+   "title": "Conférence sociale à Matignon : le Smic au centre",
+   "summary": "Le Premier ministre Sébastien Lecornu reçoit ce lundi syndicats et organisations patronales pour parler des salaires. Le ministre du Travail Jean-Pierre Farandou veut porter le Smic au-dessus de 1 500 euros nets, contre 1 477,93 euros aujourd'hui, avec une hausse possible dès le 1er décembre. La CFDT demande 100 euros nets de plus par mois, la CGT une hausse de 10 %. Le patronat alerte sur le coût pour les petites entreprises.",
+   "why": "Ce serait le premier coup de pouce au Smic depuis 2012. Une hausse se répercute sur les grilles salariales et la masse salariale des entreprises.",
+   "sources": [
+    {
+     "name": "Entrevue (d'après BFMTV)",
+     "url": "https://entrevue.fr/politique/smic-pouvoir-dachat-lecornu-convoque-les-syndicats-a-matignon/"
+    },
+    {
+     "name": "Presse Évasion (revue de presse)",
+     "url": "https://www.presse-evasion.fr/article/revue-presse-08-11-2026"
+    }
+   ]
+  },
+  {
+   "cat": "politique",
+   "title": "Budget 2027 : après le rejet à l'Assemblée, place au Sénat",
+   "summary": "Le 4 novembre, les députés ont rejeté la partie recettes du projet de loi de finances 2027 par 458 voix contre et 2 abstentions. L'Assemblée n'examine donc pas les dépenses et le Sénat reçoit la version initiale du gouvernement. L'examen au Sénat est prévu en décembre. Le délai constitutionnel de 70 jours court jusqu'au 17 décembre.",
+   "why": "Sans compromis, le gouvernement pourrait recourir au 49.3, avec un risque de censure, ou aux ordonnances.",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://fr.euronews.com/2026/11/05/budget-2027-lassemblee-nationale-rejette-le-texte-a-lunanimite"
+    },
+    {
+     "name": "LCP",
+     "url": "https://lcp.fr/dossiers/budget-2027-440523"
+    }
+   ]
+  },
+  {
+   "cat": "economie",
+   "title": "Voitures neuves : l'électrique atteint 41 % des ventes en octobre",
+   "summary": "En octobre, 149 340 voitures neuves ont été immatriculées en France, soit 7 % de plus qu'un an plus tôt. Les électriques représentent 41 % du marché, contre 24 % en octobre 2025. L'essence recule de 44 % et le diesel de 65 %. La Twingo électrique et la Renault 5 sont en tête.",
+   "why": "La bascule vers l'électrique s'accélère et rebat les cartes pour les constructeurs, les assureurs et les gestionnaires de flottes.",
+   "sources": [
+    {
+     "name": "Motor1 (données AAA Data)",
+     "url": "https://fr.motor1.com/news/814353/voiture-electrique-41-pour-cent-ventes-france-octobre-2026/"
+    },
+    {
+     "name": "Journal de l'Automobile",
+     "url": "https://journalauto.com/constructeurs/le-marche-automobile-francais-progresse-de-7-en-octobre-2026/"
+    }
+   ]
+  },
+  {
+   "cat": "economie",
+   "title": "Pétrole : le Brent sous les 100 dollars après une semaine de forte baisse",
+   "summary": "Le Brent a fini la semaine vers 98 dollars le baril le 6 novembre. Il a perdu environ 13 % en une semaine, sa plus forte baisse depuis mars 2020, sur l'espoir d'un règlement entre les États-Unis et l'Iran. Le CAC 40 a clôturé à 8 139 points vendredi, en hausse de 2,3 % sur la semaine.",
+   "why": "Le prix du pétrole pèse sur l'inflation, les carburants et les coûts des chantiers. Son évolution dépend désormais des négociations sur Ormuz.",
+   "sources": [
+    {
+     "name": "Trading Economics (Brent)",
+     "url": "https://fr.tradingeconomics.com/commodity/brent-crude-oil"
+    },
+    {
+     "name": "Trading Economics (CAC 40)",
+     "url": "https://fr.tradingeconomics.com/france/stock-market"
+    }
+   ]
+  },
+  {
+   "cat": "economie",
+   "title": "La Banque d'Angleterre relève son taux à 4 %",
+   "summary": "Le 5 novembre, la Banque d'Angleterre a relevé son taux directeur de 0,25 point, à 4 %, par 8 voix contre 1. L'inflation britannique était de 3,5 % en septembre et pourrait approcher 5 % à mi-2027. Dans son rapport, elle estime que l'IA n'a encore qu'un effet modeste sur la productivité.",
+   "why": "Cette hausse contraste avec la BCE, qui a laissé ses taux inchangés fin octobre. Elle montre que la poussée d'inflation liée à l'énergie inquiète en Europe.",
+   "sources": [
+    {
+     "name": "Actu.ai",
+     "url": "https://www.actu.ai/banque-angleterre-ia-productivite-modeste-croissance-pib-emploi-80105.html"
+    }
+   ]
+  },
+  {
+   "cat": "international",
+   "title": "Iran : les tractations avec Washington à l'arrêt après les midterms",
+   "summary": "Le chef de la diplomatie iranienne Abbas Araghchi a dit dimanche que les négociations sont à l'arrêt depuis quelques jours, à cause du « choc » des élections américaines. Les démocrates ont remporté le 3 novembre la Chambre et le Sénat. Donald Trump juge « très improbable » une reprise de la guerre et reconnaît que le conflit a pesé sur la défaite de son camp. Le Qatar, médiateur, assure que Washington veut toujours une solution.",
+   "why": "La réouverture du détroit d'Ormuz conditionne le prix du pétrole et une partie de l'inflation en Europe.",
+   "sources": [
+    {
+     "name": "DH (Belga/AP)",
+     "url": "https://www.dhnet.be/actu/monde/2026/11/08/iran-les-negociations-au-point-mort-apres-le-revers-des-republicains-aux-midterms-trump-juge-une-reprise-de-la-guerre-tres-improbable-DMUNL4DPJ5EVFBUL5KTOYXSLNU/"
+    },
+    {
+     "name": "Quartz (AFP)",
+     "url": "https://fr.qz.com/iran-araghchi-tractations-arret-midterms-ormuz-110826"
+    },
+    {
+     "name": "Le Club des Juristes",
+     "url": "https://www.leclubdesjuristes.com/en-bref/etats-unis-resultats-des-midterms-2026-18242/"
+    }
+   ]
+  },
+  {
+   "cat": "international",
+   "title": "Ukraine : pourparlers à trois mardi à Abou Dhabi",
+   "summary": "Vladimir Poutine a confirmé de nouveaux pourparlers entre Moscou, Washington et Kyiv, prévus mardi 10 novembre à Abou Dhabi. La délégation russe sera menée par Vladimir Medinsky. Steve Witkoff et Jared Kushner représenteront les États-Unis. C'est le troisième round de l'année, après deux rounds sans accord en janvier et février.",
+   "why": "Le principal blocage reste territorial : Moscou exige que Kyiv lui cède le Donbass, ce que l'Ukraine refuse.",
+   "sources": [
+    {
+     "name": "La Nouvelle Tribune",
+     "url": "https://lanouvelletribune.info/2026/11/ukraine-poutine-procede-aux-derniers-reglages-avant-les-negociations-americaines-dabou-dhabi/"
+    },
+    {
+     "name": "CiberCuba",
+     "url": "https://fr.cibercuba.com/noticias/2026-11-03-u1-e207888-s27061-nid344715-rusia-ucrania-negociaran-proxima-semana-abu-dabi"
+    }
+   ]
+  },
+  {
+   "cat": "international",
+   "title": "Pologne : enquête terroriste après une fusillade à Cracovie",
+   "summary": "Samedi, un jeune homme a tué six personnes et en a blessé quinze à Cracovie. Il est décrit comme fasciné par l'extrême droite. Il est aussi soupçonné d'avoir tué ses parents et sa sœur, ce qui porterait le bilan à neuf morts. Le parquet a ouvert dimanche une enquête pour acte terroriste.",
+   "why": "C'est l'une des attaques les plus meurtrières en Pologne depuis des années. Elle relance le débat européen sur la radicalisation.",
+   "sources": [
+    {
+     "name": "Orange Actu / L'Express",
+     "url": "https://actu.orange.fr/france/les-trois-infos-a-retenir-du-dimanche-8-novembre-l-express-via-6medias-CNT000002tCspZ.html"
+    }
+   ]
+  },
+  {
+   "cat": "entreprises",
+   "title": "Résultats de la semaine : Eiffage, Siemens et Allianz jeudi",
+   "summary": "La saison des résultats ralentit mais reste chargée. UniCredit publie lundi, Infineon et Vodafone mardi, Siemens Energy et E.ON mercredi. Jeudi 12 novembre, Eiffage donne son point d'activité, comme Siemens, Allianz et l'espagnol ACS.",
+   "why": "Les chiffres d'Eiffage et d'ACS donneront le pouls du BTP européen, après les résultats de Bouygues la semaine dernière.",
+   "sources": [
+    {
+     "name": "Boursorama / Zonebourse",
+     "url": "https://www.boursorama.com/bourse/actualites-amp/agenda-zonebourse-des-resultats-de-societes-semaine-du-9-au-13-novembre-2026-ba0304cded37bde0e1cf62cb06224a38"
+    },
+    {
+     "name": "Zonebourse",
+     "url": "https://www.zonebourse.com/actualite-bourse/agenda-des-resultats-de-la-semaine-softbank-coreweave-nebiusa-l-ia-veut-se-rassurer-ce785fd2d880fe23"
+    }
+   ]
+  },
+  {
+   "cat": "btp",
+   "title": "Aide au GNR : prolongée pour novembre et décembre",
+   "summary": "Un décret du 3 novembre prolonge l'aide carburant pour les entreprises du BTP qui utilisent du gazole non routier. Elle vaut 0,20 euro par litre, avec un plafond de 4 000 euros par entreprise et par mois. Elle vise les entreprises de 50 salariés au plus (terrassement, démolition, maçonnerie...). Il faut une demande par mois sur impots.gouv.fr : les factures d'octobre se déclarent jusqu'au 30 novembre.",
+   "why": "Avec un pétrole cher, le carburant pèse lourd dans les coûts des chantiers. L'aide peut être à rembourser si l'excédent brut d'exploitation se maintient.",
+   "sources": [
+    {
+     "name": "TPE Actu",
+     "url": "https://tpeactu.fr/2026/11/08/aides-carburant-agriculteurs-pecheurs-btp-decembre-2026"
+    },
+    {
+     "name": "Revue Fiduciaire",
+     "url": "https://revue-fiduciaire.com/actualite/article/entreprises-de-travaux-publics-l-aide-carburant-des-mois-de-novembre-et-decembre-2026"
+    }
+   ]
+  },
+  {
+   "cat": "btp",
+   "title": "Logement neuf : les mises en chantier reculent de 9,7 % en septembre",
+   "summary": "En septembre, 28 682 logements ont été mis en chantier, soit 9,7 % de moins qu'en août. Le collectif recule de 11 %. Les permis de construire progressent légèrement, à 31 428 logements (+1,2 %). Sur neuf mois, les mises en chantier restent 25 % au-dessus de la moyenne de 2025.",
+   "why": "Après des mois de reprise, ce recul rappelle la fragilité du logement neuf, un débouché clé pour le bâtiment.",
+   "sources": [
+    {
+     "name": "MySweetImmo (données SDES)",
+     "url": "https://www.mysweetimmo.com/2026/10/29/logement-neuf-les-mises-en-chantier-chutent-de-pres-de-10-en-septembre/"
+    },
+    {
+     "name": "Batiactu",
+     "url": "https://www.batiactu.com/edito/construction-mises-chantier-logement-ont-plonge-septembre-75727.php"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "title": "Mistral AI lance des agents pour les entreprises",
+   "summary": "Mistral AI a présenté le 5 novembre une nouvelle version de Mistral Studio. Elle permet de déployer des agents et des workflows dans le cloud ou sur les serveurs de l'entreprise. Elle s'appuie sur Mistral Large 4. BNP Paribas, CMA CGM, Capgemini et Accenture l'utilisent déjà.",
+   "why": "Le champion français de l'IA mise sur l'hébergement souverain pour séduire les grands groupes européens.",
+   "sources": [
+    {
+     "name": "Actu.ai",
+     "url": "https://www.actu.ai/mistral-studio-agents-geres-workflows-apps-entreprises-80104.html"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "title": "Cybersécurité : des agents d'IA mènent seuls des attaques",
+   "summary": "Selon Check Point Research, des pirates ont détourné ARTEX, un outil chinois de test d'intrusion basé sur des agents d'IA. En octobre, ces agents ont volé plus de 300 certificats Apple et 190 000 identifiants de jeux vidéo. Chaque campagne a coûté quelques centaines de dollars en calcul.",
+   "why": "L'IA abaisse le coût des cyberattaques. Les entreprises doivent renforcer leurs mots de passe et leurs accès.",
+   "sources": [
+    {
+     "name": "Actu.ai",
+     "url": "https://www.actu.ai/artex-agents-ia-cybercriminels-autonomes-check-point-certificats-apple-80108.html"
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Pourquoi l'Iran dit-il que les tractations avec Washington sont à l'arrêt ?",
+   "options": [
+    "Une attaque contre un pétrolier",
+    "Le retrait du médiateur qatari",
+    "Le choc des élections américaines",
+    "Une nouvelle sanction de l'ONU"
+   ],
+   "answer": 2,
+   "explain": "Abbas Araghchi évoque le « choc » des midterms, remportées par les démocrates le 3 novembre."
+  },
+  {
+   "q": "Quelle part des voitures neuves vendues en France en octobre 2026 étaient électriques ?",
+   "options": [
+    "32 %",
+    "41 %",
+    "24 %",
+    "45 %"
+   ],
+   "answer": 1,
+   "explain": "41 % selon AAA Data, contre 24 % un an plus tôt. 45 % est la part chez les seuls particuliers."
+  },
+  {
+   "q": "Combien vaut l'aide au GNR pour les entreprises du BTP fin 2026 ?",
+   "options": [
+    "0,15 € par litre",
+    "0,10 € par litre",
+    "0,25 € par litre",
+    "0,20 € par litre"
+   ],
+   "answer": 3,
+   "explain": "0,20 € par litre, plafonnée à 4 000 € par entreprise et par mois (décret du 3 novembre 2026)."
+  }
+ ]
+}
