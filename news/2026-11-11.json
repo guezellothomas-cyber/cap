@@ -1,0 +1,176 @@
+{
+ "date": "2026-11-11",
+ "generatedAt": "2026-11-11T06:31:13+01:00",
+ "lede": "La Banque de France abaisse sa prévision de croissance pour 2026 à environ 0,3 %, après un recul du PIB au troisième trimestre. À Abou Dhabi, Ukrainiens, Russes et Américains ont repris leurs discussions, tandis que le Brent passe sous 90 dollars.",
+ "figures": [
+  { "label": "CAC 40 (clôture du 10 nov.)", "value": "8 278,59 pts", "note": "+0,55 %, plus haut depuis le 8 septembre", "source": "Quartz / AFP" },
+  { "label": "Brent (10 nov.)", "value": "< 90 $", "note": "Première fois sous 90 $ depuis août", "source": "Quartz" },
+  { "label": "WTI (10 nov.)", "value": "84,78 $", "note": "-2,4 % sur la séance", "source": "Quartz" },
+  { "label": "Prix à la consommation aux États-Unis (oct. 2026, publié le 10 nov.)", "value": "+0,4 % sur un mois", "note": "+0,3 % attendu ; +0,3 % hors alimentation et énergie", "source": "AFP via Quartz" },
+  { "label": "Croissance France 2026 (prévision BdF du 10 nov.)", "value": "≈ 0,3 %", "note": "Contre 0,4 % prévu jusqu'ici", "source": "Banque de France via Quartz" },
+  { "label": "PIB France (3e trimestre 2026)", "value": "-0,1 %", "note": "Recul mesuré par l'Insee", "source": "Economie Matin" },
+  { "label": "Déficit public 2027 (texte issu des débats, chiffrage du 10 nov.)", "value": "5,9 % du PIB", "note": "Au lieu de 5 % visés ; chiffrage contesté par la gauche", "source": "NosParlementaires" }
+ ],
+ "items": [
+  {
+   "cat": "politique",
+   "title": "Budget de la Sécu : le Sénat adopte une première partie",
+   "summary": "Le 9 novembre, le Sénat a adopté par 217 voix contre 127 la première partie du budget de la Sécurité sociale 2027. Elle porte sur les comptes de 2026, pas sur l'année 2027. L'examen dure jusqu'au 18 novembre. La commission veut indexer sur l'inflation les pensions jusqu'à 1 500 euros, contre 1 260 euros dans le texte du gouvernement.",
+   "why": "Après le rejet à l'Assemblée le 23 octobre, c'est le Sénat qui écrit la suite. Le déficit visé reste de 12,7 milliards d'euros en 2027.",
+   "sources": [
+    { "name": "Politique Matin", "url": "https://www.politiquematin.fr/budget-secu-2027-senat-premiere-partie-217-voix-9-novembre-2026" },
+    { "name": "Public Sénat", "url": "https://www.publicsenat.fr/actualites/sante/budget-2027-de-la-securite-sociale-les-senateurs-proposent-de-revaloriser-sur-linflation-les-pensions-allant-jusqua-1500-euros" }
+   ]
+  },
+  {
+   "cat": "politique",
+   "title": "Budget de l'État : le Sénat vote le 9 décembre",
+   "summary": "Le budget 2027 a été rejeté en première lecture à l'Assemblée le 4 novembre. Le Sénat examine le texte du gouvernement à partir du 20 novembre et vote le 9 décembre. Le Parlement a jusqu'au 17 décembre à minuit. Selon le ministre David Amiel, le texte issu des débats mènerait à un déficit de 5,9 % du PIB.",
+   "why": "Si le Parlement ne se prononce pas à temps, le gouvernement peut passer par ordonnance.",
+   "sources": [
+    { "name": "NosParlementaires", "url": "https://nosparlementaires.fr/actualites/budget-2027-calendrier-assemblee-cinq-semaines" }
+   ]
+  },
+  {
+   "cat": "politique",
+   "title": "Présidentielle 2027 : le RN obtient un préaccord de prêt",
+   "summary": "Selon BFMTV, le Rassemblement national a obtenu un préaccord de deux banques européennes pour un prêt de 10,6 millions d'euros. Il doit financer la campagne présidentielle de mai 2027. Le trésorier du parti, Kévin Pfeffer, se dit « assez optimiste ».",
+   "why": "Le financement des campagnes est un enjeu majeur à six mois de la présidentielle.",
+   "sources": [
+    { "name": "L'Express via Orange Actu", "url": "https://actu.orange.fr/france/les-3-infos-a-retenir-du-mardi-10-novembre-l-express-via-6medias-CNT000002tEAam.html" }
+   ]
+  },
+  {
+   "cat": "economie",
+   "title": "La Banque de France abaisse sa prévision de croissance",
+   "summary": "Le gouverneur Emmanuel Moulin attend environ 0,3 % de croissance en 2026, contre 0,4 % jusqu'ici. Le PIB a reculé de 0,1 % au troisième trimestre. L'industrie souffre, les services marchands résistent mieux. Le chômage a un peu reculé au troisième trimestre, mais il monte de 0,4 point sur un an.",
+   "why": "Une croissance plus faible réduit les recettes fiscales et complique le budget 2027.",
+   "sources": [
+    { "name": "Quartz / AFP", "url": "https://fr.qz.com/banque-france-prevoit-croissance-0-3-2026-emmanuel-moulin-111026" }
+   ]
+  },
+  {
+   "cat": "economie",
+   "title": "Conjoncture : plus d'industriels relèvent leurs prix",
+   "summary": "L'enquête de la Banque de France publiée le 9 novembre interroge environ 8 500 entreprises. 12 % des industriels ont relevé leurs prix en octobre, contre 8 % d'habitude à cette période. Le bâtiment devrait rester quasi stable en novembre. L'incertitude augmente et certains projets sont reportés.",
+   "why": "Ces signaux annoncent une fin d'année molle et une pression sur les prix, à surveiller en contrôle de gestion.",
+   "sources": [
+    { "name": "Economie Matin", "url": "https://www.economiematin.fr/banque-france-enquete-novembre-2026-industrie-croissance-t4-091126-2140" }
+   ]
+  },
+  {
+   "cat": "economie",
+   "title": "Bourse de Paris : le CAC 40 gagne 0,55 %",
+   "summary": "Le CAC 40 a fini mardi à 8 278,59 points, son plus haut depuis le 8 septembre. La baisse du pétrole a soutenu le marché. ArcelorMittal (+2,96 %) et Saint-Gobain (+1,87 %) sont en hausse. La Bourse de Paris reste ouverte ce 11 novembre.",
+   "why": "Paris monte à contre-courant de Wall Street, freinée par les valeurs de l'IA.",
+   "sources": [
+    { "name": "Quartz / AFP", "url": "https://fr.qz.com/cac-40-hausse-petrole-inflation-americaine-bourse-111026" },
+    { "name": "MoneyVox", "url": "https://www.moneyvox.fr/bourse/actualites/111191/cac-40-en-hausse-nvidia-renault-jour-ferie-le-journal-de-la-bourse-du-mardi-10-novembre-2026" }
+   ]
+  },
+  {
+   "cat": "international",
+   "title": "Ukraine : quatre heures de discussions à Abou Dhabi",
+   "summary": "Ukrainiens, Russes et Américains se sont réunis mardi plus de quatre heures, une première rencontre à trois depuis février. Les échanges ont porté sur les prisonniers et les garanties de sécurité. Aucun cessez-le-feu n'a été annoncé. Une nouvelle séance est prévue ce mercredi.",
+   "why": "Le même jour, des frappes russes ont encore touché le réseau électrique ukrainien.",
+   "sources": [
+    { "name": "Armées.com", "url": "https://armees.com/ukraine-russie-abu-dhabi-premier-jour-pourparlers-10-novembre-2026/" }
+   ]
+  },
+  {
+   "cat": "international",
+   "title": "États-Unis : l'inflation d'octobre plus forte que prévu",
+   "summary": "Les prix à la consommation ont augmenté de 0,4 % sur un mois en octobre, contre 0,3 % attendu. Hors alimentation et énergie, la hausse est de 0,3 %. Une hausse des taux de la Fed en décembre est jugée probable par certains analystes. La décision est attendue le 9 décembre.",
+   "why": "Des taux plus hauts aux États-Unis pèsent sur les marchés mondiaux et sur le coût de l'argent.",
+   "sources": [
+    { "name": "Quartz / AFP", "url": "https://fr.qz.com/cac-40-hausse-petrole-inflation-americaine-bourse-111026" },
+    { "name": "MoneyVox", "url": "https://www.moneyvox.fr/bourse/actualites/111191/cac-40-en-hausse-nvidia-renault-jour-ferie-le-journal-de-la-bourse-du-mardi-10-novembre-2026" }
+   ]
+  },
+  {
+   "cat": "international",
+   "title": "Pétrole : le Brent sous 90 dollars, espoirs sur l'Iran",
+   "summary": "Le Brent est passé sous 90 dollars, une première depuis août. Le WTI a perdu 2,4 % à 84,78 dollars. Donald Trump juge de nouvelles frappes sur l'Iran « assez peu probables ». Les cours ont perdu environ 20 % en un mois.",
+   "why": "Un pétrole moins cher allège les coûts de carburant, notamment pour les engins de chantier.",
+   "sources": [
+    { "name": "Quartz", "url": "https://fr.qz.com/brent-brut-sous-90-aot-guerre-iran-111026" },
+    { "name": "Euronews", "url": "https://fr.euronews.com/2026/11/10/les-cours-du-petrole-reculent-encore-misant-sur-des-pourparlers-de-paix-etats-unisiran" }
+   ]
+  },
+  {
+   "cat": "entreprises",
+   "title": "Renault et Safran portés par les analystes",
+   "summary": "Renault a pris 2,19 % à 29,44 euros. Jefferies conseille désormais d'acheter le titre et relève son objectif de 30 à 34 euros. Safran a gagné 2,26 % à 312,70 euros, Bernstein visant 390 euros. Le titre Renault reste en baisse de 17 % depuis janvier.",
+   "why": "Les avis des analystes font souvent bouger les cours à court terme.",
+   "sources": [
+    { "name": "MoneyVox", "url": "https://www.moneyvox.fr/bourse/actualites/111191/cac-40-en-hausse-nvidia-renault-jour-ferie-le-journal-de-la-bourse-du-mardi-10-novembre-2026" }
+   ]
+  },
+  {
+   "cat": "btp",
+   "title": "Aide au GNR : le dispositif prolongé pour la fin d'année",
+   "summary": "L'aide au gazole non routier pour le BTP est reconduite pour novembre et décembre 2026. Elle vaut 0,20 euro par litre, avec un plafond de 4 000 euros par mois. Elle vise les entreprises de 50 salariés au plus. Les demandes se font sur impots.gouv.fr, en décembre pour novembre et en janvier pour décembre.",
+   "why": "Le carburant pèse lourd dans les coûts des chantiers de travaux publics.",
+   "sources": [
+    { "name": "Weblex", "url": "https://www.weblex.fr/weblex-actualite/btp-nouvelle-version-de-l-aide-carburant-pour-la-fin-d-annee-2026" }
+   ]
+  },
+  {
+   "cat": "btp",
+   "title": "Logement neuf : les mises en chantier reculent",
+   "summary": "En septembre, 31 428 logements ont été autorisés, en hausse de 1,2 % sur un mois. Les mises en chantier ont baissé de 9,7 %, à 28 682 logements. Sur un an, elles restent 5,1 % sous la moyenne des cinq années précédentes. Un projet de loi logement est attendu à l'Assemblée le 17 novembre.",
+   "why": "Le gouvernement vise 400 000 logements neufs par an, loin des chiffres actuels.",
+   "sources": [
+    { "name": "Batinfo / AFP", "url": "https://batinfo.com/actualite/logement-neuf-les-permis-progressent-en-septembre-les-mises-en-chantier-reculent_37797" }
+   ]
+  },
+  {
+   "cat": "tech",
+   "title": "OpenAI lève 11 milliards de dollars",
+   "summary": "OpenAI a bouclé une première tranche d'environ 11 milliards de dollars, pour une valorisation de 1 250 milliards. Le tour pourrait atteindre 20 milliards. L'objectif initial, 30 milliards sur 1 400 milliards de valorisation, a été revu à la baisse. Une entrée en Bourse est évoquée pour 2027.",
+   "why": "La valorisation revue à la baisse montre un marché de l'IA plus prudent.",
+   "sources": [
+    { "name": "Le Monde Informatique", "url": "https://www.lemondeinformatique.fr/donnees-ia/openai-leve-11-md-pour-une-valorisation-de-1-250-m" }
+   ]
+  },
+  {
+   "cat": "tech",
+   "title": "Nvidia chute après une enquête visant son patron",
+   "summary": "Nvidia a ouvert une enquête indépendante pour savoir si Jensen Huang a été ciblé par un service de renseignement étranger. Rien n'établit qu'il ait transmis des informations. Le titre a encore reculé mardi, entraînant les valeurs liées à l'IA. Les résultats du groupe sont attendus le 17 novembre.",
+   "why": "Nvidia est un pilier de la Bourse américaine et de l'IA mondiale.",
+   "sources": [
+    { "name": "Le Monde Informatique", "url": "https://www.lemondeinformatique.fr/donnees-ia/nvidia-ebranle-par-une-enquete-visant-jensen-huang" },
+    { "name": "Boursorama / Reuters", "url": "https://boursorama.com/bourse/actualites/les-valeurs-liees-a-l-ia-reprennent-leur-baisse-apres-un-bref-repit-69853ba62c6271061adf5ae7b8769efc" }
+   ]
+  },
+  {
+   "cat": "societe",
+   "title": "Lycées : tensions et nouvelle mobilisation le 17 novembre",
+   "summary": "Une élue régionale a été visée par une bouteille contenant de l'essence devant un lycée de Chelles. Le parquet de Meaux a ouvert une enquête. Mardi, une cinquantaine d'établissements étaient bloqués et 10 000 personnes ont défilé à Paris sans heurt. Une nouvelle journée est prévue le 17 novembre.",
+   "why": "Le ministre de l'Éducation parle de dizaines de personnels blessés depuis la Toussaint.",
+   "sources": [
+    { "name": "L'Express via Orange Actu", "url": "https://actu.orange.fr/france/les-3-infos-a-retenir-du-mardi-10-novembre-l-express-via-6medias-CNT000002tEAam.html" }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Quelle croissance la Banque de France prévoit-elle désormais pour 2026 ?",
+   "options": ["Environ 0,5 %", "Environ 0,3 %", "Environ 0,1 %", "Environ 0,7 %"],
+   "answer": 1,
+   "explain": "Emmanuel Moulin attend environ 0,3 %, contre 0,4 % avant, après un PIB en recul de 0,1 % au troisième trimestre."
+  },
+  {
+   "q": "Combien vaut l'aide au GNR pour les entreprises du BTP ?",
+   "options": ["0,10 € par litre", "0,15 € par litre", "0,25 € par litre", "0,20 € par litre"],
+   "answer": 3,
+   "explain": "L'aide est de 0,20 euro par litre, plafonnée à 4 000 euros par mois, pour novembre et décembre 2026."
+  },
+  {
+   "q": "Quand le Sénat doit-il voter le budget de l'État 2027 ?",
+   "options": ["Le 9 décembre", "Le 17 novembre", "Le 20 novembre", "Le 17 décembre"],
+   "answer": 0,
+   "explain": "Le Sénat examine le texte à partir du 20 novembre et vote le 9 décembre. Le Parlement a jusqu'au 17 décembre."
+  }
+ ]
+}
