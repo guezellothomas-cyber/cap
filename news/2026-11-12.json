@@ -1,0 +1,278 @@
+{
+ "date": "2026-11-12",
+ "generatedAt": "2026-11-12T06:36:42+01:00",
+ "lede": "Les pourparlers d'Abou Dhabi se sont conclus sur un échange de prisonniers entre l'Ukraine et la Russie, sans avancée vers la paix. À Paris, le CAC 40 a signé une troisième hausse d'affilée, porté par les valeurs liées à l'IA.",
+ "figures": [
+  {
+   "label": "CAC 40 (clôture du 11 nov.)",
+   "value": "8 332,87 pts",
+   "note": "+0,66 %, troisième hausse d'affilée",
+   "source": "Boursorama"
+  },
+  {
+   "label": "Brent (11 nov., fin de séance)",
+   "value": "93,77 $",
+   "note": "+1,93 % sur la séance",
+   "source": "Boursorama"
+  },
+  {
+   "label": "Euro/dollar (11 nov.)",
+   "value": "1,1095 $",
+   "note": "-0,66 % sur la séance",
+   "source": "Boursorama"
+  },
+  {
+   "label": "OAT 10 ans (11 nov., en séance)",
+   "value": "4,79 %",
+   "note": "Écart de 149 points avec le Bund allemand",
+   "source": "Zonebourse"
+  },
+  {
+   "label": "Taux de dépôt BCE (décision du 29 oct.)",
+   "value": "2,50 %",
+   "note": "Inchangé, prochaine réunion le 17 décembre",
+   "source": "Ymanci"
+  },
+  {
+   "label": "Inflation France (oct. 2026, estimation provisoire)",
+   "value": "+3,4 % sur un an",
+   "note": "Chiffre définitif publié le 13 novembre",
+   "source": "Insee"
+  },
+  {
+   "label": "Prix repère du gaz (au 1er déc. 2026)",
+   "value": "206,26 €/MWh TTC",
+   "note": "+5,8 % par rapport à novembre",
+   "source": "CRE"
+  }
+ ],
+ "items": [
+  {
+   "cat": "politique",
+   "title": "Dernier 11-Novembre de Macron à l'Arc de Triomphe",
+   "summary": "Emmanuel Macron a présidé mercredi sa dixième et dernière cérémonie de l'Armistice en tant que président. Il a été accueilli par le Premier ministre Sébastien Lecornu, a déposé une gerbe devant la statue de Clemenceau et ravivé la flamme. Marine Le Pen a appelé à « l'unité » depuis Hénin-Beaumont. Jean-Luc Mélenchon s'est exprimé devant le monument pacifiste de Gentioux, dans la Creuse.",
+   "why": "À moins de six mois de la présidentielle, les commémorations deviennent aussi un moment de positionnement pour les candidats.",
+   "sources": [
+    {
+     "name": "Sud Radio (AFP)",
+     "url": "https://www.sudradio.fr/societe/dernier-11-novembre-pour-macron-le-pen-appelle-a-lunite-melenchon-a-se-souvenir-de-lhistoire"
+    },
+    {
+     "name": "Quartz",
+     "url": "https://fr.qz.com/emmanuel-macron-preside-derniere-ceremonie-11-novembre-arc-triomphe-111126"
+    }
+   ]
+  },
+  {
+   "cat": "politique",
+   "title": "Budget de la Sécu : le Sénat reprend les débats",
+   "summary": "Après la pause du 11 novembre, les sénateurs poursuivent l'examen du budget de la Sécurité sociale 2027. Plus de 1 200 amendements ont été déposés. La commission veut relever de 1 260 à 1 500 euros le seuil sous lequel les pensions restent indexées sur l'inflation, et rétablir la réforme des retraites suspendue. Le vote solennel est prévu le 18 novembre.",
+   "why": "Le niveau de revalorisation des pensions en 2027 se joue dans ces débats. Le texte vise un déficit de la Sécu de 12,7 milliards d'euros en 2027.",
+   "sources": [
+    {
+     "name": "Public Sénat",
+     "url": "https://www.publicsenat.fr/actualites/politique/budget-2027-les-points-chauds-lors-des-debats-au-senat-du-9-au-17-novembre"
+    },
+    {
+     "name": "NosParlementaires",
+     "url": "https://nosparlementaires.fr/actualites/gel-pensions-senat-1500-euros-reforme-retraites-plfss-2027"
+    },
+    {
+     "name": "Le JDD",
+     "url": "https://www.lejdd.fr/economie/gel-des-pensions-de-retraite-qui-serait-concerne-188307"
+    }
+   ]
+  },
+  {
+   "cat": "economie",
+   "title": "Bourse de Paris : troisième hausse d'affilée",
+   "summary": "Le CAC 40 a gagné 0,66 % mercredi, à 8 332,87 points, dans des volumes faibles en raison du jour férié. Les valeurs liées à l'IA ont mené la hausse après les bons résultats de CoreWeave : STMicroelectronics +5,2 %, Schneider Electric +3 %, Soitec +11,9 %. Le SBF 120 a progressé de 0,7 %.",
+   "why": "Le marché reste très sensible aux nouvelles du secteur de l'IA, qui fait varier fortement les indices d'une séance à l'autre.",
+   "sources": [
+    {
+     "name": "Boursorama",
+     "url": "https://www.boursorama.com/bourse/actualites/trois-a-la-suite-pour-paris-le-reste-de-l-europe-dans-le-vert-egalement-d4f24f965d7de2fc3e591ad7efa9ac85"
+    },
+    {
+     "name": "ABC Bourse (Agefi-Dow Jones)",
+     "url": "https://www.abcbourse.com/marches/cac-40-la-bourse-de-paris-termine-dans-le-vert-portee-par-le-secteur-de-la-tec_705971"
+    }
+   ]
+  },
+  {
+   "cat": "economie",
+   "title": "Gaz : le prix repère augmente de 5,8 % en décembre",
+   "summary": "La CRE annonce que le prix repère de vente de gaz passe à 206,26 €/MWh TTC au 1er décembre, contre 194,90 € en novembre. L'impact moyen est estimé à 16 euros en décembre pour les offres indexées. Les offres à prix fixe ne sont pas concernées. Sur 2026, la facture annuelle moyenne progresse de 11,8 %.",
+   "why": "Environ 10 millions de ménages ont un contrat de gaz. La hausse pèse sur le pouvoir d'achat en plein hiver.",
+   "sources": [
+    {
+     "name": "CRE",
+     "url": "https://www.cre.fr/actualites/toute-lactualite/le-prix-repere-de-vente-de-gaz-augmente-de-58-ttc-au-1er-decembre-2026.html"
+    }
+   ]
+  },
+  {
+   "cat": "economie",
+   "title": "Prime carburant et heures sup : des exonérations prolongées",
+   "summary": "Après la conférence sociale, le gouvernement veut maintenir en 2027 le plafond d'exonération de la prime carburant à 1 000 euros. Le plafond d'heures supplémentaires exonérées d'impôt passerait de 7 500 à 10 000 euros. L'exonération de la prise en charge des transports par l'employeur jusqu'à 75 % serait reconduite. Ces mesures doivent encore passer au Parlement.",
+   "why": "Ces dispositifs touchent directement la paie et les coûts des entreprises. Les services RH et contrôle de gestion devront les intégrer aux budgets 2027.",
+   "sources": [
+    {
+     "name": "Batinfo (AFP)",
+     "url": "https://batinfo.com/actualite/pouvoir-dachat-le-gouvernement-veut-prolonger-la-prime-carburant-et-elargir-les-exonerations-en-2027_37933"
+    }
+   ]
+  },
+  {
+   "cat": "international",
+   "title": "Ukraine : un échange de prisonniers acté à Abou Dhabi",
+   "summary": "Deux jours de pourparlers entre Ukrainiens et Russes, sous médiation américaine, se sont achevés mercredi. Seul résultat concret : un important échange de prisonniers, dont le nombre final doit être fixé. Aucun progrès sur le cessez-le-feu ni sur les territoires. Jared Kushner et Steve Witkoff doivent voir Vladimir Poutine à Moscou jeudi, puis Volodymyr Zelensky en Irlande.",
+   "why": "Ce sont les premiers pourparlers depuis neuf mois. Moscou exige toujours tout le Donbass, ce que Kyiv refuse.",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://fr.euronews.com/2026/11/11/ukraine-russie-un-accord-sur-un-echange-de-prisonniers-a-abu-dhabi"
+    },
+    {
+     "name": "Boursorama (Reuters)",
+     "url": "https://www.boursorama.com/actualite-economique/actualites/fin-des-pourparlers-sur-l-ukraine-a-abou-dhabi-la-place-des-europeens-en-question-7ffb1c9a28d331bcd7509b780190ea66"
+    }
+   ]
+  },
+  {
+   "cat": "international",
+   "title": "Iran : pas de négociation, le pétrole rebondit",
+   "summary": "Téhéran affirme ne mener aucune négociation avec Washington et demande d'abord le respect de l'accord provisoire de juin. Les incidents se poursuivent dans le détroit d'Ormuz. Le Brent a rebondi mercredi vers 93 à 94 dollars, après un plus bas de dix semaines la veille.",
+   "why": "Le prix du pétrole dépend largement de la situation à Ormuz. Il se répercute sur le carburant et les coûts des entreprises.",
+   "sources": [
+    {
+     "name": "Boursorama (Reuters)",
+     "url": "https://www.boursorama.com/bourse/actualites/aucune-discussion-en-cours-entre-l-iran-et-les-etats-unis-7da1300f040d792fb74d01a32f67718b"
+    },
+    {
+     "name": "Boursenews",
+     "url": "https://boursenews.ma/article/actualite/petrole-cours-brent-hausse-93-dollars-tensions-iran-ormuz"
+    }
+   ]
+  },
+  {
+   "cat": "entreprises",
+   "title": "Eramet bondit, CSG et Rheinmetall reculent",
+   "summary": "Eramet a pris 7,43 % après un article de Bloomberg sur un industriel indonésien intéressé par la mine de nickel de Weda Bay. GTT a gagné 1,08 % après un relèvement de Morgan Stanley. En Europe, Siemens Energy a bondi de 10,89 % après un exercice record, tandis que CSG a chuté de 21,58 % après des résultats décevants. Le secteur de la défense a reculé, avec Rheinmetall à -6,58 %.",
+   "why": "Les publications de résultats et les avis d'analystes font fortement bouger les cours. La défense recule quand les espoirs de paix montent.",
+   "sources": [
+    {
+     "name": "Boursorama",
+     "url": "https://www.boursorama.com/bourse/actualites/trois-a-la-suite-pour-paris-le-reste-de-l-europe-dans-le-vert-egalement-d4f24f965d7de2fc3e591ad7efa9ac85"
+    },
+    {
+     "name": "Zonebourse",
+     "url": "https://www.zonebourse.com/actualite-bourse/11-novembre-l-ia-rallume-la-flamme-dans-un-marche-deserte-ce785edbdd8bf52c"
+    }
+   ]
+  },
+  {
+   "cat": "btp",
+   "title": "A13 : le tunnel de Saint-Cloud fermé dès le 16 novembre",
+   "summary": "L'A13 sera fermée dans le sens Paris-province, entre le périphérique et Vaucresson, du 16 novembre au 31 août 2027. Les travaux consistent à conforter le tube nord, un ouvrage presque centenaire. Le coût prévu est de 35 millions d'euros. L'A14 sera gratuite en semaine, l'État compensant la perte de recettes de Sanef.",
+   "why": "Environ 80 000 véhicules par jour sont concernés. Le chantier doit aussi préparer le passage du tunnelier de la ligne 15 en 2027.",
+   "sources": [
+    {
+     "name": "Batinfo (AFP)",
+     "url": "https://batinfo.com/actualite/a13-fermeture-du-tunnel-de-saint-cloud-des-le-16-novembre-la14-gratuite-en-semaine_37911"
+    }
+   ]
+  },
+  {
+   "cat": "btp",
+   "title": "MaPrimeRénov' : un procès pour fraude à Nanterre",
+   "summary": "Treize hommes sont jugés jusqu'au 13 novembre à Nanterre pour une fraude présumée aux aides MaPrimeRénov'. Le préjudice est estimé à 4,84 millions d'euros, pour des faits de 2021 à 2024. Ils sont accusés d'avoir monté de faux dossiers via des sociétés-écrans, au nom de particuliers qui n'avaient rien demandé. L'Anah est partie civile.",
+   "why": "MaPrimeRénov' est la principale aide publique à la rénovation des logements. Les fraudes détournent de l'argent public destiné aux ménages et aux artisans.",
+   "sources": [
+    {
+     "name": "Batinfo (AFP)",
+     "url": "https://batinfo.com/actualite/maprimerenov-une-fraude-presumee-a-plusieurs-millions-deuros-devant-la-justice_37934"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "title": "Anthropic lance la tournée de son entrée en Bourse",
+   "summary": "Anthropic a lancé mardi son roadshow pour une cotation au Nasdaq sous le symbole ANT. La fourchette est de 70 à 78 dollars par action pour 825 millions d'actions. L'opération pourrait lever jusqu'à 64 milliards de dollars. Sur neuf mois, le chiffre d'affaires atteint 33,24 milliards de dollars, avec une perte nette de 104 milliards, surtout liée à des ajustements comptables.",
+   "why": "Ce serait l'une des plus grosses introductions en Bourse de l'histoire. Elle sert de test pour la valeur que les marchés accordent à l'IA.",
+   "sources": [
+    {
+     "name": "Quartz",
+     "url": "https://fr.qz.com/anthropic-lancement-roadshow-introduction-bourse-64-milliards-111026"
+    },
+    {
+     "name": "SiliconANGLE",
+     "url": "https://siliconangle.com/2026/11/10/anthropic-launches-ipo-roadshow-with-64b-fundraising-goal/"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "title": "Un krach de l'IA toucherait toute l'économie mondiale",
+   "summary": "Selon une analyse de Dow Jones, la croissance mondiale dépend largement des investissements américains dans les centres de données. La Chine, Taïwan, la Corée du Sud ou le Mexique profitent de la demande en puces et serveurs. Les industriels européens fournissent l'électricité et le refroidissement. Plusieurs économistes jugent qu'un retournement pourrait provoquer une récession mondiale.",
+   "why": "Les fortes variations boursières récentes rappellent que l'IA porte une part importante de la croissance, en Europe comme ailleurs.",
+   "sources": [
+    {
+     "name": "Boursorama (Agefi-Dow Jones)",
+     "url": "https://www.boursorama.com/bourse/actualites/un-coup-d-arret-de-l-ia-aurait-des-repercussions-bien-au-dela-des-etats-unis-c437b4d2936a45ab518640a3fcf68bff"
+    }
+   ]
+  },
+  {
+   "cat": "societe",
+   "title": "Grève à l'AP-HP, « zéro transaction » en Guadeloupe",
+   "summary": "Sud Santé a déposé un préavis de grève illimitée à partir du 12 novembre pour les infirmiers de bloc opératoire de l'AP-HP. Ils dénoncent le manque d'effectifs, la surcharge et les salaires. En Guadeloupe, un collectif appelle à ne faire aucune transaction financière du 12 au 14 novembre. Il proteste contre la vie chère, l'accès à l'eau et le prix du carburant.",
+   "why": "Ces mouvements montrent la tension persistante sur les salaires et le coût de la vie, y compris dans les outre-mer.",
+   "sources": [
+    {
+     "name": "Ma vigilance",
+     "url": "https://mavigilance.fr/jour/2026-11-12"
+    },
+    {
+     "name": "France 3 Paris Île-de-France",
+     "url": "https://france3-regions.franceinfo.fr/paris-ile-de-france/je-n-ai-pas-envie-d-attendre-qu-un-enfant-decede-sur-la-table-a-l-ap-hp-les-infirmiers-de-bloc-operatoire-appeles-a-une-greve-illimitee-3445608.html"
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "À quel niveau le CAC 40 a-t-il clôturé le 11 novembre ?",
+   "options": [
+    "8 198,42 points",
+    "8 332,87 points",
+    "8 401,15 points",
+    "8 265,30 points"
+   ],
+   "answer": 1,
+   "explain": "Le CAC 40 a gagné 0,66 % à 8 332,87 points, sa troisième hausse d'affilée."
+  },
+  {
+   "q": "Quel est le coût prévu des travaux du tunnel de Saint-Cloud sur l'A13 ?",
+   "options": [
+    "15 millions d'euros",
+    "25 millions d'euros",
+    "45 millions d'euros",
+    "35 millions d'euros"
+   ],
+   "answer": 3,
+   "explain": "Le ministère prévoit 35 millions d'euros pour conforter le tube nord du tunnel."
+  },
+  {
+   "q": "Quel accord concret est sorti des pourparlers d'Abou Dhabi ?",
+   "options": [
+    "Un échange de prisonniers",
+    "Un cessez-le-feu en mer Noire",
+    "Un retrait russe du Donbass",
+    "Un sommet Poutine-Zelensky"
+   ],
+   "answer": 0,
+   "explain": "Russes et Ukrainiens se sont seulement entendus sur un important échange de prisonniers."
+  }
+ ]
+}
