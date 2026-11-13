@@ -1,0 +1,248 @@
+{
+ "date": "2026-11-13",
+ "generatedAt": "2026-11-13T06:31:55+01:00",
+ "lede": "Jensen Huang a démissionné de la tête de Nvidia, et Colette Kress assure l'intérim. Le Brent a bondi de 3,3 % après que Donald Trump a écarté un accord avec l'Iran, tandis que le CAC 40 a fini en légère hausse.",
+ "figures": [
+  {
+   "label": "CAC 40 (clôture du 12 nov.)",
+   "value": "8 361,36 pts",
+   "note": "+0,34 %, quatrième hausse d'affilée",
+   "source": "Boursorama / Zonebourse"
+  },
+  {
+   "label": "Brent (clôture du 12 nov.)",
+   "value": "95,82 $",
+   "note": "+3,30 % sur la séance",
+   "source": "Quartz"
+  },
+  {
+   "label": "OAT 10 ans (12 nov.)",
+   "value": "4,85 %",
+   "note": "Contre 4,78 % la veille",
+   "source": "Boursorama"
+  },
+  {
+   "label": "Euro/dollar (12 nov.)",
+   "value": "1,1060 $",
+   "note": "En fin de séance européenne",
+   "source": "Boursorama"
+  },
+  {
+   "label": "Chômage France (T3 2026)",
+   "value": "8,2 %",
+   "note": "-0,1 point sur le trimestre, +0,4 point sur un an",
+   "source": "Insee"
+  },
+  {
+   "label": "Inflation France (oct. 2026, estimation provisoire)",
+   "value": "+3,4 % sur un an",
+   "note": "Chiffre définitif attendu ce 13 novembre",
+   "source": "Insee"
+  }
+ ],
+ "items": [
+  {
+   "cat": "politique",
+   "title": "Budget de la Sécu : le Sénat adopte l'article sur les allègements de cotisations",
+   "summary": "Le Sénat a adopté le 12 novembre l'article 7 du projet de budget de la Sécurité sociale pour 2027. Il touche au calcul des allègements de cotisations patronales. Le vote a réuni 184 voix pour, 16 contre et 142 abstentions. Le vote sur l'ensemble du texte est prévu le 18 novembre.",
+   "why": "Cet article pèse environ 3,7 milliards d'euros dans le projet du gouvernement. Il concerne directement le coût du travail pour les entreprises.",
+   "sources": [
+    {
+     "name": "Politique Matin",
+     "url": "https://www.politiquematin.fr/senat-vote-article-7-plfss-2027-cotisations-patronales-12-novembre-2026"
+    },
+    {
+     "name": "Public Sénat",
+     "url": "https://www.publicsenat.fr/actualites/politique/budget-2027-calendrier-49-3-ordonnancesquelles-sont-les-echeances-a-venir-et-les-scenarios-possibles"
+    }
+   ]
+  },
+  {
+   "cat": "politique",
+   "title": "Bardella porte plainte pour faux après l'enquête de Mediapart",
+   "summary": "Jordan Bardella a déposé plainte contre X pour faux et usage de faux. Il conteste des messages de 2013 que Mediapart lui attribue et qui contiennent des propos antisémites. Le parquet de Paris a confirmé le dépôt de la plainte jeudi. Il avait déjà porté plainte en diffamation contre Mediapart fin septembre.",
+   "why": "L'affaire pèse sur la campagne du RN à quelques mois de la présidentielle. La justice devra dire si les messages sont authentiques.",
+   "sources": [
+    {
+     "name": "Orange Actu (6Médias)",
+     "url": "https://actu.orange.fr/france/les-trois-infos-a-retenir-du-jeudi-12-novembre-l-express-via-6medias-CNT000002tGTED.html"
+    },
+    {
+     "name": "Devdiscourse (Reuters)",
+     "url": "https://www.devdiscourse.com/article/international/3983473-french-far-right-leader-bardella-says-he-has-filed-lawsuit-over-antisemitic-remarks-claim"
+    }
+   ]
+  },
+  {
+   "cat": "economie",
+   "title": "Bourse de Paris : quatrième hausse d'affilée",
+   "summary": "Le CAC 40 a gagné 0,34 % jeudi, à 8 361,36 points. Capgemini, TotalEnergies et Sanofi ont mené la hausse. Stellantis et Renault ont reculé de plus de 3,5 %. Le taux de l'OAT à 10 ans est monté à 4,85 %.",
+   "why": "Paris profite de sa faible exposition aux valeurs de l'IA, secouées par la crise chez Nvidia. La hausse des taux renchérit en revanche le coût de la dette française.",
+   "sources": [
+    {
+     "name": "Boursorama (AFP)",
+     "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-termine-en-legere-hausse-08096cdb7e970fb74a3579f52b3cd868"
+    },
+    {
+     "name": "Zonebourse",
+     "url": "https://www.zonebourse.com/actualite-bourse/cac-40-la-bourse-de-paris-a-progresse-les-resultats-d-entreprises-et-nvidia-ont-anime-la-seance-ce785ed8d18cf22d"
+    }
+   ]
+  },
+  {
+   "cat": "economie",
+   "title": "Carburants : les stations toujours sous tension",
+   "summary": "Le gazole coûtait en moyenne 2,167 € le litre jeudi matin, en baisse de 6 centimes en une semaine. Le SP95-E10 était à 2,013 €. Près de 18 % des stations manquaient d'au moins un carburant. Le baril reste pourtant en baisse d'environ 20 % depuis le début du mois.",
+   "why": "Le prix à la pompe pèse sur l'inflation, tirée par l'énergie. Il touche les ménages et les entreprises de transport et de chantier.",
+   "sources": [
+    {
+     "name": "Prixdubaril.com",
+     "url": "https://prixdubaril.com/news-petrole/75204-le-brent-remonte-au-dessus-de-93-dollars-l-iran-durcit-le-ton.html"
+    },
+    {
+     "name": "Quartz",
+     "url": "https://fr.qz.com/donald-trump-accord-iran-petrole-brent-hausse-111326"
+    }
+   ]
+  },
+  {
+   "cat": "international",
+   "title": "Iran : Trump écarte un accord, le pétrole bondit",
+   "summary": "Donald Trump a écrit que les États-Unis n'avaient « pas besoin d'un accord avec l'Iran ». Il affirme que Washington contrôle le détroit d'Ormuz. Le Brent a clôturé à 95,82 dollars, en hausse de 3,30 %. Les frappes américaines contre des sites liés aux Gardiens de la révolution se poursuivent.",
+   "why": "Le détroit d'Ormuz est un passage clé pour le pétrole mondial. Chaque tension se répercute vite sur les prix de l'énergie en Europe.",
+   "sources": [
+    {
+     "name": "Quartz",
+     "url": "https://fr.qz.com/donald-trump-accord-iran-petrole-brent-hausse-111326"
+    },
+    {
+     "name": "Prixdubaril.com",
+     "url": "https://prixdubaril.com/news-petrole/75204-le-brent-remonte-au-dessus-de-93-dollars-l-iran-durcit-le-ton.html"
+    }
+   ]
+  },
+  {
+   "cat": "international",
+   "title": "Ukraine : les émissaires américains reçus par Poutine",
+   "summary": "Steve Witkoff et Jared Kushner ont rencontré Vladimir Poutine à Moscou jeudi, pendant environ deux heures. Witkoff annonce que des Européens participeront au prochain round de discussions. Le Kremlin n'a pas confirmé. Les pourparlers d'Abou Dhabi ont seulement abouti à un échange de prisonniers.",
+   "why": "C'est la première relance sérieuse du dialogue depuis neuf mois. La place de l'Europe dans les négociations reste un point de blocage.",
+   "sources": [
+    {
+     "name": "NBC Palm Springs",
+     "url": "https://www.nbcpalmsprings.com/ca-us-and-world/2026/11/12/usbrokered-ukrainerussia-talks-end-without-breakthrough-prisoner-exchange-agreed"
+    },
+    {
+     "name": "Profile News",
+     "url": "https://www.profilenews.com/en/ukraine-peace-talks-moscow-november-12-2026/"
+    }
+   ]
+  },
+  {
+   "cat": "entreprises",
+   "title": "Viridien et Burberry s'envolent, l'automobile recule",
+   "summary": "Viridien a gagné 2,17 % à 94,15 € après une commande de 80 000 capteurs sismiques du chinois Sinopec. À Londres, Burberry a bondi de 7,78 %. Vente-Unique a pris 8,28 % avec un chiffre d'affaires en hausse de 21 %. Stellantis a perdu 4,33 % et Renault 3,68 %.",
+   "why": "Ces écarts montrent que les marchés récompensent les carnets de commandes solides. L'automobile reste fragile.",
+   "sources": [
+    {
+     "name": "Zonebourse",
+     "url": "https://www.zonebourse.com/actualite-bourse/cac-40-la-bourse-de-paris-a-progresse-les-resultats-d-entreprises-et-nvidia-ont-anime-la-seance-ce785ed8d18cf22d"
+    },
+    {
+     "name": "MoneyVox",
+     "url": "https://www.moneyvox.fr/bourse/actualites/111221/cac-40-a-8-361-points-nvidia-rotation-sectorielle-le-journal-de-la-bourse-du-jeudi-12-novembre-2026"
+    }
+   ]
+  },
+  {
+   "cat": "btp",
+   "title": "Eiffage : chiffre d'affaires en hausse de 3,3 % au troisième trimestre",
+   "summary": "Eiffage a réalisé 6,595 milliards d'euros de chiffre d'affaires entre juillet et septembre, soit +3,3 %. La branche Travaux progresse de 4 %, avec un carnet de commandes de 31,4 milliards. Le groupe confirme ses objectifs 2026. Il chiffre à environ 210 millions d'euros l'impact d'une hausse de la taxe sur les grandes infrastructures de transport, si elle est votée.",
+   "why": "Eiffage est un concurrent direct de NGE dans les travaux publics. Son carnet de commandes donne une idée de l'activité du secteur pour les mois à venir.",
+   "sources": [
+    {
+     "name": "Boursorama (Reuters)",
+     "url": "https://www.boursorama.com/bourse/actualites/eiffage-hausse-du-ca-au-t3-notamment-grace-a-la-branche-travaux-70c232053b96689996472434b329d1bc"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "title": "Nvidia : Jensen Huang démissionne",
+   "summary": "Jensen Huang quitte immédiatement ses fonctions de PDG et d'administrateur de Nvidia. La directrice financière Colette Kress assure l'intérim. Harvey Jones, ex-patron de Synopsys, devient président du conseil. Le départ fait suite à des révélations sur sa vie privée et à des soupçons liés à la Chine. L'action a perdu jusqu'à 14 % en séance.",
+   "why": "Nvidia est le premier fournisseur de puces pour l'IA. Ce départ inquiète les marchés, déjà nerveux sur la bulle de l'IA.",
+   "sources": [
+    {
+     "name": "Nvidia (communiqué)",
+     "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-CEO-Transition/"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/12/why-did-nvidia-ceo-jensen-huang-resign-and-who-is-colette-kress"
+    },
+    {
+     "name": "MoneyVox",
+     "url": "https://www.moneyvox.fr/bourse/actualites/111221/cac-40-a-8-361-points-nvidia-rotation-sectorielle-le-journal-de-la-bourse-du-jeudi-12-novembre-2026"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "title": "TSMC va investir dans OpenAI et Anthropic",
+   "summary": "Le conseil de TSMC a approuvé jusqu'à 1 milliard de dollars d'investissements dans l'IA. La moitié doit être répartie entre OpenAI et Anthropic. Des analystes craignent un financement circulaire, car ces entreprises sont aussi clientes des puces de TSMC.",
+   "why": "Ces investissements croisés rendent la demande réelle en IA plus difficile à mesurer. C'est un des signaux surveillés par ceux qui craignent une bulle.",
+   "sources": [
+    {
+     "name": "AI Weekly",
+     "url": "https://aiweekly.co/ai-news-today/edition/2026-11-12"
+    }
+   ]
+  },
+  {
+   "cat": "societe",
+   "title": "Lycées bloqués : le gouvernement promet des poursuites",
+   "summary": "Selon le ministre de l'Éducation, 24 lycées étaient bloqués jeudi. Les cours ont repris dans 98 % des établissements touchés. Le gouvernement annonce une saisine systématique de la justice pour les violences contre les lycées. À Pessac, 1 600 élèves ont été évacués après des tirs de mortiers.",
+   "why": "La colère sociale reste forte. Les organisations de jeunesse appellent à manifester samedi 14 novembre.",
+   "sources": [
+    {
+     "name": "Ma vigilance",
+     "url": "https://mavigilance.fr/jour/2026-11-12"
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Qui assure l'intérim à la tête de Nvidia ?",
+   "options": [
+    "Kimberly Powell",
+    "Harvey Jones",
+    "Colette Kress",
+    "Lisa Turner"
+   ],
+   "answer": 2,
+   "explain": "Colette Kress, directrice financière depuis 2013, devient PDG par intérim. Harvey Jones prend la présidence du conseil."
+  },
+  {
+   "q": "À quel prix le Brent a-t-il clôturé le 12 novembre ?",
+   "options": [
+    "95,82 dollars",
+    "91,72 dollars",
+    "88,40 dollars",
+    "98,15 dollars"
+   ],
+   "answer": 0,
+   "explain": "Le Brent a pris 3,30 % à 95,82 dollars après le message de Trump sur l'Iran."
+  },
+  {
+   "q": "De combien le chiffre d'affaires d'Eiffage a-t-il progressé au troisième trimestre ?",
+   "options": [
+    "+1,8 %",
+    "+5,1 %",
+    "+0,9 %",
+    "+3,3 %"
+   ],
+   "answer": 3,
+   "explain": "Eiffage a réalisé 6,595 milliards d'euros, soit +3,3 %, porté par sa branche Travaux (+4 %)."
+  }
+ ]
+}
