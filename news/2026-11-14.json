@@ -1,0 +1,254 @@
+{
+ "date": "2026-11-14",
+ "generatedAt": "2026-11-14T06:31:41+01:00",
+ "lede": "Le Sénat a adopté le volet recettes du budget de la Sécu, en écartant plusieurs taxes. L'Insee confirme une inflation de 3,4 % en octobre, au plus haut depuis début 2024, tandis que le CAC 40 boucle sa meilleure semaine depuis avril.",
+ "figures": [
+  {
+   "label": "CAC 40 (clôture du 13 nov.)",
+   "value": "8 368,91 pts",
+   "note": "+0,09 % sur la séance, +2,82 % sur la semaine",
+   "source": "Boursorama / Zonebourse"
+  },
+  {
+   "label": "Inflation France (oct. 2026, définitif)",
+   "value": "+3,4 % sur un an",
+   "note": "Plus haut depuis janvier 2024, énergie +24,1 %",
+   "source": "Insee"
+  },
+  {
+   "label": "Inflation zone euro (oct. 2026, estimation rapide)",
+   "value": "4 % sur un an",
+   "note": "Après 3,8 % en septembre",
+   "source": "Eurostat"
+  },
+  {
+   "label": "Taux de dépôt BCE (depuis le 29 oct.)",
+   "value": "2,50 %",
+   "note": "Une hausse à 2,75 % est attendue le 17 décembre",
+   "source": "BCE / sondage Reuters"
+  },
+  {
+   "label": "Brent (clôture du 13 nov.)",
+   "value": "95,84 $",
+   "note": "+0,02 % sur la séance",
+   "source": "AFP / Quartz"
+  },
+  {
+   "label": "Euro/dollar (13 nov., fin d'après-midi)",
+   "value": "1,1033 $",
+   "note": "-0,21 % sur la séance",
+   "source": "Zonebourse"
+  },
+  {
+   "label": "Chômage France (T3 2026)",
+   "value": "8,2 %",
+   "note": "-0,1 point sur le trimestre",
+   "source": "Insee"
+  }
+ ],
+ "items": [
+  {
+   "cat": "politique",
+   "title": "Budget de la Sécu : le Sénat adopte un volet recettes allégé",
+   "summary": "Le Sénat a adopté vendredi le volet recettes du budget 2027 de la Sécurité sociale, par 200 voix contre 110. La gauche et le RN ont voté contre. Les sénateurs ont supprimé la taxe de 1,1 milliard d'euros sur les complémentaires santé et freiné la hausse des cotisations retraite des collectivités. Selon le ministre David Amiel, ces votes dégradent le solde d'environ 3,2 milliards d'euros.",
+   "why": "Le déficit de la Sécu visé pour 2027 est de 12,7 milliards d'euros. Ces votes restent indicatifs : sans majorité, le gouvernement peut recourir au 49.3.",
+   "sources": [
+    {
+     "name": "Public Sénat",
+     "url": "https://www.publicsenat.fr/actualites/politique/budget-2027-de-la-securite-sociale-le-senat-adopte-un-volet-recettes-affaibli"
+    },
+    {
+     "name": "Boursorama (AFP)",
+     "url": "https://www.boursorama.com/actualite-economique/actualites/budget-2027-le-senat-ecarte-des-taxes-sur-les-mutuelles-les-dispositifs-medicaux-ou-encore-les-laboratoires-pharmaceutiques-d2ac96128d74bba3f8692f38c286c67e"
+    }
+   ]
+  },
+  {
+   "cat": "politique",
+   "title": "Fonctionnaires : Lecornu ouvre un mois de discussion sur les bas salaires",
+   "summary": "Après avoir reçu les syndicats de la fonction publique à Matignon, Sébastien Lecornu ouvre une discussion d'un mois sur cinq chantiers, dont les bas salaires et les frais de transport. Les syndicats jugent les mesures très insuffisantes, faute de dégel du point d'indice. La CFDT rejoint l'appel à la grève du mardi 17 novembre.",
+   "why": "Des centaines de milliers d'agents restent sous le Smic selon la CFDT. Les élections professionnelles de décembre pèsent sur le dialogue.",
+   "sources": [
+    {
+     "name": "LCP",
+     "url": "https://lcp.fr/actualites/fonction-publique-sebastien-lecornu-ouvre-une-discussion-d-un-mois-sur-les-bas-salaires"
+    }
+   ]
+  },
+  {
+   "cat": "economie",
+   "title": "Inflation : 3,4 % sur un an en octobre, confirme l'Insee",
+   "summary": "L'Insee confirme que les prix à la consommation ont augmenté de 3,4 % sur un an en octobre. C'est le plus haut niveau depuis janvier 2024. L'énergie grimpe de 24,1 % sur un an, les services de 2,6 %. L'indice harmonisé européen atteint 3,7 %.",
+   "why": "L'énergie tire l'inflation depuis le début de la guerre en Iran. La hausse des prix pèse sur le pouvoir d'achat et sur les coûts des entreprises.",
+   "sources": [
+    {
+     "name": "Boursorama (AFP)",
+     "url": "https://www.boursorama.com/actualite-economique/actualites/france-l-inflation-a-bien-atteint-3-4-sur-un-an-en-octobre-selon-l-insee-0846fec8a39bf83d611abf29c1b35bf5"
+    }
+   ]
+  },
+  {
+   "cat": "economie",
+   "title": "BCE : les économistes attendent une hausse des taux en décembre",
+   "summary": "Les 71 économistes interrogés par Reuters prévoient tous que la BCE relèvera son taux de dépôt de 2,50 % à 2,75 % le 17 décembre. L'inflation de la zone euro a atteint 4 % en octobre, portée par l'énergie (+20,8 %). Pour 46 d'entre eux, 2,75 % serait le sommet du cycle.",
+   "why": "Une hausse des taux renchérit le crédit pour les ménages et les entreprises, notamment dans l'immobilier et le BTP.",
+   "sources": [
+    {
+     "name": "Echos Plus (Reuters)",
+     "url": "https://echosplus.com/2026/11/13/la-bce-devrait-relever-son-taux-de-depot-a-275-en-decembre-selon-un-sondage-reuters/"
+    }
+   ]
+  },
+  {
+   "cat": "economie",
+   "title": "Investissement : l'incertitude pousse les PME à renoncer",
+   "summary": "Selon le baromètre Bpifrance Le Lab-Rexecode, 34 % des dirigeants de TPE-PME ayant un projet envisagent de l'abandonner, un record. Seuls 30 % le maintiennent. L'investissement des entreprises a reculé de 0,4 % au troisième trimestre, son quatrième recul d'affilée.",
+   "why": "Moins d'investissement aujourd'hui, c'est moins de croissance et de commandes demain, y compris pour la construction.",
+   "sources": [
+    {
+     "name": "Batinfo (AFP)",
+     "url": "https://batinfo.com/actualite/investissement-des-entreprises-lincertitude-politique-multiplie-les-reports-et-les-abandons-de-projets_37951"
+    }
+   ]
+  },
+  {
+   "cat": "international",
+   "title": "Ukraine : les Européens invités au prochain cycle de négociations",
+   "summary": "Après plus de quatre heures avec Vladimir Poutine au Kremlin, les émissaires américains Jared Kushner et Steve Witkoff ont annoncé que le prochain cycle de pourparlers inclurait les Européens. Le Kremlin ne l'a pas confirmé. Moscou exige toujours le retrait ukrainien de toute la région de Donetsk, ce que Kiev refuse. Un nouvel échange massif de prisonniers est prévu.",
+   "why": "Emmanuel Macron rappelle qu'aucune décision sur la sécurité de l'Europe ne peut se prendre sans les Européens.",
+   "sources": [
+    {
+     "name": "Boursorama (AFP)",
+     "url": "https://www.boursorama.com/actualite-economique/actualites/les-europeens-presents-aux-prochaines-negociations-sur-l-ukraine-selon-kiev-et-washington-2cf1f545d791b8407d703c10200bdcbf"
+    }
+   ]
+  },
+  {
+   "cat": "international",
+   "title": "Moyen-Orient : les Houthis visent le pétrole saoudien, le Brent se stabilise",
+   "summary": "Les Houthis affirment avoir visé l'oléoduc Est-Ouest, le terminal de Yanbu et un site d'Aramco à Riyad. La coalition menée par Riyad dit avoir intercepté un drone. Le détroit d'Ormuz reste fermé par l'Iran. Le Brent a fini vendredi à 95,84 dollars, quasi stable, et l'AIE prévoit un premier surplus d'offre au quatrième trimestre.",
+   "why": "Le prix du pétrole pèse directement sur l'inflation et sur les coûts du carburant, notamment pour les engins de chantier.",
+   "sources": [
+    {
+     "name": "Prix du Baril",
+     "url": "https://prixdubaril.com/news-petrole/75209-le-brent-au-dessus-de-96-dollars-les-houthis-visent-le-petrole-saoudien.html"
+    },
+    {
+     "name": "Quartz (AFP)",
+     "url": "https://fr.qz.com/brent-stable-dollars-baril-iran-petrole-111326"
+    }
+   ]
+  },
+  {
+   "cat": "entreprises",
+   "title": "Eramet chute de 10,6 % après une augmentation de capital",
+   "summary": "Le groupe minier Eramet a annoncé une augmentation de capital d'environ 500 millions d'euros, avec droit préférentiel de souscription. L'action a perdu 10,64 %, la plus forte baisse du SBF 120. Le luxe a aussi souffert : Richemont a reculé d'environ 4 % malgré des ventes meilleures que prévu.",
+   "why": "Une augmentation de capital dilue les actionnaires existants, d'où la baisse du cours. C'est un cas classique de financement par fonds propres.",
+   "sources": [
+    {
+     "name": "Boursorama (Zonebourse)",
+     "url": "https://www.boursorama.com/bourse/actualites/cinq-sur-cinq-pour-le-cac-40-sur-la-semaine-de2fcbec62e3ccc0a2e58f1c60018d85"
+    },
+    {
+     "name": "Boursorama (Reuters)",
+     "url": "https://www.boursorama.com/bourse/actualites/les-valeurs-a-suivre-a-paris-et-en-europe-actualise-5dbc4d3b689c84b69d751b8fa9a49b55"
+    }
+   ]
+  },
+  {
+   "cat": "btp",
+   "title": "Logement neuf : les ventes au plus bas depuis 2009",
+   "summary": "La Fédération des promoteurs immobiliers a recensé 15 102 réservations au troisième trimestre, soit -24,4 % sur un an. C'est le plus bas depuis le début de ses statistiques en 2009. Les ventes en bloc aux bailleurs sociaux chutent de 39,6 %. La FPI réclame des mesures dans le budget 2027, dont la prolongation du PTZ.",
+   "why": "Moins de ventes aujourd'hui, ce sont moins de chantiers de logements dans un à deux ans pour le gros œuvre.",
+   "sources": [
+    {
+     "name": "Batinfo (AFP)",
+     "url": "https://batinfo.com/actualite/logement-neuf-les-ventes-au-plus-bas-la-fpi-reclame-des-mesures-dans-le-budget-2027_37959"
+    }
+   ]
+  },
+  {
+   "cat": "btp",
+   "title": "Artisanat : créations record en 2025, mais recul dans le BTP",
+   "summary": "Selon le baromètre ISM-MAAF, 292 000 entreprises artisanales ont été créées en 2025, soit +5 %, un record. Les services progressent de 8 %. Le bâtiment et les travaux publics reculent de 2 %.",
+   "why": "Le BTP reste à l'écart de la dynamique de l'artisanat, signe d'un secteur encore fragile.",
+   "sources": [
+    {
+     "name": "Batinfo (AFP)",
+     "url": "https://batinfo.com/actualite/artisanat-un-record-de-292-000-creations-en-2025-mais-un-recul-dans-le-btp_37955"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "title": "IA : premier sommet des dirigeants de l'UE à Dublin",
+   "summary": "Les dirigeants des 27 ont débattu pour la première fois de l'intelligence artificielle, lors d'un sommet informel à Dublin. Arthur Mensch, patron de Mistral, et le prix Nobel Geoffrey Hinton étaient invités. Aucune décision majeure n'était attendue. L'Estonie et la Finlande plaident pour un dispositif commun face aux incidents graves liés à l'IA.",
+   "why": "L'UE cherche à encadrer les risques de l'IA sans se laisser distancer par les États-Unis et la Chine.",
+   "sources": [
+    {
+     "name": "Quartz (AFP)",
+     "url": "https://fr.qz.com/dirigeants-ue-debattent-premiere-fois-intelligence-artificielle-dublin-111326"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "title": "Wall Street attend Nvidia et l'entrée en Bourse d'Anthropic",
+   "summary": "Nvidia publie ses résultats mardi, après la démission de Jensen Huang qui a fait chuter le titre. Quelques jours plus tard, Anthropic, créateur de Claude, doit faire son entrée au Nasdaq. Selon Reuters, l'opération vise une valorisation d'environ 1 400 milliards de dollars et une levée allant jusqu'à 64,4 milliards.",
+   "why": "Ces deux rendez-vous serviront de test pour un secteur de l'IA très valorisé en Bourse.",
+   "sources": [
+    {
+     "name": "Boursorama (Reuters)",
+     "url": "https://www.boursorama.com/bourse/actualites/la-semaine-a-venir-a-wall-street-les-resultats-de-nvidia-et-l-introduction-en-bourse-d-anthropic-mettent-a-l-epreuve-un-secteur-de-l-ia-en-pleine-effervescence-9d0368751163fed3759e651cd72c6849"
+    }
+   ]
+  },
+  {
+   "cat": "societe",
+   "title": "13-Novembre : un hommage à toutes les victimes du terrorisme",
+   "summary": "Onze ans après les attentats du 13 novembre 2015, qui ont fait 132 morts, l'association Life for Paris a organisé un hommage citoyen à Paris. Il visait toutes les victimes du terrorisme, dont celle de l'attentat raciste des Yvelines en octobre. Emmanuel Macron a adressé aux familles les pensées de la Nation.",
+   "why": "La commémoration rappelle l'enjeu de l'unité nationale face à la violence politique.",
+   "sources": [
+    {
+     "name": "Boursorama (AFP)",
+     "url": "https://www.boursorama.com/actualite-economique/actualites/onze-ans-apres-le-13-novembre-un-hommage-citoyen-a-toutes-les-victimes-du-terrorisme-952073ef8660245e455608c3176edbad"
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Quel taux d'inflation sur un an l'Insee a-t-il confirmé pour octobre 2026 ?",
+   "options": [
+    "2,6 %",
+    "3,4 %",
+    "3,7 %",
+    "4,0 %"
+   ],
+   "answer": 1,
+   "explain": "L'inflation a atteint 3,4 % sur un an, au plus haut depuis janvier 2024. 3,7 % est l'indice harmonisé, 4 % l'inflation de la zone euro."
+  },
+  {
+   "q": "Quelle taxe le Sénat a-t-il supprimée dans le budget de la Sécu ?",
+   "options": [
+    "La taxe sur les éoliennes",
+    "La taxe sur les billets d'avion",
+    "La taxe sur les sodas sucrés",
+    "La taxe sur les mutuelles"
+   ],
+   "answer": 3,
+   "explain": "Le Sénat a supprimé la contribution exceptionnelle de 1,1 milliard d'euros sur les complémentaires santé."
+  },
+  {
+   "q": "Combien de logements neufs ont été réservés au troisième trimestre selon la FPI ?",
+   "options": [
+    "15 102",
+    "25 102",
+    "35 102",
+    "45 102"
+   ],
+   "answer": 0,
+   "explain": "15 102 réservations, soit -24,4 % sur un an, le plus bas depuis 2009."
+  }
+ ]
+}
