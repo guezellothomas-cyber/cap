@@ -1085,6 +1085,7 @@ label.btn{display:inline-flex;align-items:center;justify-content:center;cursor:p
 .hwdots{display:inline-flex;gap:3px}.hwdots i{width:7px;height:7px;border-radius:50%;background:var(--line)}.hwdots i.on{background:var(--accent)}.hwr.imp5 .hwdots i.on,.hwr.imp4 .hwdots i.on{background:var(--amber)}
 .hwdone summary{cursor:pointer;font-weight:700;padding:6px 2px;color:var(--muted)}
 section h2 .link{font-size:13px;font-weight:600;color:var(--accent);background:none;border:0;padding:0;margin-left:auto}
+:root{--c-sci:#1E8A6E}@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--c-sci:#5FD0A8}}:root[data-theme="dark"]{--c-sci:#5FD0A8}
 .tmtx{margin:0 0 10px;padding:10px 12px;border-left:3px solid var(--accent);background:var(--surface-2);border-radius:8px;font-size:14.5px;line-height:1.5}
 .tmst{margin:8px 0 0;padding-left:0;list-style:none;display:grid;gap:6px;font-size:15px}.tmst li{padding:8px 10px;border-radius:10px;background:var(--surface-2)}.iaetot{flex:none;display:flex;flex-direction:column;align-items:center;justify-content:center;width:96px;height:96px;border-radius:50%;background:var(--accent-soft);color:var(--accent)}
 .iaetot b{font-size:30px;line-height:1}.iaetot span{font-size:12px;font-weight:700;opacity:.75}
@@ -3338,7 +3339,7 @@ view.addEventListener('click', e => {
 /* ---------- Actualité ---------- */
 const NEWS = { list:[], status:'loading', sel:null };
 ui.nq = {};
-const NCAT = { politique:['Politique','c-alt'], economie:['Économie','accent'], international:['International','c-cours'], entreprises:['Entreprises et marchés','amber'], btp:['BTP et construction','c-alt'], tech:['Tech et IA','c-perso'], societe:['Société','ok'] };
+const NCAT = { politique:['Politique','c-alt'], economie:['Économie','accent'], international:['International','c-cours'], entreprises:['Entreprises et marchés','amber'], btp:['BTP et construction','c-alt'], tech:['Tech et IA','c-perso'], science:['Sciences et découvertes','c-sci'], societe:['Société','ok'] };
 const safeUrl = u => /^https?:\/\//i.test(String(u||'')) ? esc(u) : '#';
 const NEWS_ICON = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5h13v14a1 1 0 0 0 1 1H6a2 2 0 0 1-2-2z"/><path d="M17 9h3v9a2 2 0 0 1-2 2"/><path d="M8 9h5M8 13h5M8 16h3"/></svg>';
 function newsRerender(){
@@ -3541,7 +3542,7 @@ const HELP = {
     ['flag','Poids','Pèse-toi le matin, à jeun, une à deux fois par semaine : c’est la tendance qui compte. Chaque pesée met ton objectif à jour.'],
     ['grid','Calories','Les 7 derniers jours, avec ta moyenne et la ligne de ton objectif.'],
     ['heart','Profil','Modifier âge, taille, activité ou objectif, ou fixer ton objectif à la main.'] ] },
-  actu: { t:'L’actualité', i:'Un point factuel sur la politique et l’économie, préparé chaque matin vers 6 h 50.', s:[
+  actu: { t:'L’actualité', i:'Un point factuel sur la politique, l’économie, la tech et les sciences, préparé chaque matin vers 6 h 30.', s:[
     ['sun','Le point du jour','L’essentiel en deux phrases, les chiffres clés, puis les infos par thème avec « Pourquoi c’est important ».'],
     ['check','Des sources variées','Agences de presse, sources officielles et médias de différentes sensibilités. Chaque info a ses liens pour vérifier.'],
     ['calendar','Les jours précédents','Flèches pour passer d’un jour à l’autre ; touche la date pour voir tous les points archivés.'],
