@@ -1,0 +1,260 @@
+{
+ "date": "2026-11-15",
+ "generatedAt": "2026-11-15T07:05:00+01:00",
+ "lede": "La mobilisation contre la vie chère recule : 106 000 manifestants samedi selon l'Intérieur, contre 146 000 une semaine plus tôt. En Ukraine, Zelensky affirme que Washington a proposé pour la première fois d'échanger le Donbass contre une adhésion à l'Otan.",
+ "figures": [
+  {
+   "label": "CAC 40 (clôture du 13 nov.)",
+   "value": "8 368,91 pts",
+   "note": "+0,09 % sur la séance, +2,82 % sur la semaine",
+   "source": "Zonebourse"
+  },
+  {
+   "label": "Inflation France (oct. 2026, définitif)",
+   "value": "+3,4 % sur un an",
+   "note": "Plus haut depuis janvier 2024",
+   "source": "Insee"
+  },
+  {
+   "label": "PIB France (T3 2026, première estimation)",
+   "value": "-0,1 %",
+   "note": "La Banque de France attend une hausse modérée au T4",
+   "source": "Insee / Banque de France"
+  },
+  {
+   "label": "Croissance France 2026 (estimation du 10 nov.)",
+   "value": "autour de 0,3 %",
+   "note": "Contre 0,4 % auparavant, selon le gouverneur Emmanuel Moulin",
+   "source": "Banque de France / BFM Business"
+  },
+  {
+   "label": "Chômage France (T3 2026)",
+   "value": "8,2 %",
+   "note": "-0,1 point sur trois mois, +0,4 point sur un an",
+   "source": "Insee"
+  },
+  {
+   "label": "Taux de dépôt BCE (depuis le 29 oct.)",
+   "value": "2,50 %",
+   "note": "Prochaine réunion le 17 décembre",
+   "source": "BCE"
+  }
+ ],
+ "items": [
+  {
+   "cat": "politique",
+   "title": "Vie chère : la mobilisation recule, 219 interpellations",
+   "summary": "Samedi 14 novembre, 106 000 personnes ont manifesté en France, dont 24 000 à Paris, selon le ministère de l'Intérieur. C'était 146 000 le samedi précédent. L'intersyndicale de la jeunesse revendique 200 000 manifestants. Le ministère compte 219 interpellations et 10 policiers légèrement blessés, et juge la journée « globalement maîtrisée ».",
+   "why": "Le mouvement, lancé par des Gilets jaunes et des organisations de jeunesse, pèse sur un gouvernement déjà fragilisé par le budget. Les confédérations syndicales appellent à une nouvelle journée mardi 17 novembre.",
+   "sources": [
+    {
+     "name": "Ma vigilance",
+     "url": "https://mavigilance.fr/jour/2026-11-14"
+    },
+    {
+     "name": "franceinfo",
+     "url": "https://www.franceinfo.fr/societe/manifestations/direct-manifestations-du-14-novembre-suivez-la-journee-de-mobilisation-a-l-appel-de-gilets-jaunes-et-d-organisations-de-jeunesse_8281187.html"
+    },
+    {
+     "name": "CNews",
+     "url": "https://www.cnews.fr/france/2026-11-14/manifestations-du-14-novembre-106000-manifestants-en-france-dont-24000-paris-des"
+    }
+   ]
+  },
+  {
+   "cat": "politique",
+   "title": "Budget de la Sécu : vote solennel au Sénat mercredi",
+   "summary": "Le Sénat examine le budget de la Sécurité sociale 2027 jusqu'au 18 novembre, jour du vote solennel. La majorité de droite et du centre vise un déficit de 12,7 milliards d'euros, contre 21,8 milliards en 2026. Elle veut rétablir la réforme des retraites suspendue et relever à 1 500 euros le seuil des pensions revalorisées. Le budget de l'État arrivera ensuite au Sénat, du 20 novembre au 9 décembre.",
+   "why": "Les deux budgets ont été rejetés à l'Assemblée. Faute d'accord, le gouvernement pourrait recourir au 49.3, aux ordonnances ou à une loi spéciale.",
+   "sources": [
+    {
+     "name": "MoneyVox",
+     "url": "https://www.moneyvox.fr/retraite/actualites/111102/desindexation-des-retraites-des-1-400-euros-de-pension-ce-que-propose-le-senat-pour-le-budget-secu-2027"
+    },
+    {
+     "name": "LCP",
+     "url": "https://lcp.fr/actualites/budget-2027-rejete-quelles-sont-les-prochaines-etapes-au-parlement-444753"
+    }
+   ]
+  },
+  {
+   "cat": "politique",
+   "title": "Présidentielle : le camp Glucksmann écarte la retraite à 60 ans pour tous",
+   "summary": "Sur LCI samedi, Lamia El Aaraje, porte-parole de Raphaël Glucksmann, a écarté un retour universel à la retraite à 60 ans. Elle réclame des réponses immédiates sur les salaires, le logement et l'énergie, sans chiffrage. Face à elle, Jean-Charles Orsucci, soutien de Gabriel Attal, a présenté la présidentielle comme le moment du choix.",
+   "why": "Les retraites et le pouvoir d'achat s'imposent comme des thèmes centraux de la future campagne présidentielle.",
+   "sources": [
+    {
+     "name": "Politique Matin",
+     "url": "https://www.politiquematin.fr/lamia-el-aaraje-lci-retraite-60-ans-14-novembre-2026"
+    }
+   ]
+  },
+  {
+   "cat": "economie",
+   "title": "Épargne : le Parlement européen rejette la réforme des frais",
+   "summary": "Le 12 novembre, les eurodéputés ont rejeté l'accord sur la protection des investisseurs particuliers, par 300 voix contre 286 et 23 abstentions. Le texte devait encadrer les commissions versées aux distributeurs de produits financiers et rendre les frais plus transparents. L'accord ne peut pas entrer en vigueur en l'état. Les règles actuelles continuent de s'appliquer.",
+   "why": "Ce volet était un pilier du projet européen pour orienter l'épargne des ménages vers les marchés. Son rejet retarde la baisse des frais promise aux épargnants.",
+   "sources": [
+    {
+     "name": "Politique Matin",
+     "url": "https://www.politiquematin.fr/parlement-europeen-rejet-compromis-investisseurs-particuliers-12-novembre-2026"
+    }
+   ]
+  },
+  {
+   "cat": "economie",
+   "title": "Croissance : la Banque de France abaisse son estimation à 0,3 %",
+   "summary": "Le gouverneur Emmanuel Moulin estime que la croissance 2026 pourrait être « autour de 0,3 % », contre 0,4 % auparavant. Le PIB a reculé de 0,1 % au troisième trimestre. L'enquête de conjoncture de début novembre prévoit une hausse modérée au quatrième trimestre. L'activité du bâtiment reste stable, le gros œuvre pèse sur le secteur.",
+   "why": "Une croissance faible réduit les recettes fiscales et complique la tenue du déficit. Le climat des affaires de l'Insee, publié vendredi 20 novembre, donnera un nouveau signal.",
+   "sources": [
+    {
+     "name": "Economie Matin",
+     "url": "https://www.economiematin.fr/croissance-2026-banque-de-france-emmanuel-moulin-03-pourcent-101126-2137"
+    },
+    {
+     "name": "Banque de France",
+     "url": "https://www.banque-france.fr/fr/publications-et-statistiques/publications/enquete-mensuelle-de-conjoncture-debut-novembre-2026"
+    },
+    {
+     "name": "AFP / TradingView (agenda)",
+     "url": "https://fr.tradingview.com/news/afp:c38993458cbce:0/"
+    }
+   ]
+  },
+  {
+   "cat": "international",
+   "title": "Ukraine : Zelensky dit que Washington propose le Donbass contre l'Otan",
+   "summary": "Samedi, Volodymyr Zelensky a affirmé que les États-Unis ont demandé pour la première fois à l'Ukraine de céder le Donbass en échange d'une adhésion à l'Otan. Deux jours de pourparlers à Abou Dhabi n'ont pas abouti, mais les Européens seront associés aux prochaines négociations. Ils seront représentés par la France, l'Allemagne, le Royaume-Uni, la Pologne, l'Italie et l'UE. Des frappes russes ont fait au moins deux morts samedi.",
+   "why": "Kiev rejette tout retrait du Donbass. La place des Européens à la table est une avancée qu'ils réclamaient depuis des mois.",
+   "sources": [
+    {
+     "name": "L'Avenir (AFP)",
+     "url": "https://www.lavenir.net/actu/monde/2026/11/14/zelensky-affirme-que-washington-a-propose-des-concessions-territoriales-en-echange-dune-adhesion-de-lukraine-a-lotan-XHDRZ3IA3BACZLGTSRUE7CKO6I/"
+    },
+    {
+     "name": "La Libre (Belga)",
+     "url": "https://www.lalibre.be/international/europe/guerre-ukraine-russie/2026/11/13/guerre-en-ukraine-les-europeens-bientot-a-la-table-des-negociations-annonce-zelensky-L7YBI6ZGQZCXLN5Y2JE25L4V7Q/"
+    }
+   ]
+  },
+  {
+   "cat": "international",
+   "title": "Moyen-Orient : le Qatar et la Turquie signent un pacte de défense",
+   "summary": "Vendredi à Istanbul, l'émir du Qatar et Recep Tayyip Erdogan ont signé un accord de défense mutuelle. Les deux pays promettent une position commune face à toute attaque extérieure. Ils prévoient des exercices militaires conjoints et une coopération dans l'industrie de défense. D'autres accords portent sur le commerce et l'énergie.",
+   "why": "Depuis la guerre en Iran, les alliances militaires de la région se recomposent vite. La Turquie a aussi ratifié un pacte avec le Pakistan et l'Arabie saoudite.",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/14/qatar-and-turkey-sign-defence-agreement-for-unified-position-facing-external-attacks"
+    }
+   ]
+  },
+  {
+   "cat": "international",
+   "title": "Asie : avant l'APEC, le Canada signe avec les Philippines",
+   "summary": "Le Premier ministre canadien Mark Carney a annoncé samedi à Manille la fin des négociations d'un accord de libre-échange avec les Philippines, pour une entrée en vigueur en 2027. Le Canada veut réduire sa dépendance aux États-Unis. Le sommet de l'APEC se tient les 18 et 19 novembre à Shenzhen. Donald Trump dit attendre une rencontre avec Xi Jinping et Vladimir Poutine, que Pékin et Moscou n'ont pas confirmée.",
+   "why": "Une rencontre à trois serait inédite et pourrait porter sur le nucléaire et l'Iran. Le commerce mondial se réorganise autour des tensions avec Washington.",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/14/canada-and-the-philippines-conclude-talks-on-free-trade-deal-mark-carney-says"
+    },
+    {
+     "name": "The Rio Times",
+     "url": "https://www.riotimesonline.com/apec-shenzhen-summit-what-to-watch/"
+    }
+   ]
+  },
+  {
+   "cat": "entreprises",
+   "title": "Engie s'allie à Google pour un data center, CMA CGM profite du fret",
+   "summary": "Engie a signé un protocole d'accord avec Google autour d'un projet de data center à Châteauroux, selon Reuters. L'armateur CMA CGM annonce un Ebitda en hausse de 61,6 % au troisième trimestre, porté par la hausse des taux de fret. Eramet, lui, a lancé une augmentation de capital d'environ 500 millions d'euros.",
+   "why": "Les data centers deviennent un relais de croissance pour les énergéticiens. Les tensions géopolitiques font grimper les prix du transport maritime.",
+   "sources": [
+    {
+     "name": "Boursorama (Reuters, Zonebourse)",
+     "url": "https://www.boursorama.com/bourse/actualites/societes/"
+    }
+   ]
+  },
+  {
+   "cat": "btp",
+   "title": "Aide GNR : le soutien aux PME du BTP prolongé jusqu'à fin 2026",
+   "summary": "Un décret du 3 novembre prolonge l'aide au gazole non routier pour novembre et décembre 2026. Elle s'élève à 20 centimes par litre, dans la limite de 4 000 euros par entreprise et par mois. Elle vise les entreprises de 50 salariés au plus. La demande pour le GNR de novembre se fait du 1er au 31 décembre sur impots.gouv.fr.",
+   "why": "Le carburant pèse lourd dans les coûts des chantiers depuis la flambée liée au Moyen-Orient. Pour un contrôleur de gestion, c'est une aide à suivre dans les marges.",
+   "sources": [
+    {
+     "name": "Rydge",
+     "url": "https://rydge.fr/articles-analyses/aide-gnr-btp-prolongation-novembre-decembre-2026"
+    },
+    {
+     "name": "FNTP",
+     "url": "https://www.fntp.fr/conflit-au-moyen-orient-premiers-outils-daccompagnement-de-la-fntp/"
+    }
+   ]
+  },
+  {
+   "cat": "btp",
+   "title": "Travaux publics : la FNTP mise sur l'investissement local au Salon des maires",
+   "summary": "Le Salon des maires se tient du 24 au 26 novembre à Paris, Porte de Versailles. La FNTP y défend le message « L'audace, c'est d'investir » pour le nouveau mandat municipal. Les Victoires de l'investissement local y seront remises, avec un Grand Prix pour l'agglomération clermontoise et ses lignes de bus. Un débat sur les data centers est prévu le 26 novembre.",
+   "why": "Les communes sont les premiers clients des travaux publics. Leur volonté d'investir après les municipales conditionne les carnets de commandes du secteur.",
+   "sources": [
+    {
+     "name": "FNTP",
+     "url": "https://www.fntp.fr/salon-des-maires-2026-laudace-cest-dinvestir-la-fntp-au-rendez-vous-du-nouveau-mandat/"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "title": "IA : une marche à Paris pour un traité sur les modèles les plus puissants",
+   "summary": "Les collectifs Pause IA et Stop The AI Race ont appelé à marcher samedi à Paris, vers le Trocadéro. Ils demandent aux États-Unis et à la Chine un accord pour arrêter le développement des modèles d'IA les plus avancés. Des marches étaient aussi prévues à San Francisco, New York et Washington. Aucun chiffre de participation n'a été publié.",
+   "why": "Le débat sur l'encadrement de l'IA sort des cercles d'experts, à l'approche du sommet de l'APEC où Washington et Pékin se retrouvent.",
+   "sources": [
+    {
+     "name": "Politique Matin",
+     "url": "https://www.politiquematin.fr/paris-marche-traite-intelligence-artificielle-14-novembre-2026"
+    },
+    {
+     "name": "Sortir à Paris",
+     "url": "https://sortiraparis.com/actualites/a-paris/articles/358040-manifestations-du-14-novembre-a-paris-qui-defile-ou-et-quand"
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Combien de manifestants le ministère de l'Intérieur a-t-il comptés en France le 14 novembre ?",
+   "options": [
+    "146 000",
+    "200 000",
+    "106 000",
+    "46 000"
+   ],
+   "answer": 2,
+   "explain": "106 000 selon l'Intérieur, dont 24 000 à Paris. C'était 146 000 le samedi précédent ; l'intersyndicale de la jeunesse revendique 200 000."
+  },
+  {
+   "q": "Quels pays ont signé un accord de défense mutuelle le 13 novembre à Istanbul ?",
+   "options": [
+    "Qatar et Turquie",
+    "Qatar et Égypte",
+    "Turquie et Iran",
+    "Pakistan et Oman"
+   ],
+   "answer": 0,
+   "explain": "L'émir du Qatar et Recep Tayyip Erdogan ont signé ce pacte lors de leur comité stratégique suprême."
+  },
+  {
+   "q": "Jusqu'à quelle date l'aide GNR aux PME du BTP est-elle prolongée ?",
+   "options": [
+    "30 novembre 2026",
+    "31 mars 2027",
+    "31 janvier 2027",
+    "31 décembre 2026"
+   ],
+   "answer": 3,
+   "explain": "Le décret du 3 novembre 2026 la prolonge pour novembre et décembre, soit jusqu'au 31 décembre 2026."
+  }
+ ]
+}
