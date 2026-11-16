@@ -1,0 +1,282 @@
+{
+ "date": "2026-11-16",
+ "generatedAt": "2026-11-16T07:15:00+01:00",
+ "lede": "La semaine s'ouvre sous tension sociale, avec une journée d'action contre la vie chère mardi et un Smic relevé à environ 1 502 euros net au 1er décembre. Les marchés attendent les résultats de Nvidia, en pleine crise de direction, et l'entrée en Bourse record d'Anthropic jeudi.",
+ "figures": [
+  {
+   "label": "CAC 40 (clôture du 13 nov.)",
+   "value": "8 368,91 pts",
+   "note": "+0,09 % sur la séance",
+   "source": "Zonebourse / Boursorama"
+  },
+  {
+   "label": "S&P 500 (clôture du 13 nov.)",
+   "value": "7 561,67 pts",
+   "note": "-0,40 % sur la séance, +10,5 % depuis début 2026",
+   "source": "Reuters via Boursorama"
+  },
+  {
+   "label": "Brent (clôture du 10 nov.)",
+   "value": "91,49 $",
+   "note": "Près de -11 % en une semaine, sur des espoirs de désescalade avec l'Iran",
+   "source": "AFP / Connaissance des Énergies"
+  },
+  {
+   "label": "Smic net (au 1er déc. 2026)",
+   "value": "environ 1 502 €",
+   "note": "Soit environ +24 € par mois",
+   "source": "AFP via Boursorama"
+  },
+  {
+   "label": "Inflation France (oct. 2026, définitif)",
+   "value": "+3,4 % sur un an",
+   "note": "Plus haut depuis janvier 2024",
+   "source": "Insee"
+  },
+  {
+   "label": "Chômage France (T3 2026)",
+   "value": "8,2 %",
+   "note": "-0,1 point sur trois mois",
+   "source": "Insee"
+  },
+  {
+   "label": "Taux de dépôt BCE (depuis le 29 oct.)",
+   "value": "2,50 %",
+   "note": "Discours de Christine Lagarde mercredi",
+   "source": "BCE"
+  }
+ ],
+ "items": [
+  {
+   "cat": "politique",
+   "title": "Vie chère : nouvelle journée d'action mardi, rassemblements interdits près de lycées parisiens",
+   "summary": "Les syndicats appellent à une nouvelle journée d'action contre la vie chère mardi 17 novembre, avec une grève attendue dans la fonction publique. À Paris, un arrêté publié dimanche interdit les rassemblements non déclarés à moins de 100 mètres de dix lycées et cinq sites universitaires, du lundi au vendredi. Le préfet de police évoque 1 548 interpellations depuis le début du mouvement dans l'agglomération. L'Unef demande le retrait de l'arrêté.",
+   "why": "La mobilisation sociale reste forte et pèse sur les choix budgétaires du gouvernement.",
+   "sources": [
+    {
+     "name": "AFP via Boursorama",
+     "url": "https://www.boursorama.com/actualite-economique/actualites/paris-interdiction-de-rassemblement-autour-de-certains-lycees-et-universites-0e69a5b9da286e8c31a164302af27f6a"
+    },
+    {
+     "name": "Reuters via Boursorama (agenda)",
+     "url": "https://www.boursorama.com/bourse/actualites/agenda-france-international-semaine-du-16-novembre-273123af8572a80683e088175db1c9c6"
+    }
+   ]
+  },
+  {
+   "cat": "politique",
+   "title": "Ukraine : Macron s'en prend à Le Pen sans la nommer",
+   "summary": "Emmanuel Macron a publié samedi soir un message visant « ceux qui veulent rationner les moyens de l'Ukraine ». Marine Le Pen, en tête des sondages pour la présidentielle, a annoncé qu'elle cesserait l'aide financière à Kiev après six mois si elle est élue. Elle a répondu que si Macron n'avait pas « ruiné » le pays, il resterait des marges pour aider l'Ukraine. Le président est en visite au Cambodge puis en Malaisie jusqu'au 17 novembre.",
+   "why": "L'aide à l'Ukraine devient un thème central de la campagne présidentielle du printemps.",
+   "sources": [
+    {
+     "name": "AFP via Boursorama",
+     "url": "https://www.boursorama.com/actualite-economique/actualites/macron-passe-a-l-offensive-contre-le-pen-sur-l-ukraine-ad394129165a8dd51aa77dfe4aa11479"
+    }
+   ]
+  },
+  {
+   "cat": "economie",
+   "title": "Smic à 1 502 euros net : un coût d'un peu plus d'un milliard pour l'État",
+   "summary": "Le Smic sera relevé au 1er décembre à environ 1 502 euros net, soit environ 24 euros de plus par mois. Avec la hausse des bas salaires de la fonction publique (1,35 million d'agents concernés), la mesure coûtera « un peu plus d'un milliard d'euros », selon le ministre David Amiel. Le gouvernement promet de limiter la hausse du coût du travail en adaptant les allègements de cotisations, qui pèsent plus de 70 milliards par an. Le patronat s'inquiète.",
+   "why": "Ces dépenses compliquent le budget 2027, examiné au Sénat à partir du 20 novembre après son rejet à l'Assemblée.",
+   "sources": [
+    {
+     "name": "AFP via Boursorama",
+     "url": "https://www.boursorama.com/actualite-economique/actualites/repondre-aux-attentes-sur-le-pouvoir-d-achat-sans-aggraver-les-comptes-l-exercice-delicat-du-gouvernement-6cd4b17a853db616c8531f75683fa511"
+    }
+   ]
+  },
+  {
+   "cat": "economie",
+   "title": "Pétrole : le Brent au plus bas depuis deux mois",
+   "summary": "Les cours du pétrole sont tombés autour de 90 dollars le baril, leur plus bas niveau en deux mois. Le Brent a clôturé à 91,49 dollars le 10 novembre, après une baisse de près de 11 % en une semaine. Les marchés misent sur une désescalade entre Washington et Téhéran. L'Agence internationale de l'énergie prévoit un excédent d'offre au quatrième trimestre.",
+   "why": "Un pétrole moins cher allège les coûts de l'énergie et du carburant, notamment pour le BTP et les transports.",
+   "sources": [
+    {
+     "name": "AFP / Connaissance des Énergies",
+     "url": "https://www.connaissancedesenergies.org/afp/usa-iran-le-petrole-a-encore-baisse-avec-les-espoirs-de-desescalade-261110"
+    },
+    {
+     "name": "Reuters via Boursorama",
+     "url": "https://www.boursorama.com/bourse/actualites/rpt-point-hebdo-entre-crise-chez-nvidia-et-debut-boursier-d-anthropic-les-marches-toujours-suspendus-a-l-ia-2faa68df9e2c02ab7cc41da7b7efa230"
+    }
+   ]
+  },
+  {
+   "cat": "economie",
+   "title": "La semaine éco : prévisions de Bruxelles, inflation et climat des affaires",
+   "summary": "La Commission européenne publie ses prévisions économiques mardi. L'inflation finale d'octobre de la zone euro tombe mercredi, jour d'un discours de Christine Lagarde. Vendredi, l'Insee publie le climat des affaires de novembre. Côté entreprises, Alstom publie ses résultats mardi et Vinci son trafic d'octobre.",
+   "why": "Ces indicateurs donnent le ton sur la croissance et les taux pour la fin d'année.",
+   "sources": [
+    {
+     "name": "Reuters via Boursorama (agenda)",
+     "url": "https://www.boursorama.com/bourse/actualites/agenda-france-international-semaine-du-16-novembre-273123af8572a80683e088175db1c9c6"
+    },
+    {
+     "name": "Zonebourse via Boursorama",
+     "url": "https://www.boursorama.com/bourse/actualites/agenda-macro-zonebourse-semaine-du-16-au-20-novembre-2026-9de4ec87a9200c792d1decb919b524a5"
+    }
+   ]
+  },
+  {
+   "cat": "international",
+   "title": "États-Unis : le ciel américain toujours perturbé après une panne géante",
+   "summary": "Une panne pendant des travaux sur le contrôle aérien a suspendu tous les décollages aux États-Unis pendant plus de quatre heures vendredi. Plus de 18 000 vols ont été annulés entre vendredi et samedi. Un routeur est tombé lors du remplacement d'une ligne en cuivre par de la fibre. Le ministre Sean Duffy réclame 50 milliards de dollars pour moderniser le système.",
+   "why": "L'incident montre la fragilité d'infrastructures vieillissantes et le coût de leur sous-investissement.",
+   "sources": [
+    {
+     "name": "AFP via Boursorama",
+     "url": "https://www.boursorama.com/actualite-economique/actualites/pas-de-retour-a-la-normale-avant-lundi-dans-le-ciel-americain-e3d36563d7cd186cf145347d417d43ff"
+    },
+    {
+     "name": "Anadolu",
+     "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-15-2026/4125489"
+    }
+   ]
+  },
+  {
+   "cat": "international",
+   "title": "APEC : une rencontre Poutine, Xi, Trump annoncée à Shenzhen",
+   "summary": "Le Kremlin annonce une réunion à trois entre Vladimir Poutine, Xi Jinping et Donald Trump le 19 novembre à Shenzhen, en marge du sommet de l'APEC (18 et 19 novembre). En parallèle, les sommets de l'Asean se tiennent à Manille. Mardi, le groupe de contact pour la défense de l'Ukraine se réunit au siège de l'Otan.",
+   "why": "Une rencontre entre les trois dirigeants peut peser sur la guerre en Ukraine et sur le commerce mondial.",
+   "sources": [
+    {
+     "name": "Anadolu",
+     "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-15-2026/4125489"
+    },
+    {
+     "name": "Reuters via Boursorama (agenda)",
+     "url": "https://www.boursorama.com/bourse/actualites/agenda-france-international-semaine-du-16-novembre-273123af8572a80683e088175db1c9c6"
+    }
+   ]
+  },
+  {
+   "cat": "international",
+   "title": "Iran : nouveaux pétroliers touchés par des mines près d'Ormuz, selon Téhéran",
+   "summary": "Les Gardiens de la révolution affirment que deux pétroliers ont heurté des mines et pris feu au sud du détroit d'Ormuz. Selon eux, les navires suivaient une route non autorisée, systèmes de navigation coupés. Ils disent aussi avoir abattu un drone américain MQ-1 au-dessus de l'île de Qeshm. Ces affirmations n'ont pas été confirmées de source indépendante.",
+   "why": "Le détroit d'Ormuz reste un point de tension majeur pour le prix du pétrole.",
+   "sources": [
+    {
+     "name": "Anadolu",
+     "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-15-2026/4125489"
+    }
+   ]
+  },
+  {
+   "cat": "entreprises",
+   "title": "Nvidia en crise, Anthropic en Bourse : une semaine clé pour l'IA",
+   "summary": "Jensen Huang a démissionné de la direction de Nvidia jeudi, Colette Kress assure l'intérim. Le groupe publie ses résultats mardi, avec un chiffre d'affaires attendu à 109 milliards de dollars. Sa valeur boursière est passée d'environ 5 800 milliards début octobre à 3 900 milliards vendredi. Anthropic vise une valorisation d'environ 1 400 milliards et jusqu'à 64,4 milliards de dollars levés, pour une cotation au Nasdaq prévue jeudi.",
+   "why": "Ces deux rendez-vous diront si l'engouement des marchés pour l'IA tient toujours.",
+   "sources": [
+    {
+     "name": "Reuters via Boursorama",
+     "url": "https://www.boursorama.com/bourse/actualites/la-semaine-a-venir-a-wall-street-les-resultats-de-nvidia-et-l-introduction-en-bourse-d-anthropic-constituent-des-defis-pour-un-marche-de-l-ia-en-pleine-effervescence-4daca3aaaf75ecaa694cf684db187bb8"
+    },
+    {
+     "name": "Reuters via Boursorama (point hebdo)",
+     "url": "https://www.boursorama.com/bourse/actualites/rpt-point-hebdo-entre-crise-chez-nvidia-et-debut-boursier-d-anthropic-les-marches-toujours-suspendus-a-l-ia-2faa68df9e2c02ab7cc41da7b7efa230"
+    }
+   ]
+  },
+  {
+   "cat": "btp",
+   "title": "Logement : le projet de loi de relance arrive en séance à l'Assemblée",
+   "summary": "L'examen en séance du projet de loi sur la relance et la décentralisation du logement est avancé au 16 novembre, selon l'entourage du ministre Vincent Jeanbrun. Les débats sont prévus jusqu'au 20 novembre. Le texte a déjà été adopté par le Sénat en juillet. La rapporteure est Annaïg Le Meur (Renaissance).",
+   "why": "Ce texte vise à relancer une construction neuve au plus bas, un enjeu direct pour tout le BTP.",
+   "sources": [
+    {
+     "name": "Immo Matin",
+     "url": "https://www.immomatin.com/juridique/relance-logement-l-examen-du-projet-de-loi-en-seance-a-l-assemblee-nationale-avance-au-16-novembre.html"
+    }
+   ]
+  },
+  {
+   "cat": "btp",
+   "title": "Colas Rail décroche 29 millions d'euros de travaux au Maroc",
+   "summary": "Colas Rail, filiale de Bouygues, a remporté un nouveau contrat d'environ 29 millions d'euros auprès de l'Office national des chemins de fer (ONCF) du Maroc. L'annonce date du 12 novembre. Bouygues est coté sur Euronext Paris.",
+   "why": "Les majors du BTP compensent la faiblesse du marché français par des chantiers à l'étranger.",
+   "sources": [
+    {
+     "name": "Boursorama",
+     "url": "https://www.boursorama.com/bourse/actualites/colas-rail-bouygues-remporte-un-contrat-d-environ-29-mlns-au-maroc-624978d7c29167198338d4a14adc31cb"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "title": "Données personnelles : l'Italie inflige 805 millions d'euros d'amende à Meta",
+   "summary": "L'autorité italienne de protection des données a infligé une amende de 805 millions d'euros à Meta. Elle reproche au groupe d'avoir accédé sans consentement valable aux photos, vidéos et métadonnées d'appareils Android. Meta peut contester la décision.",
+   "why": "C'est l'une des plus lourdes sanctions RGPD, un signal fort pour les géants du numérique en Europe.",
+   "sources": [
+    {
+     "name": "Anadolu",
+     "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-15-2026/4125489"
+    }
+   ]
+  },
+  {
+   "cat": "science",
+   "title": "Espace : SpaceX rattrape pour la première fois l'étage supérieur de Starship",
+   "summary": "Samedi, SpaceX a rattrapé avec les bras de sa tour l'étage supérieur de Starship, après plus de 22 heures de vol et environ 14 tours de la Terre. C'est une première, plus difficile que pour le premier étage, qui tombe moins haut et moins vite. Le propulseur Super Heavy n'a en revanche pas été récupéré et a explosé près de la base. La prochaine étape annoncée est le ravitaillement en orbite.",
+   "why": "La réutilisation complète doit faire baisser le coût des lancements et conditionne le retour américain sur la Lune.",
+   "sources": [
+    {
+     "name": "AFP via Boursorama",
+     "url": "https://www.boursorama.com/bourse/actualites/spacex-rattrape-l-etage-superieur-de-sa-megafusee-starship-une-premiere-f9320fa901c41484b15edca22b4e0d15"
+    },
+    {
+     "name": "Anadolu",
+     "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-15-2026/4125489"
+    }
+   ]
+  },
+  {
+   "cat": "science",
+   "title": "Alzheimer : deux zones du cerveau rétrécissent des années avant les troubles",
+   "summary": "Une équipe de l'université Johns Hopkins a analysé des centaines d'IRM et de TEP issues des cohortes ADNI et BIOCARD. Le cortex entorhinal et l'amygdale perdent plus de tissu que l'hippocampe aux premiers stades, parfois jusqu'à dix ans avant les troubles de mémoire. L'étude est publiée dans NeuroImage: Reports. Ce sont des pistes de biomarqueurs précoces, pas encore un test de diagnostic.",
+   "why": "Repérer la maladie plus tôt permettrait de traiter les patients avant des dégâts irréversibles.",
+   "sources": [
+    {
+     "name": "ScienceDaily (Johns Hopkins)",
+     "url": "https://www.sciencedaily.com/releases/2026/11/261114202130.htm"
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "À combien sera porté le Smic net au 1er décembre ?",
+   "options": [
+    "Environ 1 482 euros",
+    "Environ 1 527 euros",
+    "Environ 1 502 euros",
+    "Environ 1 545 euros"
+   ],
+   "answer": 2,
+   "explain": "Le Smic passe à environ 1 502 euros net, soit environ 24 euros de plus par mois."
+  },
+  {
+   "q": "Quelle première SpaceX a-t-elle réussie samedi avec Starship ?",
+   "options": [
+    "Rattraper l'étage supérieur avec la tour",
+    "Poser l'étage supérieur sur une barge",
+    "Ravitailler l'étage supérieur en orbite",
+    "Rattraper le propulseur Super Heavy en mer"
+   ],
+   "answer": 0,
+   "explain": "La tour a rattrapé l'étage supérieur après plus de 22 heures de vol. Le Super Heavy, lui, n'a pas été récupéré."
+  },
+  {
+   "q": "Quel montant d'amende l'Italie a-t-elle infligé à Meta ?",
+   "options": [
+    "405 millions d'euros",
+    "605 millions d'euros",
+    "705 millions d'euros",
+    "805 millions d'euros"
+   ],
+   "answer": 3,
+   "explain": "L'autorité italienne des données a sanctionné Meta de 805 millions d'euros pour un accès sans consentement à des données Android."
+  }
+ ]
+}
