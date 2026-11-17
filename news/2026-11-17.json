@@ -1,0 +1,290 @@
+{
+ "date": "2026-11-17",
+ "generatedAt": "2026-11-17T06:45:00+01:00",
+ "lede": "Journée de grève dans la fonction publique ce mardi, pendant que les députés lancent l'examen du projet de loi pour relancer le logement. Les marchés reculent avant les résultats de Nvidia ce soir et l'entrée en Bourse d'Anthropic jeudi.",
+ "figures": [
+  {
+   "label": "CAC 40 (clôture du 16 nov.)",
+   "value": "8 352 pts",
+   "note": "-0,20 %, fin d'une série de cinq séances de hausse",
+   "source": "BFM Bourse / Zonebourse"
+  },
+  {
+   "label": "Brent (16 nov., fin de journée)",
+   "value": "93,43 $",
+   "note": "-2,5 % sur la séance",
+   "source": "BFM Bourse"
+  },
+  {
+   "label": "Taux à 10 ans France (16 nov.)",
+   "value": "environ 4,9 %",
+   "note": "Contre 3,38 % pour l'Allemagne",
+   "source": "MoneyVox"
+  },
+  {
+   "label": "Smic net (au 1er déc. 2026)",
+   "value": "environ 1 502 €",
+   "note": "Hausse de 1,6 %, soit environ +24 € par mois",
+   "source": "Le JDD"
+  },
+  {
+   "label": "Inflation France (oct. 2026, définitif)",
+   "value": "+3,4 % sur un an",
+   "note": "Plus haut depuis janvier 2024",
+   "source": "Insee"
+  },
+  {
+   "label": "Chômage France (T3 2026)",
+   "value": "8,2 %",
+   "note": "-0,1 point sur trois mois",
+   "source": "Insee"
+  },
+  {
+   "label": "Taux de dépôt BCE (depuis le 29 oct.)",
+   "value": "2,50 %",
+   "note": "Taux directeur de référence de la zone euro",
+   "source": "BCE"
+  }
+ ],
+ "items": [
+  {
+   "cat": "politique",
+   "title": "Grève dans la fonction publique : nouvelle journée de mobilisation ce mardi",
+   "summary": "Une intersyndicale (CGT, Unsa, FSU, Solidaires, CFE-CGC, FA-FP) appelle à la grève ce 17 novembre. Elle réclame une hausse immédiate du point d'indice, gelé depuis 2023. La CGT recense près de 179 rendez-vous. À Paris, la RATP ferme 17 stations de métro et RER à partir de 11 h, à la demande de la préfecture. Le cortège part à 14 h de la place de la Nation.",
+   "why": "Le gouvernement met en avant un coût d'un peu plus d'un milliard d'euros pour ses annonces. D'autres journées sont prévues les 19, 21, 25 et 28 novembre.",
+   "sources": [
+    {
+     "name": "Le JDD",
+     "url": "https://www.lejdd.fr/Societe/greve-du-17-novembre-et-colere-lyceenne-les-rendez-vous-les-perturbations-et-la-reponse-du-gouvernement-188895"
+    },
+    {
+     "name": "Sortiraparis",
+     "url": "https://www.sortiraparis.com/actualites/a-paris/articles/358365-manifestation-du-17-novembre-17-stations-de-metro-fermees-a-paris"
+    }
+   ]
+  },
+  {
+   "cat": "politique",
+   "title": "Budgets 2027 : le Sénat prend le relais cette semaine",
+   "summary": "Le Sénat vote mercredi 18 novembre le budget de la Sécurité sociale 2027, rejeté par l'Assemblée le 23 octobre. Le gouvernement veut ramener le déficit de la Sécu de 21,8 à 12,7 milliards d'euros. Les sénateurs attaquent ensuite le budget de l'État à partir du 20 novembre.",
+   "why": "Sans majorité à l'Assemblée, le passage au Sénat pèse lourd sur la version finale des deux budgets.",
+   "sources": [
+    {
+     "name": "Toute l'Europe",
+     "url": "https://www.touteleurope.eu/economie-et-social/l-agenda-europeen-les-principaux-evenements-prevus-du-16-au-22-novembre-2026/"
+    },
+    {
+     "name": "Le JDD",
+     "url": "https://www.lejdd.fr/Societe/greve-du-17-novembre-et-colere-lyceenne-les-rendez-vous-les-perturbations-et-la-reponse-du-gouvernement-188895"
+    }
+   ]
+  },
+  {
+   "cat": "economie",
+   "title": "Bourse de Paris : le CAC 40 marque une pause",
+   "summary": "Le CAC 40 a perdu 0,20 % lundi, à 8 352 points, après cinq séances de hausse. La semaine précédente, il avait gagné 2,8 %, sa meilleure semaine depuis avril. Le taux d'emprunt à 10 ans de la France tourne autour de 4,9 %, contre 3,38 % pour l'Allemagne.",
+   "why": "L'écart de taux avec l'Allemagne mesure la confiance des investisseurs dans les finances publiques françaises. Plus il est large, plus la dette coûte cher à l'État.",
+   "sources": [
+    {
+     "name": "MoneyVox",
+     "url": "https://www.moneyvox.fr/bourse/actualites/111256/cac-40-en-baisse-nvidia-le-journal-de-la-bourse-du-lundi-16-novembre-2026"
+    },
+    {
+     "name": "BFM Bourse",
+     "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-avant-deux-rendez-vous-cruciaux-pour-l-intelligence-artificielle-le-cac-40-joue-la-prudence-1173850.html"
+    },
+    {
+     "name": "Zonebourse",
+     "url": "https://www.zonebourse.com/actualite-bourse/fin-de-serie-pour-le-cac-40-les-marches-scrutent-nvidia-et-anthropic-ce785edfda81f626"
+    }
+   ]
+  },
+  {
+   "cat": "economie",
+   "title": "Pétrole : le Brent recule malgré les tensions à Ormuz",
+   "summary": "Le Brent a reculé de 2,5 % lundi, à 93,43 dollars le baril. Le WTI américain a perdu 2,2 %, à 85,38 dollars. Vendredi, l'Agence internationale de l'énergie a prévu une offre mondiale supérieure à la demande au quatrième trimestre. En France, le gazole coûte en moyenne 2,149 euros le litre.",
+   "why": "Le prix du gazole et du GNR pèse directement sur les coûts des chantiers et des transports.",
+   "sources": [
+    {
+     "name": "BFM Bourse",
+     "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-avant-deux-rendez-vous-cruciaux-pour-l-intelligence-artificielle-le-cac-40-joue-la-prudence-1173850.html"
+    },
+    {
+     "name": "Prix du Baril",
+     "url": "https://prixdubaril.com/news-petrole/75217-le-brent-stable-un-superpetrolier-coule-a-ormuz-selon-l-iran.html"
+    }
+   ]
+  },
+  {
+   "cat": "economie",
+   "title": "Bruxelles publie ses prévisions économiques d'automne",
+   "summary": "La Commission européenne présente ce mardi ses prévisions d'automne pour l'UE et chaque État membre. Elles portent sur la croissance, l'inflation, le déficit et la dette.",
+   "why": "Ces chiffres servent de référence pour juger la trajectoire budgétaire de la France, en plein débat sur le budget 2027.",
+   "sources": [
+    {
+     "name": "Toute l'Europe",
+     "url": "https://www.touteleurope.eu/economie-et-social/l-agenda-europeen-les-principaux-evenements-prevus-du-16-au-22-novembre-2026/"
+    }
+   ]
+  },
+  {
+   "cat": "international",
+   "title": "Ukraine : les Européens rejoignent les pourparlers avec Washington",
+   "summary": "Volodymyr Zelensky annonce que des négociateurs européens ont rejoint pour la première fois les émissaires ukrainiens et américains. Les envoyés américains Jared Kushner et Steve Witkoff ont participé en ligne. L'Allemagne, la France, l'Italie, la Pologne, le Royaume-Uni, l'UE et l'Otan étaient représentés. Selon Zelensky, la discussion « n'a pas été facile, mais il y a un résultat ».",
+   "why": "Les Européens réclamaient une place à la table des négociations. Une réunion de la Coalition des volontaires est prévue jeudi à Berlin.",
+   "sources": [
+    {
+     "name": "AFP via Boursorama",
+     "url": "https://www.boursorama.com/actualite-economique/actualites/premiers-pourparlers-entre-l-ukraine-l-europe-et-les-etats-unis-annonce-zelensky-c82ae9012d6e90526f3378ee0dcc92e2"
+    },
+    {
+     "name": "Toute l'Europe",
+     "url": "https://www.touteleurope.eu/economie-et-social/l-agenda-europeen-les-principaux-evenements-prevus-du-16-au-22-novembre-2026/"
+    }
+   ]
+  },
+  {
+   "cat": "international",
+   "title": "Ormuz : l'Iran affirme qu'un superpétrolier a coulé",
+   "summary": "Les Gardiens de la Révolution affirment que deux pétroliers, sur une route non autorisée au sud du détroit d'Ormuz, ont heurté des mines. Selon eux, un superpétrolier de plus de 2 millions de barils a coulé. Les navires ne sont pas identifiés et l'information n'est pas confirmée par une autre source. L'agence britannique UKMTO signale de son côté une attaque contre un pétrolier, sans victime.",
+   "why": "Une grande part du pétrole mondial passe par Ormuz. Chaque incident relance le risque sur l'approvisionnement.",
+   "sources": [
+    {
+     "name": "La Presse de Tunisie",
+     "url": "https://www.lapresse.tn/2026/11/16/detroit-dormuz-liran-fait-etat-de-deux-petroliers-en-feu/"
+    },
+    {
+     "name": "Prix du Baril",
+     "url": "https://prixdubaril.com/news-petrole/75217-le-brent-stable-un-superpetrolier-coule-a-ormuz-selon-l-iran.html"
+    }
+   ]
+  },
+  {
+   "cat": "entreprises",
+   "title": "Wall Street chute avant les résultats de Nvidia",
+   "summary": "Le Dow Jones a perdu 1,41 % lundi et le Nasdaq environ 2,5 %. Nvidia a reculé de 4,12 %, à 156,14 dollars, avant ses résultats publiés ce mardi soir. Le marché attend environ 109 milliards de dollars de chiffre d'affaires. Anthropic fixera mercredi le prix de son action, dans une fourchette de 70 à 78 dollars, pour une cotation jeudi au Nasdaq.",
+   "why": "Ces deux rendez-vous servent de test pour toute la bulle de l'IA. Ils peuvent faire bouger l'ensemble des marchés, Paris compris.",
+   "sources": [
+    {
+     "name": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html"
+    },
+    {
+     "name": "The National",
+     "url": "https://www.thenationalnews.com/business/markets/2026/11/16/nvidia-earnings-anthropic-ipo/"
+    },
+    {
+     "name": "MoneyVox",
+     "url": "https://www.moneyvox.fr/bourse/actualites/111256/cac-40-en-baisse-nvidia-le-journal-de-la-bourse-du-lundi-16-novembre-2026"
+    }
+   ]
+  },
+  {
+   "cat": "btp",
+   "title": "Loi logement : l'examen démarre à l'Assemblée",
+   "summary": "Les députés ont commencé lundi soir l'examen du projet de loi de relance du logement. Le ministre Vincent Jeanbrun vise 400 000 logements par an, dont environ 125 000 logements sociaux. Le texte assouplit l'interdiction de louer les passoires thermiques (DPE F ou G) quand des travaux sont engagés. Le vote est prévu le 24 novembre.",
+   "why": "Le logement neuf est au plus bas. Le texte doit relancer les chantiers, donc l'activité du bâtiment et des travaux publics.",
+   "sources": [
+    {
+     "name": "AFP via Boursorama",
+     "url": "https://www.boursorama.com/immobilier/actualites/crise-du-logement-le-projet-de-loi-examine-a-l-assemblee-nationale-bb56a845163fddb72c515b3446951784"
+    },
+    {
+     "name": "Batiweb",
+     "url": "https://www.batiweb.com/actualites/legislation/projet-loi-relance-logement-mesures-assemblee-49616"
+    }
+   ]
+  },
+  {
+   "cat": "btp",
+   "title": "Loi logement : 5 milliards pour l'Anru et des travaux imposés aux bailleurs",
+   "summary": "L'article 1 lance un troisième programme de renouvellement urbain (Anru), doté de 5 milliards d'euros. Le dispositif Jeanbrun impose au bailleur privé des travaux égaux à 20 % du prix du bien. Les logements F et G doivent gagner deux classes énergétiques. Plus de 1 100 amendements ont été déposés.",
+   "why": "Ces mesures déterminent le volume de travaux de rénovation et de renouvellement urbain pour les entreprises du secteur ces prochaines années.",
+   "sources": [
+    {
+     "name": "Batiweb",
+     "url": "https://www.batiweb.com/actualites/legislation/projet-loi-relance-logement-mesures-assemblee-49616"
+    },
+    {
+     "name": "AFP via Boursorama",
+     "url": "https://www.boursorama.com/immobilier/actualites/crise-du-logement-le-projet-de-loi-examine-a-l-assemblee-nationale-bb56a845163fddb72c515b3446951784"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "title": "IA : les médias de LVMH signent avec OpenAI",
+   "summary": "Les médias du groupe LVMH, dont Les Echos et Le Parisien, ont signé un accord avec OpenAI. ChatGPT affichera des résumés et des extraits de leurs articles, avec la source et un lien. Les rédactions vont aussi utiliser ChatGPT Enterprise. Le montant n'est pas dévoilé. Le Monde avait signé un accord semblable début 2024.",
+   "why": "Les éditeurs cherchent à se faire payer pour l'usage de leurs contenus par l'IA, qui capte une partie de leur audience.",
+   "sources": [
+    {
+     "name": "AFP via Boursorama",
+     "url": "https://www.boursorama.com/actualite-economique/actualites/apres-le-monde-les-medias-de-lvmh-signent-un-accord-avec-openai-5e99756e5a803538b90fe95f76016ceb"
+    }
+   ]
+  },
+  {
+   "cat": "science",
+   "title": "Espace : la sonde Hera arrive près de l'astéroïde percuté par la Nasa",
+   "summary": "La sonde Hera de l'ESA a pris ses premières images du système d'astéroïdes Didymos et Dimorphos, à environ 60 km. Dimorphos, 151 m de diamètre, avait été percuté en 2022 par la sonde DART de la Nasa. L'impact avait raccourci son orbite d'environ 33 minutes, plus que prévu. Des images détaillées sont attendues le 25 novembre.",
+   "why": "La mission doit vérifier si l'on peut dévier un astéroïde dangereux. C'est la première étude de près d'un tel test de défense planétaire.",
+   "sources": [
+    {
+     "name": "ESA via ScienceDaily",
+     "url": "https://www.sciencedaily.com/releases/2026/11/261116023351.htm"
+    },
+    {
+     "name": "DLR",
+     "url": "https://www.dlr.de/en/latest/news/2026/hera-spots-its-target-a-first-glimpse-into-the-study-of-the-didymos-binary-asteroid-system"
+    }
+   ]
+  },
+  {
+   "cat": "science",
+   "title": "Fonds marins : une faune riche cachée dans les nodules convoités par les mines",
+   "summary": "Des chercheurs du MARUM (Brême) ont analysé 244 nodules polymétalliques de la zone Clarion-Clipperton, dans le Pacifique. Ils y ont trouvé 4 139 animaux, jusqu'à 245 dans un seul nodule. Ces communautés diffèrent de celles du sédiment voisin. L'étude est publiée dans Scientific Reports.",
+   "why": "Ces nodules contiennent du nickel, du cobalt et du cuivre. Les auteurs alertent sur une perte de biodiversité irréversible en cas d'exploitation minière.",
+   "sources": [
+    {
+     "name": "MARUM via ScienceDaily",
+     "url": "https://www.sciencedaily.com/releases/2026/11/261114202133.htm"
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Quel objectif annuel de construction vise le projet de loi logement ?",
+   "options": [
+    "300 000 logements",
+    "500 000 logements",
+    "400 000 logements",
+    "250 000 logements"
+   ],
+   "answer": 2,
+   "explain": "Le ministre Vincent Jeanbrun vise 400 000 logements par an, dont environ 125 000 logements sociaux."
+  },
+  {
+   "q": "À quel niveau le CAC 40 a-t-il clôturé lundi 16 novembre ?",
+   "options": [
+    "8 352 points",
+    "8 532 points",
+    "8 235 points",
+    "8 253 points"
+   ],
+   "answer": 0,
+   "explain": "Le CAC 40 a cédé 0,20 % à 8 352 points, après cinq séances de hausse."
+  },
+  {
+   "q": "Quelle sonde étudie l'astéroïde Dimorphos, percuté en 2022 ?",
+   "options": [
+    "La sonde Juice de l'ESA",
+    "La sonde Hera de l'ESA",
+    "La sonde Psyche de la Nasa",
+    "La sonde Lucy de la Nasa"
+   ],
+   "answer": 1,
+   "explain": "Hera, de l'Agence spatiale européenne, vient d'envoyer ses premières images de Didymos et Dimorphos."
+  }
+ ]
+}
