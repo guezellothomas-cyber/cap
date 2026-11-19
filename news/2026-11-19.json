@@ -1,0 +1,167 @@
+{
+ "date": "2026-11-19",
+ "generatedAt": "2026-11-19T06:35:00+01:00",
+ "lede": "Le Sénat a adopté le budget 2027 de la Sécurité sociale, avec un déficit porté à 14 milliards d'euros et le retour de la réforme des retraites de 2023. En Chine, Trump, Xi et Poutine se retrouvent à l'APEC, pendant que les Européens réunissent à Berlin la coalition des volontaires pour l'Ukraine.",
+ "figures": [
+  { "label": "CAC 40 (clôture du 18 nov.)", "value": "8 146,83 pts", "note": "-0,85 %, les résultats de Nvidia n'ont pas rassuré", "source": "BFM Bourse" },
+  { "label": "Brent (18 nov., fin de séance à Paris)", "value": "91,56 $", "note": "-1,7 %, l'AIE prévoit un excédent d'offre au 4e trimestre", "source": "BFM Bourse" },
+  { "label": "Euro (18 nov., fin de séance)", "value": "1,0966 $", "note": "-0,3 % face au dollar", "source": "BFM Bourse" },
+  { "label": "Déficit de la Sécu 2027 (texte du Sénat, 18 nov.)", "value": "14 Md€", "note": "Contre 12,7 Md€ dans le texte initial du gouvernement", "source": "Public Sénat" },
+  { "label": "Activité des travaux publics (prévision FNTP 2026)", "value": "-8 % en volume", "note": "Puis -7 % attendu en 2027, soit environ -15 % sur deux ans", "source": "FNTP via ACPresse" },
+  { "label": "Inflation France (oct. 2026, définitif)", "value": "+3,4 % sur un an", "note": "Plus haut depuis janvier 2024", "source": "Insee" },
+  { "label": "Taux de dépôt BCE (depuis le 29 oct.)", "value": "2,50 %", "note": "Taux directeur de référence de la zone euro", "source": "BCE" }
+ ],
+ "items": [
+  {
+   "cat": "politique",
+   "title": "Budget de la Sécu 2027 : le Sénat adopte sa version",
+   "summary": "Le Sénat a adopté mercredi le projet de budget de la Sécurité sociale pour 2027, par 201 voix pour, 124 contre et 15 abstentions. Le déficit prévu passe de 12,7 à 14 milliards d'euros. Les sénateurs ont supprimé le gel partiel des retraites au-dessus de 1 260 euros et rétabli la réforme des retraites de 2023, avec l'âge légal à 64 ans. Ils ont aussi décalé au 1er avril la baisse des allègements de cotisations patronales.",
+   "why": "Le texte part maintenant en commission mixte paritaire le 26 novembre. Un accord entre députés et sénateurs y est jugé peu probable.",
+   "sources": [
+    { "name": "Public Sénat", "url": "https://www.publicsenat.fr/actualites/politique/budget-2027-de-la-securite-sociale-les-modifications-a-retenir-apres-le-passage-du-projet-de-loi-au-senat" },
+    { "name": "Toute l'Europe", "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/le-senat-adopte-le-budget-2027-de-la-securite-sociale-en-premiere-lecture/" }
+   ]
+  },
+  {
+   "cat": "politique",
+   "title": "Budget de l'État : Lecornu va lister ses priorités pour un compromis",
+   "summary": "Selon le ministre des Comptes publics David Amiel, Sébastien Lecornu présentera « dans les prochains jours » les thèmes prioritaires pour un compromis avec la droite et la gauche. Le gouvernement veut modifier sa copie initiale. Le cadre reste un déficit public de 5 % en 2027. Le ministre de l'Économie Roland Lescure juge la prévision de croissance de 1 % « à risque ».",
+   "why": "Le gouvernement n'a pas de majorité à l'Assemblée. L'examen du projet de loi de finances commence vendredi au Sénat.",
+   "sources": [
+    { "name": "AFP via Yahoo Finance", "url": "https://fr.finance.yahoo.com/actualites/budget-lecornu-listera-prochains-jours-162027426.html" }
+   ]
+  },
+  {
+   "cat": "economie",
+   "title": "Bourse de Paris : le CAC 40 recule malgré Nvidia",
+   "summary": "Le CAC 40 a fini mercredi en baisse de 0,85 %, à 8 146,83 points. Les résultats de Nvidia, bien au-dessus des attentes, n'ont pas suffi : l'action a perdu 2,3 % après une ouverture en hausse. Pour un analyste de Cité Gestion, ces chiffres ne lèvent pas les doutes sur la rentabilité des investissements dans l'IA.",
+   "why": "C'est la deuxième séance de baisse d'affilée à Paris. Les marchés restent très sensibles aux signaux venus du secteur de l'IA.",
+   "sources": [
+    { "name": "BFM Bourse", "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-les-resultats-tonitruants-de-nvidia-ne-suffisent-pas-a-apaiser-wall-street-le-cac-40-termine-en-nette-baisse-1174041.html" }
+   ]
+  },
+  {
+   "cat": "economie",
+   "title": "Pétrole : le Brent repasse sous 92 dollars",
+   "summary": "Le Brent a reculé de 1,7 % mercredi, à 91,56 dollars le baril. L'Agence internationale de l'énergie prévoit une offre mondiale supérieure à la demande au 4e trimestre 2026, une première depuis fin février. L'offre a atteint 105,4 millions de barils par jour en octobre. À la pompe, le gazole était autour de 2,15 euros le litre.",
+   "why": "La crainte d'un excédent pèse désormais plus que les tensions autour du détroit d'Ormuz. Le prix du carburant reste un enjeu fort pour les ménages et les entreprises, BTP compris.",
+   "sources": [
+    { "name": "Prix du baril", "url": "https://prixdubaril.com/news-petrole/75226-le-brent-repasse-sous-92-dollars-l-excedent-d-offre-pese-plus-qu-ormuz.html" },
+    { "name": "BFM Bourse", "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-les-resultats-tonitruants-de-nvidia-ne-suffisent-pas-a-apaiser-wall-street-le-cac-40-termine-en-nette-baisse-1174041.html" }
+   ]
+  },
+  {
+   "cat": "economie",
+   "title": "BCE : l'IA et la dette publique, risques pour la stabilité financière",
+   "summary": "La BCE a publié mercredi sa revue de stabilité financière. Elle pointe trois fragilités : des valorisations très élevées de certaines entreprises de l'IA, les risques sur les dettes publiques et les tensions géoéconomiques. Les banques de la zone euro sont jugées solides. Les fragilités sont plus marquées chez les fonds d'investissement.",
+   "why": "La BCE ne décrit pas une crise en cours, mais le risque d'une correction brutale des marchés. Aucun changement de taux n'est annoncé.",
+   "sources": [
+    { "name": "Économie Matin", "url": "https://www.economiematin.fr/bce-risques-ia-dette-stabilite-financiere-18-novembre-2026" }
+   ]
+  },
+  {
+   "cat": "international",
+   "title": "APEC en Chine : Trump, Xi et Poutine réunis",
+   "summary": "Le sommet de l'APEC se tient en Chine les 18 et 19 novembre. Xi Jinping et Vladimir Poutine se sont vus deux heures mercredi matin. Donald Trump doit rencontrer Poutine ce jeudi, et une réunion à trois est prévue. Au menu : Ukraine, Iran, commerce, IA et armes nucléaires.",
+   "why": "Selon Volodymyr Zelensky, Washington a promis d'informer l'Ukraine de ces échanges ce jeudi à Berlin. Pékin résiste à mettre l'Ukraine à l'ordre du jour.",
+   "sources": [
+    { "name": "UNITED24 Media", "url": "https://united24media.com/world/as-trump-meets-putin-and-xi-washington-promises-kyiv-a-briefing-in-berlin-24512" }
+   ]
+  },
+  {
+   "cat": "international",
+   "title": "Ukraine : la coalition des volontaires se réunit à Berlin",
+   "summary": "Plus de 30 dirigeants de la coalition des volontaires se retrouvent ce jeudi à Berlin. Ils doivent discuter des garanties de sécurité pour l'Ukraine après la guerre, dont le déploiement d'une force multinationale. Emmanuel Macron doit y présenter trois priorités. Friedrich Merz a invité Volodymyr Zelensky.",
+   "why": "Les Européens veulent peser sur les négociations de paix menées par Washington. La France est en première ligne sur la future force multinationale.",
+   "sources": [
+    { "name": "European Pravda", "url": "https://www.eurointegration.com.ua/eng/news/2026/11/18/7250283/" }
+   ]
+  },
+  {
+   "cat": "international",
+   "title": "Ormuz : l'assurance d'un passage atteindrait 64 millions de dollars",
+   "summary": "Devant le Sénat américain, le secrétaire par intérim de la Marine, Hung Cao, a affirmé qu'assurer un transit par Ormuz coûte 64 millions de dollars. Ce chiffre n'a pas été vérifié de façon indépendante. Le trafic reste environ 65 % sous son niveau d'avant-guerre. Deux attaques de pétroliers ont été signalées lundi, et les États-Unis ont frappé l'île iranienne de Qeshm mardi.",
+   "why": "Le détroit voit passer une grande partie du pétrole mondial. Son blocage partiel pèse sur les prix de l'énergie et le transport maritime.",
+   "sources": [
+    { "name": "Al Jazeera", "url": "https://www.aljazeera.com/news/2026/11/18/us-official-says-hormuz-insurance-hits-64m-is-the-strait-really-open" },
+    { "name": "Prix du baril", "url": "https://prixdubaril.com/news-petrole/75226-le-brent-repasse-sous-92-dollars-l-excedent-d-offre-pese-plus-qu-ormuz.html" }
+   ]
+  },
+  {
+   "cat": "entreprises",
+   "title": "Alstom chute de 7 %, Accor recule après Ennismore",
+   "summary": "Alstom a perdu 7,15 % mercredi malgré des résultats semestriels sans surprise. Deutsche Bank juge probable une augmentation de capital. Accor a cédé 4,2 % après l'annonce du rachat des actionnaires minoritaires de sa filiale Ennismore.",
+   "why": "Une augmentation de capital dilue les actionnaires existants, ce que la Bourse sanctionne souvent. Le rachat de minoritaires coûte de la trésorerie à court terme.",
+   "sources": [
+    { "name": "BFM Bourse", "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-les-resultats-tonitruants-de-nvidia-ne-suffisent-pas-a-apaiser-wall-street-le-cac-40-termine-en-nette-baisse-1174041.html" }
+   ]
+  },
+  {
+   "cat": "btp",
+   "title": "Travaux publics : la FNTP prévoit -15 % d'activité en deux ans",
+   "summary": "La Fédération nationale des travaux publics prévoit une baisse de 8 % en volume de l'activité en 2026, puis de 7 % en 2027. Les appels d'offres publics ont reculé de 26 % depuis janvier et les prises de commandes de plus d'un quart. En 2027, l'activité pour les collectivités baisserait de 12 % et celle pour l'État de 10 %.",
+   "why": "La crise de 2013-2016 avait coûté 16 % d'activité et près de 26 000 emplois. Ce sont des prévisions, mais elles touchent directement les entreprises comme NGE, très liées à la commande publique.",
+   "sources": [
+    { "name": "ACPresse", "url": "https://acpresse.fr/fntp-un-recul-de-15-attendu-sur-deux-ans" }
+   ]
+  },
+  {
+   "cat": "btp",
+   "title": "Loi logement : les députés votent l'aide à l'investissement locatif",
+   "summary": "L'Assemblée a adopté mercredi l'article 4 du projet de loi de relance du logement, par 124 voix contre 34. Ce dispositif doit soutenir l'investissement locatif privé, y compris dans l'ancien sous condition de rénovation. La part minimale de travaux et les critères énergétiques ne sont pas encore fixés. Les députés ont aussi adopté l'article 2 bis, par 59 voix contre 16.",
+   "why": "Le texte vise à relancer la construction et la rénovation, en panne depuis plusieurs années. Ce vote en première lecture ne vaut pas adoption définitive.",
+   "sources": [
+    { "name": "Politique Matin", "url": "https://www.politiquematin.fr/logement-assemblee-article-4-relance-investissement-locatif-19-novembre-2026" },
+    { "name": "Poligraph", "url": "https://poligraph.fr/parlement/votes/2026-11-18-scrutin-9972-l-article-2-bis-du-projet-de-loi-visant-la-relance-et" }
+   ]
+  },
+  {
+   "cat": "tech",
+   "title": "Robotaxis : la Californie interdit les autoroutes à Waymo",
+   "summary": "Le DMV de Californie a interdit mardi à Waymo d'exploiter ses robotaxis sans chauffeur sur les autoroutes de l'État. Trois véhicules sont entrés dans une zone de travaux fermée sur la Highway 101, et un autre a tenté de doubler deux voitures de police gyrophares allumés. Waymo indique qu'il n'y a eu ni blessé ni collision. Le service continue en ville, avec plus de 500 000 trajets par semaine.",
+   "why": "Les zones de travaux restent un point faible de la conduite autonome. Le régulateur parle d'un danger imminent pour la sécurité publique.",
+   "sources": [
+    { "name": "The San Francisco Standard", "url": "https://sfstandard.com/2026/11/17/california-dmv-bans-waymo-from-freeways/" },
+    { "name": "ActuIA", "url": "https://www.actuia.com/veille/2026-11-18/" }
+   ]
+  },
+  {
+   "cat": "science",
+   "title": "Préhistoire : Homo erectus a survécu bien plus tard en Chine",
+   "summary": "Deux études publiées le 18 novembre dans Nature analysent neuf dents trouvées dans des grottes du Guangxi, dans le sud de la Chine. Datées par cinq méthodes, elles ont entre 324 000 et 184 000 ans. Huit sont proches d'Homo erectus. Une dent pourrait être denisovienne, sans certitude.",
+   "why": "On pensait qu'Homo erectus avait disparu d'Asie continentale vers 400 000 ans. Il aurait donc côtoyé plus longtemps d'autres humains.",
+   "sources": [
+    { "name": "Sci.News", "url": "https://www.sci.news/othersciences/anthropology/homo-erectus-china-15208.html" }
+   ]
+  },
+  {
+   "cat": "science",
+   "title": "Évolution humaine : l'enfant de Taung redaté à 3 millions d'années",
+   "summary": "Une étude parue ce mois-ci dans la revue npj Palaeoecosystems date le célèbre crâne de l'enfant de Taung entre 2,96 et 3,03 millions d'années. Plusieurs fossiles adultes attribués à la même espèce ne suivent pas son développement. Les auteurs avancent que plusieurs espèces ont coexisté ou se sont succédé, au gré des cycles climatiques.",
+   "why": "Ce fossile est la référence de l'espèce Australopithecus africanus. Le résultat suggère un arbre de la famille humaine plus buissonnant, mais l'hypothèse reste à confirmer.",
+   "sources": [
+    { "name": "Gizmodo", "url": "https://gizmodo.com/a-3-million-year-old-toddler-skull-is-shaking-up-human-evolution-again-2000841728" }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Combien de sénateurs ont voté pour le budget 2027 de la Sécurité sociale ?",
+   "options": ["187 voix pour", "201 voix pour", "214 voix pour", "176 voix pour"],
+   "answer": 1,
+   "explain": "Le Sénat a adopté le texte par 201 voix pour, 124 contre et 15 abstentions. Il part en commission mixte paritaire le 26 novembre."
+  },
+  {
+   "q": "Quelle baisse d'activité la FNTP prévoit-elle pour les travaux publics en 2026 ?",
+   "options": ["-4 % en volume", "-6 % en volume", "-8 % en volume", "-12 % en volume"],
+   "answer": 2,
+   "explain": "La FNTP prévoit -8 % en 2026 puis -7 % en 2027, soit environ -15 % sur deux ans. Le -12 % concerne l'activité pour les collectivités en 2027."
+  },
+  {
+   "q": "Où ont été trouvées les dents d'Homo erectus décrites dans Nature ?",
+   "options": ["Dans des grottes du Yunnan", "Dans des grottes de Java", "Dans des grottes du Shanxi", "Dans des grottes du Guangxi"],
+   "answer": 3,
+   "explain": "Les neuf dents viennent des grottes Baxian et Naxian, dans le Guangxi. Elles ont entre 324 000 et 184 000 ans."
+  }
+ ]
+}
