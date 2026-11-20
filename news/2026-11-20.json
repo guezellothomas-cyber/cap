@@ -1,0 +1,290 @@
+{
+ "date": "2026-11-20",
+ "generatedAt": "2026-11-20T06:36:30+01:00",
+ "lede": "Anthropic a réussi la plus grosse entrée en Bourse de l'histoire, avec une action en hausse de 17 % le premier jour. En France, le Sénat commence ce vendredi l'examen du budget de l'État, pendant que les Européens annoncent qu'ils vont rejoindre les négociations de paix sur l'Ukraine.",
+ "figures": [
+  {
+   "label": "CAC 40 (clôture du 19 nov.)",
+   "value": "8 080,74 pts",
+   "note": "-0,81 %, l'euphorie autour d'Anthropic n'a pas duré",
+   "source": "Zonebourse / Reuters"
+  },
+  {
+   "label": "Brent (19 nov., 9 h 30 à Paris)",
+   "value": "92,34 $",
+   "note": "+0,4 %, après 91,95 $ à la clôture du 18 nov.",
+   "source": "Prix du baril"
+  },
+  {
+   "label": "Euro (19 nov., matin)",
+   "value": "1,0987 $",
+   "note": "Cours relevé en même temps que le Brent",
+   "source": "Prix du baril"
+  },
+  {
+   "label": "Inflation France (oct. 2026)",
+   "value": "+3,4 % sur un an",
+   "note": "Plus haut depuis janvier 2024",
+   "source": "Insee"
+  },
+  {
+   "label": "Taux directeur de la Fed (depuis le 28 oct.)",
+   "value": "3,75 % à 4 %",
+   "note": "Presque tous les responsables attendent une hausse en décembre",
+   "source": "AP / FinScans"
+  },
+  {
+   "label": "Production de la construction en France (sept. 2026)",
+   "value": "-3,1 % sur un an",
+   "note": "Contre -1,5 % pour la zone euro",
+   "source": "Eurostat via Economie Matin"
+  },
+  {
+   "label": "Levée d'Anthropic en Bourse (19 nov.)",
+   "value": "107,3 Md$",
+   "note": "Record mondial, devant SpaceX (86 Md$ en juin)",
+   "source": "The National"
+  }
+ ],
+ "items": [
+  {
+   "cat": "politique",
+   "title": "Budget de l'État : le Sénat entre en scène",
+   "summary": "Le Sénat commence ce vendredi 20 novembre l'examen en séance du projet de budget 2027. Il repart du texte initial du gouvernement, car les députés l'avaient rejeté. Les débats doivent durer jusqu'au 8 décembre, avec un vote solennel le 9 décembre. Sébastien Lecornu cherche un compromis pour éviter une censure ou le recours aux ordonnances.",
+   "why": "Si le Parlement ne tranche pas avant le 17 décembre à minuit, le gouvernement pourra adopter le budget par ordonnances, ce qu'aucun gouvernement de la Ve République n'a jamais fait.",
+   "sources": [
+    {
+     "name": "Public Sénat",
+     "url": "https://www.publicsenat.fr/actualites/politique/budget-2027-calendrier-49-3-ordonnancesquelles-sont-les-echeances-a-venir-et-les-scenarios-possibles"
+    },
+    {
+     "name": "La Nouvelle République via Titres Presse",
+     "url": "https://www.titrespresse.com/29780132603/budget-senat-texte"
+    }
+   ]
+  },
+  {
+   "cat": "politique",
+   "title": "Location : les députés adoptent la loi sur les rapports locatifs",
+   "summary": "Jeudi 19 novembre, l'Assemblée a adopté en deuxième lecture la proposition de loi « pour retrouver la confiance et l'équilibre dans les rapports locatifs ». Le texte passe par 148 voix contre 95. La gauche a voté pour en majorité. Le Rassemblement national a voté contre.",
+   "why": "Le texte touche aux relations entre propriétaires et locataires, un sujet sensible en pleine crise du logement.",
+   "sources": [
+    {
+     "name": "Assemblée nationale, scrutin n°10062",
+     "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/10062"
+    }
+   ]
+  },
+  {
+   "cat": "economie",
+   "title": "Bourse de Paris : le CAC 40 recule de 0,81 %",
+   "summary": "Le CAC 40 a fini à 8 080,74 points jeudi. L'Europe a terminé dans le rouge, avec un Stoxx 600 en baisse de 0,88 %. Accor (-3,1 %), Sanofi (-2,9 %) et Capgemini (-2,7 %) ont le plus reculé. Le compte rendu de la Fed, qui annonce des hausses de taux, a pesé sur l'humeur.",
+   "why": "Les marchés restent nerveux sur l'IA et sur les taux américains, ce qui pèse sur le financement des entreprises.",
+   "sources": [
+    {
+     "name": "Zonebourse / Reuters",
+     "url": "https://www.zonebourse.com/actualite-bourse/point-marches-europe-finit-dans-le-rouge-anthropic-atteint-2-000-mds-de-capitalisation-ce785ed2dd8eff23"
+    },
+    {
+     "name": "MoneyVox",
+     "url": "https://www.moneyvox.fr/bourse/actualites/111326/cac-40-euphorie-aura-ete-de-courte-duree-retrouvez-les-infos-bourse-du-19-novembre"
+    }
+   ]
+  },
+  {
+   "cat": "economie",
+   "title": "Fed : une hausse de taux se profile en décembre",
+   "summary": "Le compte rendu de la réunion d'octobre de la Fed est sorti le 19 novembre. Presque tous les responsables s'attendent à une hausse d'un quart de point en décembre. Deux d'entre eux évoquent même un demi-point. L'inflation sous-jacente tourne autour de 3,5 % en rythme annuel sur trois mois, loin de l'objectif de 2 %.",
+   "why": "Des taux plus hauts aux États-Unis renchérissent le crédit dans le monde et renforcent le dollar.",
+   "sources": [
+    {
+     "name": "AP via The Land",
+     "url": "https://thelandcle.org/stories/fed-minutes-higher-interest-rates-needed-in-december-as-inflation-worries-mount"
+    },
+    {
+     "name": "FinScans",
+     "url": "https://finscans.com/news/2026/11/19/fed-minutes-reveal-close-call-on-october-rates-as-december"
+    }
+   ]
+  },
+  {
+   "cat": "economie",
+   "title": "Pétrole : le Brent se maintient autour de 92 dollars",
+   "summary": "Le Brent remontait à 92,34 dollars jeudi matin, après une baisse la veille. L'AIE prévoit un excédent d'offre au quatrième trimestre et les stocks américains ont grimpé de 3,4 millions de barils. Mais les attaques de navires dans le détroit d'Ormuz entretiennent la crainte de pénuries.",
+   "why": "Le prix du pétrole pèse sur l'inflation, sur les carburants et sur les coûts des chantiers.",
+   "sources": [
+    {
+     "name": "Prix du baril",
+     "url": "https://prixdubaril.com/news-petrole/75230-le-brent-se-reprend-vers-92-dollars-le-sommet-de-shenzhen-en-ligne-de.html"
+    },
+    {
+     "name": "5paisa",
+     "url": "https://www.5paisa.com/blog/crude-oil-price-today-19-november-2026"
+    }
+   ]
+  },
+  {
+   "cat": "international",
+   "title": "Shenzhen : sommet historique entre Trump, Xi et Poutine",
+   "summary": "Les trois dirigeants se sont réunis seuls le 19 novembre, en marge de l'APEC. C'est une première. Leur déclaration affirme qu'une guerre nucléaire ne peut pas être gagnée et promet un dialogue sur les risques nucléaires. L'Ukraine n'était pas à l'ordre du jour et la guerre avec l'Iran n'est pas citée.",
+   "why": "Le sommet montre un dialogue direct entre les trois puissances, sans percée concrète et sans les Européens.",
+   "sources": [
+    {
+     "name": "RFE/RL",
+     "url": "https://www.rferl.org/a/trump-xi-putin-summit-four-key-takeaways/33902100.html"
+    }
+   ]
+  },
+  {
+   "cat": "international",
+   "title": "Ukraine : l'Europe va rejoindre les négociations de paix",
+   "summary": "À l'issue d'un sommet des alliés de Kiev à Berlin, Friedrich Merz a annoncé que l'Europe participerait « bientôt » aux négociations avec les États-Unis et la Russie. Un lieu neutre est recherché, par exemple les Émirats arabes unis. Jared Kushner a dit que Trump serait ouvert à une protection de l'Ukraine proche de l'article 5 de l'Otan. La Commission propose un nouveau prêt de 45 milliards d'euros à Kiev.",
+   "why": "Jusqu'ici, les Européens étaient seulement consultés. Ils veulent peser sur les garanties de sécurité de l'Ukraine.",
+   "sources": [
+    {
+     "name": "Boursorama / AFP",
+     "url": "https://www.boursorama.com/actualite-economique/actualites/ukraine-l-europe-va-rejoindre-bientot-les-negociations-de-paix-dit-merz-3247584410d0e51f7ca23eb143019350"
+    },
+    {
+     "name": "Quartz",
+     "url": "https://fr.qz.com/merz-annonce-europe-participer-negociations-ukraine-kushner-otan-111926"
+    }
+   ]
+  },
+  {
+   "cat": "entreprises",
+   "title": "Soitec bondit de 12 %, ADP profite de son contrat de régulation",
+   "summary": "Soitec a gagné 12 % jeudi après ses résultats semestriels. Son chiffre d'affaires grimpe de 37 % à 317 millions d'euros et sa perte se réduit à 45 millions. ADP a pris 3,9 % après un avis favorable de l'Autorité de régulation des transports sur son contrat 2027-2034.",
+   "why": "Le contrat de régulation fixe les redevances d'ADP pour huit ans, donc une bonne part de ses revenus futurs.",
+   "sources": [
+    {
+     "name": "MoneyVox",
+     "url": "https://www.moneyvox.fr/bourse/actualites/111326/cac-40-euphorie-aura-ete-de-courte-duree-retrouvez-les-infos-bourse-du-19-novembre"
+    }
+   ]
+  },
+  {
+   "cat": "btp",
+   "title": "EPR2 : NGE et Fayat aussi dans le contrat de 14 milliards",
+   "summary": "Le contrat de génie civil des futurs réacteurs EPR2 réunirait Bouygues, Eiffage et Vinci, mais aussi NGE et Fayat. Il couvre les fondations et les structures en béton sur environ 15 ans. EDF vise environ 800 millions d'euros d'économies. Rien n'est signé, et le conseil d'EDF pourrait voir le projet avant fin novembre.",
+   "why": "C'est l'un des plus gros chantiers français des prochaines années, et NGE en ferait partie.",
+   "sources": [
+    {
+     "name": "L'EnerGeek",
+     "url": "https://lenergeek.com/2026/11/19/edf-epr2-genie-civil-14-milliards-accord-negociations-19-novembre-2026/"
+    },
+    {
+     "name": "Boursorama / Zonebourse",
+     "url": "https://www.boursorama.com/bourse/actualites/eiffage-bouygues-et-vinci-proches-d-un-contrat-de-14-milliards-d-euros-avec-edf-aa8a46a483c4a95cc350b9a5394b4d3a"
+    }
+   ]
+  },
+  {
+   "cat": "btp",
+   "title": "Construction : la France recule de 3,1 % sur un an",
+   "summary": "Selon Eurostat, la production de la construction en France a baissé de 3,1 % sur un an en septembre, contre -1,5 % dans la zone euro. Eurostat a aussi fortement révisé à la baisse ses chiffres d'août. Côté matériaux, l'Unicem note des granulats en recul de 5,6 % sur un an en septembre. Elle cite la forte baisse des travaux publics.",
+   "why": "Ces chiffres confirment le ralentissement des travaux publics, le cœur de métier de NGE.",
+   "sources": [
+    {
+     "name": "Economie Matin",
+     "url": "https://www.economiematin.fr/construction-eurostat-revision-aout-septembre-2026-france-btp"
+    },
+    {
+     "name": "Batiweb",
+     "url": "https://www.batiweb.com/actualites/conjoncture/production-bpe-granulats-baisse-septembre-2026-unicem-49642"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "title": "Anthropic signe la plus grosse entrée en Bourse de l'histoire",
+   "summary": "Introduite à 83 dollars sur le Nasdaq, l'action Anthropic a ouvert à 111,50 dollars jeudi, puis a fini à 97,17 dollars, soit +17 %. L'opération a rapporté 107,3 milliards de dollars, un record devant SpaceX. La valorisation atteint environ 1 750 milliards de dollars sur une base entièrement diluée. L'élan s'est tassé dans un marché inquiet sur l'IA.",
+   "why": "Le résultat sert de test pour tout le secteur de l'IA, dont les valorisations sont très discutées.",
+   "sources": [
+    {
+     "name": "The National",
+     "url": "https://www.thenationalnews.com/business/markets/2026/11/20/anthropic-share-price-today-ant-listing/"
+    },
+    {
+     "name": "Forbes",
+     "url": "https://www.forbes.com/sites/fionariley/2026/11/19/anthropic-ipo-live-nasdaq-futures-jump-as-record-stock-debut-could-open-25-higher/"
+    }
+   ]
+  },
+  {
+   "cat": "science",
+   "title": "Antarctique : les falaises de glace s'effondrent vite, puis se stabilisent",
+   "summary": "Une étude publiée dans Science a suivi plus de 15 000 falaises de glace en Antarctique grâce au satellite ICESat-2, de 2019 à 2023. Quand elles s'effondrent, elles reculent plus vite que prévu par les modèles. Mais ce recul ne dure pas et ne s'emballe pas. Les débris de glace et le relief du fond aident à les stabiliser.",
+   "why": "Ce résultat affine les prévisions de montée des océans, un enjeu majeur pour les côtes.",
+   "sources": [
+    {
+     "name": "ScienceDaily (MIT)",
+     "url": "https://www.sciencedaily.com/releases/2026/11/261117033925.htm"
+    }
+   ]
+  },
+  {
+   "cat": "science",
+   "title": "Astronomie : une étoile avalée par une géante dans Andromède",
+   "summary": "Une étude parue dans Nature décrit l'événement AT 2025abao, surnommé « Bao ». Une petite étoile a plongé dans l'enveloppe d'une géante d'environ 7 masses solaires, puis a fusionné avec son cœur. Le télescope James Webb a observé la scène. Il s'agit d'un seul cas étudié, et les masses sont des estimations.",
+   "why": "C'est une rare observation en direct d'une fusion d'étoiles, une étape clé de l'évolution des systèmes doubles.",
+   "sources": [
+    {
+     "name": "New Space Economy",
+     "url": "https://newspaceeconomy.ca/2026/11/19/webb-swift-bao-stellar-merger-andromeda-november-2026/"
+    },
+    {
+     "name": "Nature, numéro du 19 novembre",
+     "url": "https://www.nature.com/nature/volumes/659/issues/8141"
+    }
+   ]
+  },
+  {
+   "cat": "societe",
+   "title": "Vie chère : mobilisation européenne du 20 au 22 novembre",
+   "summary": "Des syndicats, des associations et des collectifs de Gilets jaunes de sept pays appellent à manifester de vendredi à dimanche. En France, la CGT, Solidaires et Droit au logement font partie de l'appel. Ils demandent un encadrement des prix du logement, de l'alimentation et de l'énergie, et des hausses de salaires et de pensions.",
+   "why": "La mobilisation intervient alors que l'inflation a atteint 3,4 % en octobre en France.",
+   "sources": [
+    {
+     "name": "Politique Matin",
+     "url": "https://www.politiquematin.fr/manifestations-europe-syndicats-gilets-jaunes-20-21-22-novembre-2026"
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "À quel prix l'action Anthropic a-t-elle été introduite en Bourse ?",
+   "options": [
+    "79 dollars",
+    "97 dollars",
+    "83 dollars",
+    "111 dollars"
+   ],
+   "answer": 2,
+   "explain": "Le prix d'introduction était de 83 dollars. L'action a fini sa première séance à 97,17 dollars."
+  },
+  {
+   "q": "Quelles entreprises seraient aussi dans le contrat EPR2, aux côtés de Bouygues, Eiffage et Vinci ?",
+   "options": [
+    "NGE et Fayat",
+    "Colas et Spie",
+    "Razel et Demathieu",
+    "Spie et Fayat"
+   ],
+   "answer": 0,
+   "explain": "Selon L'EnerGeek, NGE et Fayat font partie du tour de table de ce contrat d'environ 14 milliards d'euros."
+  },
+  {
+   "q": "Jusqu'à quelle date le Sénat doit-il examiner le budget de l'État en séance ?",
+   "options": [
+    "Le 1er décembre",
+    "Le 17 décembre",
+    "Le 24 novembre",
+    "Le 8 décembre"
+   ],
+   "answer": 3,
+   "explain": "L'examen en séance va du 20 novembre au 8 décembre, avec un vote solennel le 9 décembre."
+  }
+ ]
+}
