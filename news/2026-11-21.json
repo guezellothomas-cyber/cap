@@ -1,0 +1,256 @@
+{
+ "date": "2026-11-21",
+ "generatedAt": "2026-11-21T06:36:54+01:00",
+ "lede": "La chute des valeurs de l'IA a fait plonger les Bourses vendredi : le CAC 40 repasse sous les 8 000 points et le Nasdaq efface tout son gain de 2026. En France, le Sénat a lancé l'examen du budget 2027, pendant que syndicats, associations et Gilets jaunes manifestent ce samedi contre la vie chère.",
+ "figures": [
+  {
+   "label": "CAC 40 (20 nov.)",
+   "value": "7 928 pts",
+   "note": "-1,89 % sur la journée, plus de 5 % perdus sur la semaine",
+   "source": "MoneyVox"
+  },
+  {
+   "label": "Nasdaq Composite (20 nov., 18 h 43 à Paris)",
+   "value": "-3,6 %",
+   "note": "L'indice efface tout son gain de 2026",
+   "source": "CryptoTicker"
+  },
+  {
+   "label": "Brent (20 nov., 11 h 30 à Paris)",
+   "value": "90,33 $",
+   "note": "-1,79 %, vers une troisième baisse hebdomadaire",
+   "source": "5paisa / Reuters"
+  },
+  {
+   "label": "Climat des affaires en France (nov. 2026)",
+   "value": "95",
+   "note": "-2 points, sous la moyenne de long terme (100)",
+   "source": "Insee"
+  },
+  {
+   "label": "Climat des affaires dans le bâtiment (nov. 2026)",
+   "value": "93,8",
+   "note": "94,9 en octobre, carnets de commandes en baisse",
+   "source": "Insee"
+  },
+  {
+   "label": "Anthropic, première clôture (19 nov.)",
+   "value": "97,17 $",
+   "note": "Prix d'introduction : 83 $",
+   "source": "MoneyVox"
+  }
+ ],
+ "items": [
+  {
+   "cat": "politique",
+   "title": "Budget 2027 : le Sénat refuse d'arrêter les débats",
+   "summary": "Le Sénat a commencé vendredi l'examen du projet de loi de finances 2027. Il a rejeté par 249 voix contre 19 une motion du groupe CRCE-K qui voulait mettre fin aux débats. Le PS et les écologistes se sont abstenus. À l'Assemblée, la partie recettes avait été rejetée le 4 novembre.",
+   "why": "Le Sénat, dominé par la droite et le centre, va réécrire le texte. C'est lui qui fixe la base des négociations avec les députés.",
+   "sources": [
+    {
+     "name": "PolitiqueMatin",
+     "url": "https://www.politiquematin.fr/budget-2027-senat-rejette-question-prealable-249-voix-20-novembre"
+    }
+   ]
+  },
+  {
+   "cat": "politique",
+   "title": "Budget : un calendrier serré jusqu'au 17 décembre",
+   "summary": "Les sénateurs voteront la partie recettes vers le 28 novembre. Le vote final est prévu le 9 décembre à 16 h 30. Une commission mixte paritaire doit suivre vers la mi-décembre. Le Parlement a jusqu'au 17 décembre à minuit pour se prononcer, soit 70 jours.",
+   "why": "Au-delà de ce délai, le gouvernement peut passer par ordonnances ou par une loi spéciale. La France démarrerait alors 2027 sans vrai budget.",
+   "sources": [
+    {
+     "name": "HVAC Intelligence",
+     "url": "https://www.hvac-intelligence.fr/actualites-reglementations/budget-2027-maprimerenov-senat-1er-decembre/"
+    }
+   ]
+  },
+  {
+   "cat": "economie",
+   "title": "Bourse de Paris : le CAC 40 repasse sous les 8 000 points",
+   "summary": "Le CAC 40 a perdu 1,89 % vendredi, à 7 928 points. C'est sa cinquième séance de baisse d'affilée et il perd plus de 5 % sur la semaine. Capgemini, Sopra Steria et Sanofi ont résisté. Ubisoft, Abivax et Worldline ont fini en queue de peloton.",
+   "why": "Paris subit la chute mondiale des valeurs de l'IA. Une baisse durable des marchés peut peser sur la confiance et l'investissement.",
+   "sources": [
+    {
+     "name": "MoneyVox",
+     "url": "https://www.moneyvox.fr/bourse/actualites/111354/cac-40-en-baisse-de-pres-de-2-krach-de-ia-ubisoft-le-journal-de-la-bourse-du-vendredi-20-novembre-2026"
+    }
+   ]
+  },
+  {
+   "cat": "economie",
+   "title": "Insee : le climat des affaires s'assombrit en novembre",
+   "summary": "L'indicateur du climat des affaires recule de deux points, à 95. Il reste sous sa moyenne de long terme, fixée à 100. Tous les secteurs reculent : industrie à 104, services à 97, commerce de détail à 90. Le climat de l'emploi gagne un point, à 95.",
+   "why": "Cet indicateur mesure le moral des chefs d'entreprise. Il annonce souvent les tendances de l'activité et des embauches.",
+   "sources": [
+    {
+     "name": "Insee",
+     "url": "https://www.insee.fr/fr/statistiques/9151162"
+    }
+   ]
+  },
+  {
+   "cat": "economie",
+   "title": "Pétrole : le Brent glisse vers 90 dollars",
+   "summary": "Le baril de Brent cotait 90,33 dollars vendredi en fin de matinée, en baisse de 1,79 %. Il se dirige vers une troisième baisse hebdomadaire de suite. Selon Reuters, les flux de pétrole par le détroit d'Ormuz sont revenus à peu près au niveau d'avant-guerre. L'Opep+ se réunit le 29 novembre.",
+   "why": "Un pétrole moins cher allège les coûts de transport et d'énergie. C'est une bonne nouvelle pour l'inflation et pour les chantiers.",
+   "sources": [
+    {
+     "name": "5paisa",
+     "url": "https://www.5paisa.com/blog/crude-oil-price-today-20-november-2026"
+    },
+    {
+     "name": "FinanceFeeds",
+     "url": "https://financefeeds.com/fr/cours-brent-92-22-troisieme-baisse-hebdomadaire-avant-opep/"
+    }
+   ]
+  },
+  {
+   "cat": "international",
+   "title": "Ukraine : l'Europe fixe ses principes pour les pourparlers",
+   "summary": "Réunis à Berlin jeudi, Friedrich Merz, Andy Burnham, Emmanuel Macron et Volodymyr Zelensky veulent un dialogue direct entre Kiev et Moscou, avec les États-Unis et les Européens. Ils demandent à la Russie une trêve sur les frappes énergétiques pendant l'hiver. Dans la nuit suivante, la Russie a tiré environ 110 missiles et plus de 400 drones selon Kiev.",
+   "why": "L'Europe veut peser sur un futur accord de paix. L'hiver et les frappes sur l'énergie rendent la question urgente.",
+   "sources": [
+    {
+     "name": "Agence Europe",
+     "url": "https://agenceurope.eu/fr/bulletin/article/13986/18/les-dirigeants-francais-allemand-et-britannique-saccordent-sur-les-principes-concernant-la-participation-de-leurope-aux-pourparlers-de-paix"
+    }
+   ]
+  },
+  {
+   "cat": "international",
+   "title": "Iran : nouvelles frappes américaines près d'Ormuz",
+   "summary": "Selon un responsable militaire cité par Reuters, les États-Unis ont frappé cette semaine un site de lancement de missiles des Gardiens de la révolution sur l'île de Qeshm. L'Iran dit avoir visé en retour une base au Koweït, et Bahreïn affirme avoir intercepté des attaques. Selon le New York Times, Donald Trump étudie des frappes de plus grande ampleur.",
+   "why": "Le détroit d'Ormuz voit passer une grande partie du pétrole mondial. Une escalade pourrait faire remonter les prix de l'énergie.",
+   "sources": [
+    {
+     "name": "France-Irak Actualité (reprise du WSWS)",
+     "url": "https://www.france-irak-actualite.com/2026/11/le-pentagone-lance-de-nouvelles-frappes-contre-l-iran.html"
+    }
+   ]
+  },
+  {
+   "cat": "entreprises",
+   "title": "Ubisoft s'effondre de 23 % en Bourse",
+   "summary": "L'action Ubisoft a chuté de 23,24 % vendredi, à 3,20 euros. L'éditeur a dépassé les attentes au trimestre grâce à Assassin's Creed Black Flag Resynced. Mais il prévoit 250 millions d'euros de ventes au trimestre suivant, contre 388 millions attendus. Il a consommé 338 millions d'euros de trésorerie au semestre et doit rembourser 675 millions de dette en novembre 2027.",
+   "why": "C'est un cas d'école de contrôle de gestion : des ventes correctes ne suffisent pas si la trésorerie fond et que la dette approche.",
+   "sources": [
+    {
+     "name": "MoneyVox",
+     "url": "https://www.moneyvox.fr/bourse/actualites/111354/cac-40-en-baisse-de-pres-de-2-krach-de-ia-ubisoft-le-journal-de-la-bourse-du-vendredi-20-novembre-2026"
+    }
+   ]
+  },
+  {
+   "cat": "btp",
+   "title": "Bâtiment : le moral des patrons se dégrade encore",
+   "summary": "Le climat des affaires dans le bâtiment tombe à 93,8 en novembre, contre 94,9 en octobre. Les carnets de commandes reculent pour le troisième mois de suite. Les entrepreneurs jugent aussi leur activité passée et à venir en baisse.",
+   "why": "Des carnets de commandes qui se vident annoncent moins de chantiers dans les prochains mois. C'est un signal à suivre pour tout le secteur.",
+   "sources": [
+    {
+     "name": "Insee",
+     "url": "https://www.insee.fr/fr/statistiques/9148180"
+    }
+   ]
+  },
+  {
+   "cat": "btp",
+   "title": "Rénovation : MaPrimeRénov' se joue au Sénat le 1er décembre",
+   "summary": "Les sénateurs examineront le 1er décembre les crédits du logement, dont la subvention de l'Anah. Le projet de budget prévoit de supprimer l'aide MaPrimeRénov' par geste pour les pompes à chaleur air/eau et géothermiques au 1er janvier 2027. Elles ne seraient plus financées que par les certificats d'économies d'énergie. Les moyens de l'Anah baisseraient d'environ 200 millions d'euros.",
+   "why": "Les artisans de la rénovation dépendent beaucoup de ces aides. Leur baisse peut freiner les chantiers chez les particuliers.",
+   "sources": [
+    {
+     "name": "HVAC Intelligence",
+     "url": "https://www.hvac-intelligence.fr/actualites-reglementations/budget-2027-maprimerenov-senat-1er-decembre/"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "title": "IA : Wall Street décroche, Anthropic passe sous son prix d'entrée",
+   "summary": "Le Nasdaq perdait 3,6 % vendredi en début de soirée et effaçait tout son gain de 2026. Nvidia reculait de plus de 7 % et l'indice des semi-conducteurs de 8,7 %. Anthropic, entré en Bourse jeudi à 83 dollars, est revenu autour de ce prix après une première clôture à 97,17 dollars. Selon AWP, les géants de l'IA ont perdu plus de 3 500 milliards de dollars en six semaines.",
+   "why": "Les marchés doutent de la rentabilité des énormes dépenses dans l'IA. Si la correction dure, elle peut toucher toute l'économie.",
+   "sources": [
+    {
+     "name": "CryptoTicker",
+     "url": "https://cryptoticker.io/fr/bulle-ia-nasdaq-efface-gain-2026-actions-puces/"
+    },
+    {
+     "name": "Zonebourse / AWP",
+     "url": "https://www.zonebourse.com/actualite-bourse/capitalisations-anthropic-bondit-les-geants-historiques-chutent-ce785ed3db8ef624"
+    }
+   ]
+  },
+  {
+   "cat": "science",
+   "title": "Diabète : un « axe nerveux artificiel » régule le glucose chez le rat",
+   "summary": "Une équipe publie dans Nature un dispositif alimenté par le glucose, qui imite le dialogue entre nerfs et système immunitaire. Chez des rats atteints de diabète de type 1 et de type 2, il a rétabli la tolérance au glucose et la sensibilité à l'insuline. Les effets ont duré après l'arrêt du traitement. Le résultat reste préliminaire : il n'a pas été testé chez l'humain.",
+   "why": "Le diabète touche des centaines de millions de personnes. Une piste qui agit durablement sans injections serait une avancée majeure.",
+   "sources": [
+    {
+     "name": "Nature, sommaire du 19 novembre 2026",
+     "url": "https://www.nature.com/nature/volumes/659/issues/8141"
+    }
+   ]
+  },
+  {
+   "cat": "science",
+   "title": "Voie lactée : deux étoiles nourriraient le trou noir central",
+   "summary": "Des astronomes de l'Institut Max Planck proposent une origine aux nuages de gaz qui tombent vers Sagittarius A*, le trou noir au centre de notre galaxie. Ils viendraient d'un couple d'étoiles massives, IRS 16SW, dont les vents se percutent. Environ une masse terrestre de gaz tous les dix ans suffirait à le nourrir. L'étude, parue dans Astronomy & Astrophysics, reste une hypothèse fondée sur des observations et des simulations.",
+   "why": "Comprendre comment un trou noir géant s'alimente aide à expliquer l'évolution des galaxies.",
+   "sources": [
+    {
+     "name": "ScienceDaily / Max Planck",
+     "url": "https://www.sciencedaily.com/releases/2026/11/261119194605.htm"
+    }
+   ]
+  },
+  {
+   "cat": "societe",
+   "title": "Vie chère : syndicats et Gilets jaunes défilent ce samedi",
+   "summary": "L'intersyndicale d'Île-de-France, des organisations de jeunesse, le DAL et les Gilets jaunes manifestent ce samedi 21 novembre. À Paris, le cortège part à 14 h de la place de la République vers la Nation. Ils réclament des salaires plus hauts et des prix du logement, de l'énergie et de l'alimentation plus bas. Environ 70 000 policiers et gendarmes sont mobilisés en France.",
+   "why": "La mobilisation, relayée dans plusieurs pays européens, pèse sur les débats budgétaires en cours.",
+   "sources": [
+    {
+     "name": "Sortiraparis",
+     "url": "https://www.sortiraparis.com/actualites/a-paris/articles/358619-manifestation-du-21-novembre-a-paris-le-parcours-valide-pour-ce-samedi"
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "À combien de points le CAC 40 a-t-il terminé la séance du vendredi 20 novembre ?",
+   "options": [
+    "8 080 points",
+    "7 652 points",
+    "7 928 points",
+    "8 214 points"
+   ],
+   "answer": 2,
+   "explain": "Le CAC 40 a reculé de 1,89 %, à 7 928 points, et repasse sous les 8 000 points."
+  },
+  {
+   "q": "Quelle est la date limite pour que le Parlement se prononce sur le budget 2027 ?",
+   "options": [
+    "Le 17 décembre",
+    "Le 9 décembre",
+    "Le 28 novembre",
+    "Le 31 décembre"
+   ],
+   "answer": 0,
+   "explain": "Le délai constitutionnel de 70 jours expire le 17 décembre à minuit. Le vote final du Sénat est prévu le 9 décembre."
+  },
+  {
+   "q": "Quel indicateur de l'Insee pour le bâtiment est publié en novembre 2026 ?",
+   "options": [
+    "Un climat des affaires à 97,1",
+    "Un climat des affaires à 104,0",
+    "Un climat des affaires à 90,2",
+    "Un climat des affaires à 93,8"
+   ],
+   "answer": 3,
+   "explain": "Le climat des affaires dans le bâtiment tombe à 93,8, contre 94,9 en octobre, avec des carnets de commandes en baisse."
+  }
+ ]
+}
