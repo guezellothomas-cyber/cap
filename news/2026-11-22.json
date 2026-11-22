@@ -1,0 +1,264 @@
+{
+ "date": "2026-11-22",
+ "generatedAt": "2026-11-22T06:38:44+01:00",
+ "lede": "La Bourse de Paris sort d'une semaine noire, avec un CAC 40 en recul de plus de 5 % sous le poids du doute sur l'IA. En France, la mobilisation contre la vie chère continue de reculer, pendant que Zelensky évoque des pourparlers au G20 de Miami en décembre.",
+ "figures": [
+  {
+   "label": "CAC 40 (clôture 20 nov.)",
+   "value": "7 927,75 pts",
+   "note": "-1,89 % sur la journée, -5,27 % sur la semaine",
+   "source": "AFP via Yahoo Finance"
+  },
+  {
+   "label": "Brent (clôture 20 nov.)",
+   "value": "92,57 $",
+   "note": "+0,64 %, environ -20 % sur novembre",
+   "source": "AFP via Connaissance des Énergies"
+  },
+  {
+   "label": "Inflation en France (oct. 2026)",
+   "value": "3,4 %",
+   "note": "Sur un an, énergie +24,1 %, sous-jacente 1,7 %",
+   "source": "Insee"
+  },
+  {
+   "label": "Inflation harmonisée IPCH (oct. 2026)",
+   "value": "3,7 %",
+   "note": "Sur un an, contre 3,4 % en septembre",
+   "source": "Insee"
+  },
+  {
+   "label": "Mises en chantier de logements (12 mois à fin août 2026)",
+   "value": "300 244",
+   "note": "9,5 % sous la moyenne des cinq années précédentes",
+   "source": "SDES via Maire-info"
+  },
+  {
+   "label": "Manifestants vie chère (21 nov.)",
+   "value": "82 500",
+   "note": "Contre 106 000 le 14 novembre, selon l'Intérieur",
+   "source": "L'Express"
+  }
+ ],
+ "items": [
+  {
+   "cat": "politique",
+   "title": "Présidentielle 2027 : François Ruffin jette l'éponge",
+   "summary": "Le député de la Somme François Ruffin renonce à se présenter à la présidentielle de 2027. Il parle d'une « impasse » et regrette l'échec de sa « grande primaire » à gauche. Il était crédité de 1 à 3 % dans les sondages. Il ne soutient aucun candidat pour l'instant.",
+   "why": "La gauche reste divisée à 17 mois du scrutin. Ce retrait relance la question d'une candidature commune.",
+   "sources": [
+    {
+     "name": "L'Express via Orange Actualités",
+     "url": "https://actu.orange.fr/france/les-trois-infos-a-retenir-du-samedi-21-novembre-l-express-via-6medias-CNT000002tWh6P.html"
+    }
+   ]
+  },
+  {
+   "cat": "politique",
+   "title": "Budget 2027 : une semaine décisive pour la Sécu",
+   "summary": "Le Sénat poursuit l'examen des recettes de l'État jusqu'au 29 novembre. Le délai de 50 jours pour le budget de la Sécurité sociale expire le 26 novembre, jour prévu pour la commission mixte paritaire (CMP). Sans accord, le gouvernement peut passer par ordonnance. Le vote solennel du Sénat sur le budget de l'État est fixé au 9 décembre.",
+   "why": "Le pays n'a toujours pas de budget voté pour 2027. L'échec des CMP ouvrirait la voie au 49.3, aux ordonnances ou à une loi spéciale.",
+   "sources": [
+    {
+     "name": "NosParlementaires",
+     "url": "https://nosparlementaires.fr/budget-2027"
+    },
+    {
+     "name": "Les Français.press (AFP)",
+     "url": "https://lesfrancais.press/budget-2027-ce-que-le-senat-a-change/"
+    }
+   ]
+  },
+  {
+   "cat": "economie",
+   "title": "Bourse de Paris : le CAC 40 perd 5,27 % en une semaine",
+   "summary": "Le CAC 40 a fini vendredi à 7 927,75 points, en baisse de 1,89 %. Sur la semaine, il recule de 5,27 %. En cause : les doutes sur la rentabilité des dépenses dans l'IA et une possible hausse des taux de la Fed début décembre. Schneider Electric et Legrand ont aussi reculé.",
+   "why": "C'est une semaine noire pour la Bourse de Paris. Une baisse durable peut freiner l'investissement des entreprises.",
+   "sources": [
+    {
+     "name": "Yahoo Finance (AFP)",
+     "url": "https://fr.finance.yahoo.com/actualites/bourse-paris-finit-rouge-recule-173616456.html"
+    }
+   ]
+  },
+  {
+   "cat": "economie",
+   "title": "Pétrole : le Brent remonte à 92,57 dollars",
+   "summary": "Le baril de Brent a fini vendredi à 92,57 dollars, en hausse de 0,64 %. Il reste en recul d'environ 20 % sur novembre. L'AIE prévoit un surplus d'offre au dernier trimestre 2026, le premier depuis le début de la guerre en Iran. L'Opep+ se réunit le dimanche 29 novembre pour fixer sa production de 2027.",
+   "why": "Le prix du pétrole pèse sur l'inflation, qui atteint 3,4 % en France. Il compte aussi pour le carburant des engins de chantier.",
+   "sources": [
+    {
+     "name": "Connaissance des Énergies (AFP)",
+     "url": "https://www.connaissancedesenergies.org/afp/le-petrole-avance-entre-impasse-geopolitique-et-surplus-doffre-261120"
+    },
+    {
+     "name": "FinanceFeeds",
+     "url": "https://financefeeds.com/fr/cours-brent-92-22-troisieme-baisse-hebdomadaire-avant-opep/"
+    }
+   ]
+  },
+  {
+   "cat": "international",
+   "title": "Ukraine : des pourparlers possibles au G20 de Miami",
+   "summary": "Volodymyr Zelensky estime qu'une réunion entre Donald Trump, Vladimir Poutine et lui pourrait avoir lieu au G20 de Miami, les 14 et 15 décembre. Kiev n'a pas encore reçu d'invitation. Selon lui, Washington veut un nouveau cycle de négociations avant Noël, tandis que Moscou chercherait à le repousser. Il demande que l'Europe soit à la table.",
+   "why": "Ce serait la première rencontre à ce niveau depuis le début des pourparlers. La place de l'Europe dans la négociation reste un enjeu clé.",
+   "sources": [
+    {
+     "name": "United24 Media",
+     "url": "https://united24media.com/war-in-ukraine/zelenskyy-says-trump-putin-ukraine-talks-possible-at-g20-but-kyiv-still-awaits-invite-24593"
+    },
+    {
+     "name": "Ukrinform",
+     "url": "https://www.ukrinform.net/rubric-polytics/4187172-next-round-of-peace-talks-depends-on-us-zelensky-says.html"
+    }
+   ]
+  },
+  {
+   "cat": "international",
+   "title": "Ormuz : deux pétroliers touchés, le Qatar à Téhéran",
+   "summary": "Deux pétroliers ont été touchés samedi dans le détroit d'Ormuz, selon l'agence maritime britannique UKMTO. Aucune victime n'est signalée. L'Iran dit avoir abattu un drone américain au-dessus de l'île de Qeshm. Une délégation du Qatar a discuté deux heures à Téhéran vendredi soir, mais l'Iran exige la levée du blocus américain avant toute réouverture du détroit.",
+   "why": "Ormuz est un passage clé pour le pétrole mondial. Chaque incident peut faire remonter les prix de l'énergie.",
+   "sources": [
+    {
+     "name": "Prothom Alo (AFP)",
+     "url": "https://en.prothomalo.com/international/middle-east/icrs071ydi"
+    }
+   ]
+  },
+  {
+   "cat": "entreprises",
+   "title": "Semi-conducteurs : STMicro et Soitec plongent de plus de 10 %",
+   "summary": "Vendredi à Paris, STMicroelectronics a perdu 10,81 % à 36,72 euros et Soitec 11,85 % à 96,30 euros. Vallourec a chuté de 14,57 % et Ubisoft de 23,24 %. À New York, Anthropic a perdu 9,80 % au lendemain de son entrée en Bourse, après un gain de 17,07 % le premier jour.",
+   "why": "Les fabricants de puces sont les plus exposés au doute sur l'IA. Leurs résultats servent de baromètre pour tout le secteur tech.",
+   "sources": [
+    {
+     "name": "Yahoo Finance (AFP)",
+     "url": "https://fr.finance.yahoo.com/actualites/bourse-paris-finit-rouge-recule-173616456.html"
+    }
+   ]
+  },
+  {
+   "cat": "btp",
+   "title": "Grand Paris : les quartiers de gare sortent de terre",
+   "summary": "À Créteil, une première pierre a été posée près de la future gare Créteil L'Échat de la ligne 15 Sud. À La Défense, l'aménagement du Delta Vert a été lancé pour transformer un nœud autoroutier en espaces paysagers. Haropa Port prévoit aussi de nouvelles activités logistiques et de BTP à Bruyères-sur-Oise.",
+   "why": "Les chantiers autour des gares du Grand Paris Express soutiennent l'activité francilienne. Ils comptent alors que les travaux publics reculent au niveau national.",
+   "sources": [
+    {
+     "name": "Le Journal du Grand Paris",
+     "url": "https://www.lejournaldugrandparis.fr/lessentiel-de-la-semaine-du-16-novembre-2026-en-quelques-clics/"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "title": "IA : un mathématicien d'Anthropic revendique une preuve de l'hypothèse de Riemann",
+   "summary": "Levent Alpöge, chercheur chez Anthropic, a annoncé le 20 novembre une preuve de l'hypothèse de Riemann et de sa version généralisée. Elle a été construite pendant des mois avec l'IA Claude et tient en 175 187 fichiers du langage de preuve Lean. Des vérifications automatiques disent que le code compile sans erreur. Mais la preuve n'est pas validée tant que les mathématiciens ne l'ont pas comprise et relue.",
+   "why": "C'est l'un des problèmes les plus célèbres des mathématiques, ouvert depuis 1859. Si elle tient, ce serait un tournant pour l'usage de l'IA en recherche.",
+   "sources": [
+    {
+     "name": "CASRAI",
+     "url": "https://casrai.org/news/anthropic-levent-alpoge-claude-lean-riemann-hypothesis-claim-2026"
+    }
+   ]
+  },
+  {
+   "cat": "science",
+   "title": "Microplastiques : ils produisent des radicaux toxiques dans l'eau",
+   "summary": "Selon une étude publiée dans Nature, six plastiques courants (PET, PVC, polystyrène...) génèrent des espèces réactives de l'oxygène dans de l'eau pure, même dans le noir. L'équipe de Columbia et de Berkeley a observé en laboratoire que ces radicaux abîment des protéines et des globules rouges. Les effets sur la santé humaine ne sont pas démontrés à ce stade.",
+   "why": "Les microplastiques sont partout, jusque dans le corps humain. Ce mécanisme donne une piste pour comprendre leur toxicité.",
+   "sources": [
+    {
+     "name": "CASRAI",
+     "url": "https://casrai.org/news/columbia-berkeley-microplastics-water-reactive-oxygen-species-nature-2026"
+    },
+    {
+     "name": "Nature, numéro du 19 novembre",
+     "url": "https://www.nature.com/nature/volumes/659/issues/8141"
+    }
+   ]
+  },
+  {
+   "cat": "science",
+   "title": "Physique : un champ quantique relativiste simulé avec des atomes froids",
+   "summary": "Des physiciens de Cambridge ont simulé un champ quantique relativiste massif en deux dimensions. Ils ont utilisé un condensat de Bose-Einstein, un gaz d'atomes refroidis près du zéro absolu. Le résultat est paru le 18 novembre dans Nature, en libre accès.",
+   "why": "Ces simulateurs permettent d'étudier en laboratoire des phénomènes de physique fondamentale impossibles à observer directement.",
+   "sources": [
+    {
+     "name": "Nature",
+     "url": "https://www.nature.com/articles/s41586-026-11268-y"
+    },
+    {
+     "name": "Nature, numéro du 19 novembre",
+     "url": "https://www.nature.com/nature/volumes/659/issues/8141"
+    }
+   ]
+  },
+  {
+   "cat": "societe",
+   "title": "Vie chère : 82 500 manifestants pour l'acte VI",
+   "summary": "Selon le ministère de l'Intérieur, 82 500 personnes ont manifesté samedi en France contre la vie chère, contre 106 000 la semaine passée. Les organisateurs en revendiquent 150 000. À Paris, la préfecture a compté 21 500 manifestants. Des dégradations et des heurts ont été signalés à Marseille et à Lille.",
+   "why": "La mobilisation recule chaque samedi depuis le pic de 565 000 le 17 octobre. Le pouvoir d'achat reste pourtant au cœur du débat budgétaire.",
+   "sources": [
+    {
+     "name": "L'Express via Orange Actualités",
+     "url": "https://actu.orange.fr/france/les-trois-infos-a-retenir-du-samedi-21-novembre-l-express-via-6medias-CNT000002tWh6P.html"
+    },
+    {
+     "name": "Entrevue",
+     "url": "https://entrevue.fr/societe/manifestations-du-21-novembre-21-500-participants-a-paris-la-mobilisation/"
+    }
+   ]
+  },
+  {
+   "cat": "societe",
+   "title": "Pas-de-Calais : près de 800 personnes évacuées après les crues",
+   "summary": "Depuis jeudi, près de 800 personnes ont été évacuées dans le Pas-de-Calais et des centaines de logements ont été inondés. Le préfet a activé le plan Orsec. Environ 20 communes et une trentaine de routes ont été touchées. La Canche reste en vigilance orange crues.",
+   "why": "Le département subit des inondations à répétition depuis 2023. Cela pose la question de la prévention et de l'urbanisme en zone inondable.",
+   "sources": [
+    {
+     "name": "L'Express via Orange Actualités",
+     "url": "https://actu.orange.fr/france/les-trois-infos-a-retenir-du-samedi-21-novembre-l-express-via-6medias-CNT000002tWh6P.html"
+    },
+    {
+     "name": "Connexion France",
+     "url": "https://www.connexionfrance.com/weather/emergency-weather-plan-implemented-in-northern-france-due-to-flooding/830147"
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Combien de manifestants le ministère de l'Intérieur a-t-il comptés en France samedi 21 novembre ?",
+   "options": [
+    "106 000",
+    "150 000",
+    "82 500",
+    "21 500"
+   ],
+   "answer": 2,
+   "explain": "L'Intérieur a compté 82 500 manifestants, contre 106 000 le samedi précédent. Les organisateurs en revendiquent 150 000."
+  },
+  {
+   "q": "Où pourrait avoir lieu une rencontre Trump-Poutine-Zelensky selon le président ukrainien ?",
+   "options": [
+    "Au G20 de Miami",
+    "À l'Onu à New York",
+    "Au sommet de Berlin",
+    "À la COP de Belém"
+   ],
+   "answer": 0,
+   "explain": "Zelensky évoque le G20 de Miami, les 14 et 15 décembre 2026, mais Kiev n'a pas encore reçu d'invitation."
+  },
+  {
+   "q": "Combien le CAC 40 a-t-il perdu sur la semaine du 16 au 20 novembre ?",
+   "options": [
+    "-1,89 %",
+    "-3,70 %",
+    "-0,81 %",
+    "-5,27 %"
+   ],
+   "answer": 3,
+   "explain": "Le CAC 40 a reculé de 5,27 % sur la semaine. Il a fini vendredi à 7 927,75 points, soit -1,89 % sur la séance."
+  }
+ ]
+}
