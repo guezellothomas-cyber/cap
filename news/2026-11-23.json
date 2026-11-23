@@ -1,0 +1,274 @@
+{
+ "date": "2026-11-23",
+ "generatedAt": "2026-11-23T06:40:29+01:00",
+ "lede": "Les Bourses asiatiques chutent encore ce lundi après la débâcle de l'IA, mais les contrats à terme américains rebondissent. En France, le sommet Choose France annonce 42,5 milliards d'euros d'investissements, dont 14,9 milliards de projets nouveaux.",
+ "figures": [
+  {
+   "label": "CAC 40 (clôture 20 nov.)",
+   "value": "7 927,75 pts",
+   "note": "-1,89 % sur la séance, -5,27 % sur la semaine, pire semaine depuis mars",
+   "source": "Boursorama"
+  },
+  {
+   "label": "Brent (clôture 20 nov.)",
+   "value": "91,15 $",
+   "note": "-1,46 % sur la séance, 3e semaine de baisse",
+   "source": "Boursorama"
+  },
+  {
+   "label": "Taux de dépôt BCE (décision du 29 oct. 2026)",
+   "value": "2,50 %",
+   "note": "Taux inchangés. Prochaine réunion de politique monétaire le 17 déc.",
+   "source": "BCE"
+  },
+  {
+   "label": "Inflation en France (oct. 2026)",
+   "value": "+3,4 % sur un an",
+   "note": "Après +3,1 % en septembre. IPCH à +3,8 %. Chiffre de novembre le 27 nov.",
+   "source": "Insee"
+  },
+  {
+   "label": "Taux de chômage (T3 2026)",
+   "value": "8,2 %",
+   "note": "-0,1 point sur le trimestre, +0,4 point sur un an",
+   "source": "Insee"
+  },
+  {
+   "label": "PIB de la France (T3 2026)",
+   "value": "-0,1 %",
+   "note": "Sur un trimestre. Investissement -0,6 %, construction toujours en recul",
+   "source": "Insee / Trésor"
+  },
+  {
+   "label": "Climat des affaires dans le bâtiment (nov. 2026)",
+   "value": "94",
+   "note": "2e baisse de suite. Carnets de commandes à -35 (moyenne -21)",
+   "source": "Insee"
+  }
+ ],
+ "items": [
+  {
+   "cat": "politique",
+   "title": "Affaire Moutouh : le préfet soupçonné de fuites vers le RN demande à être relevé",
+   "summary": "Hugues Moutouh, préfet du Centre-Val-de-Loire et ancien secrétaire général du ministère de l'Intérieur, a demandé samedi à être relevé de ses fonctions. Les enquêteurs examinent un mail confidentiel trouvé chez Frédéric Chatillon, proche de Marine Le Pen, dans l'enquête sur le financement présumé illégal des campagnes du RN. Le préfet dénonce une « campagne de déstabilisation ». Marine Le Pen dit n'avoir jamais demandé d'informations confidentielles. Personne n'est mis en examen.",
+   "why": "L'affaire touche à la fois la haute administration de l'Intérieur et le RN, à cinq mois de la présidentielle.",
+   "sources": [
+    {
+     "name": "Sud Radio (AFP)",
+     "url": "https://www.sudradio.fr/societe/enquete-rn-un-mail-au-coeur-des-soupcons-pesant-sur-le-prefet-moutouh"
+    }
+   ]
+  },
+  {
+   "cat": "politique",
+   "title": "Primaire de la droite : Lisnard veut y inclure Zemmour",
+   "summary": "David Lisnard, maire de Cannes, défend une primaire ouverte de la droite et du centre qui inclurait Éric Zemmour. Bruno Retailleau, Gabriel Attal et Gérard Larcher refusent la présence de Zemmour, et Édouard Philippe rejette toute primaire. Jordan Bardella le traite de « macroniste masqué ». Lisnard brigue aussi un 3e mandat à la tête de l'Association des maires de France, résultat mercredi.",
+   "why": "La recomposition de la droite pour 2027 bute sur la question Zemmour et sur le refus de Philippe.",
+   "sources": [
+    {
+     "name": "Orange Actu (AFP)",
+     "url": "https://actu.orange.fr/politique/attaque-par-le-rn-et-le-centre-lisnard-ne-lache-rien-sur-la-primaire-CNT000002tZCNA.html"
+    }
+   ]
+  },
+  {
+   "cat": "economie",
+   "title": "Marchés : l'Asie chute encore, Wall Street rebondit en avance",
+   "summary": "Ce lundi matin, le Kospi coréen perd environ 5 % et tombe à son plus bas depuis 10 mois. Hong Kong et Shanghai reculent de 1,5 %, Tokyo est fermé. Les contrats à terme sur le Nasdaq 100 gagnent près de 3 %, après une semaine à -10 % pour le Nasdaq, la pire depuis mars 2020. Taïwan a durci les règles de vente à découvert et la Chine annonce des mesures de soutien.",
+   "why": "Cela donne le ton pour l'ouverture de Paris, après une semaine à -5,27 % pour le CAC 40.",
+   "sources": [
+    {
+     "name": "Boursorama (Reuters)",
+     "url": "https://www.boursorama.com/bourse/actualites/les-contrats-a-terme-americains-rebondissent-alors-que-l-asie-s-efforce-de-stabiliser-les-marches-boursiers-apres-une-chute-provoquee-par-l-ia-57ebbfeab08b02bed8ace98cb70a9646"
+    },
+    {
+     "name": "Investing.com",
+     "url": "https://fr.investing.com/news/stock-market-news/les-marches-asiatiques-chutent-alors-que-la-debacle-de-lia-sintensifie-3708047"
+    }
+   ]
+  },
+  {
+   "cat": "economie",
+   "title": "Choose France : 42,5 milliards d'euros d'investissements annoncés",
+   "summary": "La 2e édition nationale de Choose France se tient ce lundi à Paris. L'Élysée recense 273 projets pour 42,5 milliards d'euros, dont 81 nouveaux pour 14,9 milliards. Les plus gros montants viennent d'ADP (9,5 milliards) et de RTE (8 milliards). La 1re édition, en novembre 2025, comptait 151 projets pour 30,4 milliards.",
+   "why": "Aéroports et réseau électrique : ces projets peuvent donner du travail au BTP, alors que l'investissement recule.",
+   "sources": [
+    {
+     "name": "Boursorama (Reuters)",
+     "url": "https://www.boursorama.com/bourse/actualites/sommet-choose-france-environ-15-mds-de-nouveaux-investissements-francais-attendus-18128ec3b7169b88a0864344db3d6c8d"
+    },
+    {
+     "name": "Économie Matin",
+     "url": "https://www.economiematin.fr/choose-france-edition-france-81-projets-nouveaux-149-milliards-2026"
+    }
+   ]
+  },
+  {
+   "cat": "economie",
+   "title": "Semaine chargée : PMI, confiance des ménages, inflation et PIB",
+   "summary": "Les PMI flash de novembre sortent ce lundi matin. Mercredi, l'Insee publie la confiance des ménages, et jeudi le compte rendu de la BCE d'octobre est attendu. Vendredi 27 novembre, l'Insee publie l'inflation de novembre et le détail du PIB du 3e trimestre. Jeudi, l'Insee publie aussi le chiffre d'affaires de la construction et l'indice des prix d'entretien-amélioration des bâtiments.",
+   "why": "Des indicateurs directement utiles en contrôle de gestion dans le BTP : prix, activité et inflation.",
+   "sources": [
+    {
+     "name": "Boursorama, agenda de la semaine",
+     "url": "https://www.boursorama.com/bourse/actualites/agenda-france-international-semaine-du-23-novembre-2a812f1c01bac339ae3d6aa94b657cdf"
+    },
+    {
+     "name": "Insee, calendrier",
+     "url": "https://www.insee.fr/fr/information/5235017"
+    }
+   ]
+  },
+  {
+   "cat": "international",
+   "title": "Ukraine : au moins 14 morts dans des frappes russes près de Kiev",
+   "summary": "Au moins 14 personnes ont été tuées ce week-end dans la région de Kiev. À Dymer, 10 personnes sont mortes dans l'effondrement partiel d'un immeuble de cinq étages. À Vychneve, une frappe sur un supermarché a fait 3 morts et 15 blessés. Vladimir Poutine avait promis des représailles après les frappes ukrainiennes sur le pont de Crimée.",
+   "why": "L'escalade se poursuit alors que des pourparlers sont évoqués pour le G20 de Miami.",
+   "sources": [
+    {
+     "name": "Boursorama (AFP)",
+     "url": "https://www.boursorama.com/actualite-economique/actualites/ukraine-au-moins-10-morts-lors-de-frappes-russes-dans-la-region-de-kiev-c5751e1d98c414fc0bb249b346954146"
+    }
+   ]
+  },
+  {
+   "cat": "international",
+   "title": "Missiles russes en Pologne : l'Otan se réunit ce lundi",
+   "summary": "Vendredi, deux missiles russes présumés et un drone sont entrés dans l'espace aérien polonais et se sont écrasés dans le sud-est du pays, sans faire de blessé. L'un a été identifié comme un missile de croisière Kh-101. Le Conseil de l'Atlantique Nord se réunit ce lundi à Bruxelles. Varsovie réclame des avions de surveillance Awacs et des F-35 supplémentaires.",
+   "why": "C'est une nouvelle violation du territoire de l'Otan, en pleine vague d'attaques russes.",
+   "sources": [
+    {
+     "name": "Stars and Stripes",
+     "url": "https://www.stripes.com/theaters/europe/2026-11-22/poland-russia-nato-missiles-23541547.html"
+    }
+   ]
+  },
+  {
+   "cat": "international",
+   "title": "Golfe : Bahreïn accuse l'Iran d'avoir frappé un site industriel",
+   "summary": "Bahreïn accuse l'Iran d'avoir frappé un site industriel civil, qui a pris feu, sans victime signalée. Les Gardiens de la révolution disent avoir visé des bases américaines à Bahreïn. Le ministre iranien Abbas Araghchi affirme que le stock d'uranium enrichi ne quittera pas le pays, alors qu'une délégation qatarie discute à Téhéran.",
+   "why": "Le conflit gagne les pays du Golfe qui accueillent des bases américaines, ce qui pèse sur le pétrole.",
+   "sources": [
+    {
+     "name": "RTÉ (AFP)",
+     "url": "https://rte.ie/news/middle-east/2026/1122/1600172-middle-east-iran"
+    },
+    {
+     "name": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat"
+    }
+   ]
+  },
+  {
+   "cat": "entreprises",
+   "title": "Worldline chute de 15 % après des révélations sur sa trésorerie",
+   "summary": "Vendredi, l'action Worldline a perdu environ 15 %, à 8,07 euros. Selon le Financial Times, le groupe aurait retardé des paiements à ses fournisseurs et demandé des avances à ses clients avant ses clôtures, entre 2021 et 2023. Un rapport PwC cité par le journal chiffre l'effet à 200 millions d'euros sur le free cash-flow 2022. Worldline dément toute irrégularité et maintient ses objectifs 2026.",
+   "why": "Un cas concret de gestion du BFR en fin de période, au cœur du contrôle de gestion. Ce sont des accusations, pas des faits établis.",
+   "sources": [
+    {
+     "name": "Boursorama",
+     "url": "https://www.boursorama.com/bourse/actualites/worldline-plonge-apres-des-revelations-sur-sa-tresorerie-le-groupe-se-defend-d0a935fcc248b6de264a9937b159490a"
+    }
+   ]
+  },
+  {
+   "cat": "btp",
+   "title": "Loi logement : vote solennel à l'Assemblée mardi",
+   "summary": "Les députés ont fini d'examiner les articles du projet de loi de relance du logement. Le vote solennel aura lieu mardi 24 novembre à 16h30. Le texte vise 2 millions de logements neufs ou rénovés d'ici 2030 et prévoit 5 milliards d'euros pour la rénovation urbaine. Une commission mixte paritaire est attendue début décembre.",
+   "why": "C'est le texte central pour relancer la construction, alors que le moral du bâtiment continue de baisser.",
+   "sources": [
+    {
+     "name": "LCP",
+     "url": "https://lcp.fr/actualites/logement-passoires-thermiques-relance-de-la-construction-ce-que-contient-le-projet-de"
+    },
+    {
+     "name": "Assemblée nationale",
+     "url": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/examen-du-projet-de-loi-visant-la-relance-et-la-decentralisation-du-logement"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "title": "Hypothèse de Riemann : la preuve assistée par l'IA validée par la communauté Lean",
+   "summary": "La Lean FRO et la Mathlib Initiative disent avoir pleine confiance dans la preuve formelle de Levent Alpöge, mathématicien chez Anthropic. La preuve fait environ 17 millions de lignes de code Lean et a été vérifiée par plusieurs outils indépendants. Il n'existe pas encore de version lisible par des humains. Le prix Clay exige une publication et deux ans de délai.",
+   "why": "C'est la première validation formelle et indépendante d'un grand résultat mathématique obtenu avec une IA.",
+   "sources": [
+    {
+     "name": "StartupFortune",
+     "url": "https://startupfortune.com/lean-groups-certify-claude-assisted-riemann-hypothesis-proof-from-anthropic/"
+    }
+   ]
+  },
+  {
+   "cat": "science",
+   "title": "Chimie : la relativité bouscule la triple liaison des manuels",
+   "summary": "Une équipe de l'université Brown a étudié l'ion carbone-bismuth CBi⁻, refroidi presque au zéro absolu. Sa triple liaison ne suit pas le modèle classique (une liaison sigma et deux pi). Un effet relativiste propre aux atomes lourds mélange les deux types de liaison. Le résultat, publié dans Science, porte sur un seul ion.",
+   "why": "Cela pourrait changer la façon d'enseigner la liaison chimique pour les éléments lourds.",
+   "sources": [
+    {
+     "name": "ScienceDaily (Brown University)",
+     "url": "https://www.sciencedaily.com/releases/2026/11/261120075602.htm"
+    }
+   ]
+  },
+  {
+   "cat": "science",
+   "title": "Espace : Voyager 1 atteint un jour-lumière de la Terre",
+   "summary": "Le 18 novembre, Voyager 1 est devenue le premier objet humain situé à un jour-lumière de la Terre, soit environ 25,9 milliards de km. Mais la Nasa ne reçoit plus aucune donnée de la sonde depuis le 14 novembre. Seule une onde porteuse arrive encore, et les ingénieurs cherchent la cause.",
+   "why": "Un jalon historique, au moment où la survie de la mission devient incertaine.",
+   "sources": [
+    {
+     "name": "ScienceDaily (Nasa/JPL)",
+     "url": "https://www.sciencedaily.com/releases/2026/11/261120075554.htm"
+    }
+   ]
+  },
+  {
+   "cat": "societe",
+   "title": "Violences faites aux femmes : une semaine de mobilisation",
+   "summary": "Des manifestations ont commencé samedi dans une douzaine de villes, à l'appel de NousToutes. D'autres cortèges sont prévus le 25 novembre, journée internationale, puis le 28 novembre à Lille, Lyon et Paris. La « loi intégrale », adoptée par l'Assemblée en octobre, arrive au Sénat en janvier. La Fondation des femmes chiffre les besoins à 4 milliards d'euros par an.",
+   "why": "Les associations veulent peser sur le budget et sur la campagne présidentielle.",
+   "sources": [
+    {
+     "name": "Sud Radio (AFP)",
+     "url": "https://www.sudradio.fr/societe/a-partir-de-samedi-des-manifestations-toute-la-semaine-contre-les-violences-sexistes"
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Combien d'investissements au total l'Élysée annonce-t-il pour Choose France 2026 ?",
+   "options": [
+    "30,4 milliards d'euros",
+    "42,5 milliards d'euros",
+    "14,9 milliards d'euros",
+    "27,6 milliards d'euros"
+   ],
+   "answer": 1,
+   "explain": "273 projets pour 42,5 milliards d'euros, dont 81 nouveaux pour 14,9 milliards."
+  },
+  {
+   "q": "Selon le Financial Times, quel indicateur Worldline aurait-il embelli ?",
+   "options": [
+    "Son chiffre d'affaires",
+    "Sa marge brute",
+    "Son résultat net",
+    "Son flux de trésorerie"
+   ],
+   "answer": 3,
+   "explain": "Le FT évoque des paiements fournisseurs retardés pour embellir le flux de trésorerie publié. Worldline dément."
+  },
+  {
+   "q": "Quand a lieu le vote solennel sur la loi logement à l'Assemblée ?",
+   "options": [
+    "Lundi 23 novembre",
+    "Mercredi 25 novembre",
+    "Mardi 24 novembre",
+    "Jeudi 26 novembre"
+   ],
+   "answer": 2,
+   "explain": "Le vote solennel est fixé au mardi 24 novembre à 16h30."
+  }
+ ]
+}
