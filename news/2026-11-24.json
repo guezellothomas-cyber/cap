@@ -1,0 +1,272 @@
+{
+ "date": "2026-11-24",
+ "generatedAt": "2026-11-24T06:38:36+01:00",
+ "lede": "Emmanuel Macron envisage d'inscrire une règle d'or budgétaire dans la Constitution, ce qui a fait reculer le taux d'emprunt français. À la Bourse, le retour de Jensen Huang chez Nvidia a fait rebondir la tech et le CAC 40 de 1,48 %.",
+ "figures": [
+  {
+   "label": "CAC 40 (clôture 23 nov.)",
+   "value": "8 044,84 pts",
+   "note": "+1,48 % sur la séance, rebond après une semaine de chute",
+   "source": "Boursorama"
+  },
+  {
+   "label": "Taux d'emprunt France à 10 ans (23 nov.)",
+   "value": "4,78 %",
+   "note": "Contre 4,87 % vendredi. Bund allemand à 3,28 %",
+   "source": "Boursorama"
+  },
+  {
+   "label": "Taux de dépôt BCE (décision du 29 oct. 2026)",
+   "value": "2,50 %",
+   "note": "Taux inchangés. Prochaine réunion le 17 déc.",
+   "source": "BCE"
+  },
+  {
+   "label": "Inflation en France (oct. 2026)",
+   "value": "+3,4 % sur un an",
+   "note": "Après +3,1 % en septembre. Énergie +24,1 %. Chiffre de novembre le 27 nov.",
+   "source": "Insee"
+  },
+  {
+   "label": "Taux de chômage (T3 2026)",
+   "value": "8,2 %",
+   "note": "-0,1 point sur le trimestre, +0,4 point sur un an",
+   "source": "Insee"
+  },
+  {
+   "label": "PIB de la France (T3 2026)",
+   "value": "-0,1 %",
+   "note": "Sur un trimestre. Construction toujours en recul",
+   "source": "Insee"
+  }
+ ],
+ "items": [
+  {
+   "cat": "politique",
+   "title": "Règle d'or : Macron envisage un Congrès en janvier",
+   "summary": "Dans un entretien au Figaro, Emmanuel Macron confirme « explorer l'idée » d'une règle d'or budgétaire dans la Constitution. Il reprendrait le texte de 2011, déjà adopté par les deux chambres mais jamais mené au bout. Les partis seraient consultés en janvier, puis le Congrès réuni à Versailles, où il faut 3/5 des voix. Les réactions sont partagées : Marine Le Pen dit oui sur le principe, LR et Gérard Larcher s'interrogent sur le calendrier, la gauche critique.",
+   "why": "Une telle règle limiterait les déficits futurs. L'annonce a aussi fait baisser le taux d'emprunt français lundi.",
+   "sources": [
+    {
+     "name": "Boursorama (AFP)",
+     "url": "https://www.boursorama.com/actualite-economique/actualites/macron-confirme-explorer-l-idee-d-une-regle-d-or-budgetaire-ac2542d94286daf13385f718c371429d"
+    },
+    {
+     "name": "Public Sénat",
+     "url": "https://www.publicsenat.fr/actualites/politique/il-se-fout-de-la-gueule-du-monde-la-regle-dor-budgetaire-evoquee-par-emmanuel-macron-laisse-dubitatif"
+    }
+   ]
+  },
+  {
+   "cat": "politique",
+   "title": "Budget 2027 : le Sénat taxe les grosses indemnités de départ",
+   "summary": "Lundi, les sénateurs ont voté l'article 2 du budget 2027. Les indemnités de rupture au-delà de 48 060 euros seront imposées, quel que soit le motif du départ, à partir du 1er janvier 2027. Le gouvernement en attend 380 millions d'euros d'économies et dit que 95 % des salariés ne seront pas concernés. Le soir, le Sénat a aussi adopté un taux de 6 % sur les dons d'argent aux enfants jusqu'à 100 000 euros.",
+   "why": "Ces mesures touchent les ruptures de contrat et les transmissions de patrimoine. Le texte devra encore repasser devant l'Assemblée.",
+   "sources": [
+    {
+     "name": "Public Sénat",
+     "url": "https://www.publicsenat.fr/actualites/economie/ce-debat-me-donne-la-nausee-le-senat-alourdit-la-fiscalite-des-indemnites-de-depart-des-salaries"
+    },
+    {
+     "name": "Public Sénat",
+     "url": "https://www.publicsenat.fr/actualites/politique/budget-2027-le-senat-allege-la-fiscalite-des-donations-familiales"
+    },
+    {
+     "name": "NosParlementaires",
+     "url": "https://nosparlementaires.fr/actualites/budget-2027-calendrier-assemblee-cinq-semaines"
+    }
+   ]
+  },
+  {
+   "cat": "politique",
+   "title": "Présidentielle 2027 : un sondage Odoxa teste sept duels face à Le Pen",
+   "summary": "Selon un sondage Odoxa-Mascaret réalisé les 18 et 19 novembre auprès de 1 005 personnes, seuls deux candidats battraient Marine Le Pen au second tour. Édouard Philippe obtiendrait 35 % contre 31 %, David Lisnard 32 % contre 27 %. Le Pen devancerait les autres personnalités testées, dont Jean-Luc Mélenchon (40 % contre 24 %). Entre 29 % et 42 % des sondés ne choisiraient aucun des deux.",
+   "why": "Un sondage est une photo à un instant donné, pas une prévision. Il montre surtout un fort taux de rejet des deux camps.",
+   "sources": [
+    {
+     "name": "Public Sénat",
+     "url": "https://www.publicsenat.fr/actualites/politique/sondage-au-deuxieme-tour-seuls-david-lisnard-et-edouard-philippe-seraient-preferes-a-marine-le-pen"
+    }
+   ]
+  },
+  {
+   "cat": "economie",
+   "title": "Bourse : le CAC 40 rebondit de 1,48 %",
+   "summary": "Après une semaine de chute liée aux craintes sur l'IA, le CAC 40 a fini lundi à 8 044,84 points. La tech a tiré le marché, avec STMicroelectronics près de +9 %, Legrand et Schneider Electric au-dessus de +4 %. Le taux d'emprunt français à 10 ans a reculé à 4,78 %, contre 4,87 % vendredi. Wall Street a aussi rebondi, porté par Nvidia.",
+   "why": "La baisse du taux français allège le coût de la dette. Les marchés restent nerveux face à la volatilité des valeurs de l'IA.",
+   "sources": [
+    {
+     "name": "Boursorama (AFP)",
+     "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-portee-par-la-tech-et-le-repli-du-taux-d-emprunt-francais-da00db4bc41f8c3fe4a509089d13ee76"
+    },
+    {
+     "name": "Rekto News",
+     "url": "https://rekto.substack.com/p/mardi-24-novembre-2026"
+    }
+   ]
+  },
+  {
+   "cat": "economie",
+   "title": "Bitcoin : sept semaines de baisse d'affilée",
+   "summary": "Le bitcoin enchaîne sept semaines de baisse consécutives, une série vue seulement en 2015 et 2022. Il est tombé autour de 61 500 dollars lundi. Environ 860 milliards de dollars de capitalisation crypto ont été effacés depuis octobre.",
+   "why": "La chute des cryptos suit le recul des actifs à risque. Elle pèse sur les épargnants exposés à ces placements.",
+   "sources": [
+    {
+     "name": "Rekto News",
+     "url": "https://rekto.substack.com/p/mardi-24-novembre-2026"
+    }
+   ]
+  },
+  {
+   "cat": "international",
+   "title": "Ukraine : deux navires russes frappés loin du front",
+   "summary": "Un cargo russe a été touché par un drone en mer Baltique samedi, et un navire de guerre russe dans un port libyen dimanche. Volodymyr Zelensky a confirmé ces attaques. Le Kremlin dénonce une « activité terroriste ». Le Premier ministre finlandais estime que l'Ukraine a le droit de riposter.",
+   "why": "La guerre s'étend à la mer, loin de l'Ukraine. Cela fait monter les risques pour le commerce maritime en Europe.",
+   "sources": [
+    {
+     "name": "Just Security",
+     "url": "https://www.justsecurity.org/165610/early-edition-november-23-2026/"
+    }
+   ]
+  },
+  {
+   "cat": "international",
+   "title": "Danemark : l'attaché de défense russe expulsé",
+   "summary": "Le Danemark expulse l'attaché de défense russe après un complot présumé visant à assassiner le rappeur ukrainien Kyivstoner. Un gang danois aurait été recruté pour l'opération. La Pologne dit avoir arrêté un Russe qui visait le même rappeur.",
+   "why": "L'affaire illustre les opérations hostiles prêtées à la Russie sur le sol européen.",
+   "sources": [
+    {
+     "name": "Just Security",
+     "url": "https://www.justsecurity.org/165610/early-edition-november-23-2026/"
+    }
+   ]
+  },
+  {
+   "cat": "entreprises",
+   "title": "Nvidia : Jensen Huang reprend la tête du groupe",
+   "summary": "Onze jours après son départ, Jensen Huang a été réintégré lundi comme PDG de Nvidia, par vote unanime du conseil. Le 17 novembre, le président du conseil excluait encore ce retour. Colette Kress, qui assurait l'intérim, redevient directrice financière. L'enquête interne continue et l'action Nvidia a bondi de plus de 30 % lundi.",
+   "why": "Nvidia est au cœur de la course à l'IA. Son action pèse lourd sur les marchés mondiaux.",
+   "sources": [
+    {
+     "name": "LeBigData",
+     "url": "https://www.lebigdata.fr/jensen-huang-est-de-retour-chez-nvidia-apres-11-jours-dabsence-le-conseil-cede"
+    },
+    {
+     "name": "Boursorama (AFP)",
+     "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-portee-par-la-tech-et-le-repli-du-taux-d-emprunt-francais-da00db4bc41f8c3fe4a509089d13ee76"
+    }
+   ]
+  },
+  {
+   "cat": "entreprises",
+   "title": "Aéronautique : 350 millions pour la recherche",
+   "summary": "En visite chez Airbus à Blagnac lundi, Emmanuel Macron a annoncé 350 millions d'euros « sanctuarisés » pour le Corac, le conseil de la recherche aéronautique civile. La filière en demandait 450 millions par an. Le secteur compte 230 000 emplois directs et vise plus de 75 avions par mois d'ici 2028.",
+   "why": "C'est un soutien à une filière industrielle clé, qui doit réduire ses émissions.",
+   "sources": [
+    {
+     "name": "Public Sénat",
+     "url": "https://www.publicsenat.fr/actualites/economie/emmanuel-macron-annonce-350-millions-dinvestissement-dans-la-recherche-aeronautique-a-toulouse"
+    }
+   ]
+  },
+  {
+   "cat": "btp",
+   "title": "Loi logement : vote solennel à l'Assemblée cet après-midi",
+   "summary": "Les députés votent ce mardi à 16h30 sur le projet de loi de relance et de décentralisation du logement. Le texte vise 2 millions de logements neufs ou réhabilités d'ici 2030 et crée des « opérations d'intérêt local » à l'initiative des maires. Il dote le programme de renouvellement urbain Anru 3 de 5 milliards d'euros. Un amendement RN a supprimé l'interdiction de louer les passoires thermiques, contre l'avis du gouvernement.",
+   "why": "Le texte peut relancer la construction, en crise. Une commission mixte paritaire est attendue début décembre.",
+   "sources": [
+    {
+     "name": "Assemblée nationale",
+     "url": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/vote-solennel-sur-le-projet-de-loi-visant-la-relance-et-la-decentralisation-du-logement"
+    },
+    {
+     "name": "LCP",
+     "url": "https://lcp.fr/actualites/logement-passoires-thermiques-relance-de-la-construction-ce-que-contient-le-projet-de"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "title": "Serveurs IA : Dell, HPE et Lenovo augmentent leurs prix",
+   "summary": "Selon le Financial Times, Dell, HPE, Lenovo et Supermicro relèvent de 25 % à 45 % le prix de serveurs IA Nvidia déjà commandés. En cause, la flambée du coût de la mémoire. Un client, XTX, conteste en justice une hausse demandée par Dell.",
+   "why": "La hausse des coûts du matériel renchérit les projets d'IA des entreprises.",
+   "sources": [
+    {
+     "name": "ActuIA",
+     "url": "https://www.actuia.com/veille/2026-11-23/"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "title": "Grok : deux États américains attaquent SpaceX",
+   "summary": "L'Oregon et la Virginie poursuivent en justice SpaceX, la société d'Elon Musk qui détient Grok. Ils reprochent au chatbot des garde-fous trop faibles face aux contenus pédocriminels et aux deepfakes intimes.",
+   "why": "La sécurité des IA génératives devient un sujet judiciaire, pas seulement réglementaire.",
+   "sources": [
+    {
+     "name": "Just Security",
+     "url": "https://www.justsecurity.org/165610/early-edition-november-23-2026/"
+    }
+   ]
+  },
+  {
+   "cat": "science",
+   "title": "Virus : un chaînon manquant de l'évolution",
+   "summary": "Des chercheurs de l'université de Miami ont identifié de nouveaux virus en fouillant des milliards de séquences d'ADN, sans culture en laboratoire. Ils ont utilisé des outils d'IA comme AlphaFold pour analyser leurs protéines. Selon eux, ces virus éclairent un chaînon manquant de l'évolution virale. L'étude est publiée dans Nature Communications.",
+   "why": "Ces travaux montrent comment l'IA accélère la découverte du vivant à partir des données génétiques.",
+   "sources": [
+    {
+     "name": "ScienceDaily (Université de Miami)",
+     "url": "https://www.sciencedaily.com/releases/2026/11/261122060334.htm"
+    }
+   ]
+  },
+  {
+   "cat": "science",
+   "title": "Alzheimer : la dépression, un signal précoce ?",
+   "summary": "Une étude publiée dans The Journal of Neuroscience lie l'accumulation de la protéine tau à la hausse des symptômes dépressifs chez des seniors sans trouble cognitif. Ce lien n'apparaît pas chez les personnes déjà atteintes. Les auteurs précisent qu'il faut d'autres recherches pour savoir si ces changements d'humeur prédisent un déclin.",
+   "why": "Repérer Alzheimer plus tôt permettrait de mieux suivre les patients. Le résultat reste une corrélation, pas une preuve.",
+   "sources": [
+    {
+     "name": "ScienceDaily (Society for Neuroscience)",
+     "url": "https://sciencedaily.com/releases/2026/11/261121221134.htm"
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Quel taux le Sénat a-t-il voté pour les dons d'argent aux enfants jusqu'à 100 000 euros ?",
+   "options": [
+    "10 %",
+    "8 %",
+    "6 %",
+    "4 %"
+   ],
+   "answer": 2,
+   "explain": "Le Sénat a adopté lundi soir un taux de 6 % sur ces dons, plafonné à 200 000 euros par bénéficiaire."
+  },
+  {
+   "q": "Combien de temps Jensen Huang a-t-il été absent de la tête de Nvidia ?",
+   "options": [
+    "7 jours",
+    "11 jours",
+    "15 jours",
+    "21 jours"
+   ],
+   "answer": 1,
+   "explain": "Parti le 12 novembre, il a été réintégré le 23 novembre, onze jours plus tard."
+  },
+  {
+   "q": "Quelle majorité faut-il au Congrès pour réviser la Constitution ?",
+   "options": [
+    "La moitié des voix",
+    "Les deux tiers des voix",
+    "Les trois quarts des voix",
+    "Les trois cinquièmes des voix"
+   ],
+   "answer": 3,
+   "explain": "Une révision constitutionnelle votée par le Congrès à Versailles exige 3/5 des suffrages exprimés."
+  }
+ ]
+}
