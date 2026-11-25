@@ -1,0 +1,290 @@
+{
+ "date": "2026-11-25",
+ "generatedAt": "2026-11-25T06:38:35+01:00",
+ "lede": "L'Assemblée a adopté la loi logement par 362 voix contre 118, mais un amendement RN supprime l'interdiction de louer les passoires thermiques. En Bourse, Sanofi a bondi de 9 % après l'annonce du rachat d'Insmed pour 41 milliards de dollars.",
+ "figures": [
+  {
+   "label": "CAC 40 (clôture 24 nov.)",
+   "value": "8 040,49 pts",
+   "note": "-0,05 % sur la journée, après +1,48 % la veille",
+   "source": "Boursorama"
+  },
+  {
+   "label": "Taux d'emprunt France à 10 ans (24 nov.)",
+   "value": "4,78 %",
+   "note": "Stable. Écart d'environ 150 points avec l'Allemagne",
+   "source": "Reuters via Zonebourse"
+  },
+  {
+   "label": "Pétrole Brent (24 nov.)",
+   "value": "89,87 $",
+   "note": "+0,56 % sur la journée",
+   "source": "Reuters via Zonebourse"
+  },
+  {
+   "label": "Taux de dépôt BCE (décision du 29 oct. 2026)",
+   "value": "2,50 %",
+   "note": "Inchangé lors de la dernière réunion",
+   "source": "BCE"
+  },
+  {
+   "label": "Inflation en France (oct. 2026)",
+   "value": "+3,4 % sur un an",
+   "note": "Énergie +24,1 %. Estimation de novembre le 27 nov.",
+   "source": "Insee"
+  },
+  {
+   "label": "Taux de chômage (T3 2026)",
+   "value": "8,2 %",
+   "note": "8,3 % au T2, environ 2,63 millions de chômeurs",
+   "source": "Insee"
+  },
+  {
+   "label": "PIB de la France (T3 2026)",
+   "value": "-0,1 %",
+   "note": "Première estimation, après 0,0 % au T2",
+   "source": "Insee / DG Trésor"
+  }
+ ],
+ "items": [
+  {
+   "cat": "politique",
+   "title": "Budget 2027 : le Sénat plafonne l'abattement des retraités à 1 000 €",
+   "summary": "Mardi, le Sénat a refusé de supprimer l'abattement fiscal de 10 % sur les pensions, une idée portée par la rapporteure générale Christine Lavarde et soutenue par le gouvernement. Il a préféré le plafonner à 1 000 €, par 175 voix contre 161. Le texte du gouvernement prévoyait un plafond à 3 000 €. La gauche et le RN étaient contre toute baisse de cet abattement.",
+   "why": "Cette mesure doit financer la réindexation des retraites sur l'inflation votée dans le budget de la Sécu. Une commission mixte paritaire sur ce budget est prévue le 26 novembre.",
+   "sources": [
+    {
+     "name": "Public Sénat",
+     "url": "https://www.publicsenat.fr/actualites/politique/budget-2027-coup-de-theatre-le-senat-renonce-a-supprimer-labattement-de-10-des-retraites"
+    }
+   ]
+  },
+  {
+   "cat": "politique",
+   "title": "Sénat : heures sup refusées, taxe Zucman et ISF rejetés",
+   "summary": "Le Sénat a rejeté de justesse, 22 voix contre 21, l'amendement du gouvernement qui relevait de 7 500 à 10 000 € le plafond d'exonération des heures supplémentaires. Plusieurs sénateurs LR ont voté contre. Matignon demandera un nouveau vote d'ici dimanche. Dans la nuit, la majorité de droite et du centre a aussi rejeté la taxe Zucman et le retour de l'ISF, proposés par la gauche.",
+   "why": "Une promesse du Premier ministre est désavouée par une partie de son propre camp. Le débat sur l'impôt des plus riches reste bloqué entre gauche et droite.",
+   "sources": [
+    {
+     "name": "Public Sénat",
+     "url": "https://www.publicsenat.fr/actualites/politique/heures-supplementaires-defiscalisees-mis-en-minorite-au-senat-le-gouvernement-veut-un-nouveau-vote"
+    },
+    {
+     "name": "Public Sénat",
+     "url": "https://www.publicsenat.fr/actualites/economie/budget-2027-le-senat-ecarte-a-nouveau-la-taxe-zucman-et-le-retablissement-de-lisf"
+    }
+   ]
+  },
+  {
+   "cat": "politique",
+   "title": "Congrès des maires : les candidats à 2027 font campagne",
+   "summary": "Au 108e Congrès des maires, Marine Tondelier a dit rester candidate et s'est dite ouverte à un accord avec LFI. Ce rapprochement a poussé Yannick Jadot et le député Jérémie Iordanoff à créer un nouveau parti, « Écologistes et Démocrates ». Bruno Retailleau, candidat LR, a promis de « libérer » les communes de la technocratie. Les candidats ont jusqu'au 12 mars pour réunir 500 parrainages.",
+   "why": "Les écologistes se divisent avant la présidentielle. Les maires sont courtisés car leurs signatures sont indispensables pour être candidat.",
+   "sources": [
+    {
+     "name": "Public Sénat",
+     "url": "https://www.publicsenat.fr/actualites/politique/main-tendue-des-ecologistes-a-melenchon-je-suis-candidate-aujourdhui-je-serai-candidate-demain-jusqua-ce-quon-en-decide-autrement-au-sein-du-mouvement"
+    },
+    {
+     "name": "Public Sénat",
+     "url": "https://www.publicsenat.fr/actualites/politique/fustigeant-letat-profond-et-la-bureaucratie-bruno-retailleau-veut-remettre-la-mairie-au-milieu-du-village"
+    }
+   ]
+  },
+  {
+   "cat": "economie",
+   "title": "Immobilier : les prix de l'ancien baissent de 1,2 % sur un an",
+   "summary": "Selon l'Insee et les notaires, les prix des logements anciens ont reculé de 0,3 % au 3e trimestre 2026 et de 1,2 % sur un an. Les appartements baissent un peu plus que les maisons. En Île-de-France, la baisse atteint 1,5 % sur un an, contre 1,1 % en province.",
+   "why": "La baisse s'accentue, alors que les taux d'emprunt remontent. C'est un signal de plus pour le marché du logement, déjà fragile.",
+   "sources": [
+    {
+     "name": "Insee",
+     "url": "https://www.insee.fr/fr/statistiques/9149846"
+    }
+   ]
+  },
+  {
+   "cat": "economie",
+   "title": "Wall Street : le Dow Jones passe les 50 000 points",
+   "summary": "Mardi, le Dow Jones a fini à 50 018 points (+0,85 %), mais le Nasdaq a chuté de 1,48 %. Nvidia a perdu environ 7 à 8 % après avoir bondi de plus de 30 % la veille. La confiance des consommateurs américains a fortement monté, à 103,3 contre 92,4 attendu. L'indice d'inflation PCE est publié ce mercredi.",
+   "why": "Les marchés anticipent une hausse des taux de la Fed le 9 décembre. Cela pèse sur les valeurs tech et sur le coût du crédit dans le monde.",
+   "sources": [
+    {
+     "name": "Boursorama",
+     "url": "https://www.boursorama.com/bourse/actualites/wall-street-ne-sait-plus-sur-quel-pied-danser-et-trebuche-avec-nvidia-et-anthropic-d6bebe69d60ab9f275e7d7340511864a"
+    }
+   ]
+  },
+  {
+   "cat": "international",
+   "title": "Iran : le détroit d'Ormuz reste fermé, le Qatar tente une médiation",
+   "summary": "Le chef de l'armée iranienne a ordonné de garder le détroit d'Ormuz fermé tant que Washington ne remplit pas les « sept conditions » de Téhéran. Les Gardiens de la révolution disent avoir endommagé trois pétroliers, ce que l'organisme de suivi maritime JMIC juge non confirmé. Le Premier ministre qatari a rencontré Marco Rubio et JD Vance à Washington. Donald Trump a évoqué une reprise des frappes après le Nouvel An.",
+   "why": "Ormuz est un passage clé pour le pétrole mondial. Le prix du Brent, proche de 90 $, en dépend directement.",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://www.euronews.com/2026/11/24/iran-orders-hormuz-closed-further-day-by-day-as-qatar-seeks-to-revive-peace-talks"
+    },
+    {
+     "name": "Prixdubaril",
+     "url": "https://prixdubaril.com/news-petrole/75246-le-petrole-se-stabilise-avec-des-espoirs-sur-la-diplomatie-au-moyen-orient.html"
+    }
+   ]
+  },
+  {
+   "cat": "international",
+   "title": "Ukraine : 9 morts en 24 h, l'UE prépare de nouvelles sanctions",
+   "summary": "Les frappes russes ont fait 9 morts et 77 blessés en une journée, dont 2 morts et 44 blessés dans un immeuble de Zaporijjia. La Commission européenne propose un 22e paquet de sanctions, qui vise notamment le contournement par les cryptomonnaies et la réparation des raffineries russes. Volodymyr Zelensky a reçu le Premier ministre hongrois Peter Magyar, une première rencontre officielle.",
+   "why": "Le sommet européen des 26 et 27 novembre doit discuter d'un prêt de 45 milliards d'euros à l'Ukraine. Le rapprochement avec la Hongrie change l'équilibre au sein de l'UE.",
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/russian-attacks-kill-9-injure-77-across-ukraine-over-past-day-zaporizhzhia-residential-building-massively-hit/"
+    },
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/ukraine-government-welcomes-newly-proposed-eu-sanctions-package/"
+    },
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/zelensky-hungary-leader-magyar-to-hold-first-formal-meeting-in-zakarpattia/"
+    }
+   ]
+  },
+  {
+   "cat": "entreprises",
+   "title": "Sanofi rachète l'américain Insmed pour 41 milliards de dollars",
+   "summary": "Sanofi va racheter le laboratoire Insmed à 175 $ par action, en numéraire, soit environ 37,6 milliards d'euros. Insmed apporte des traitements contre des maladies pulmonaires, dont Brinsupri. L'opération doit se conclure au premier semestre 2027. L'action Sanofi a bondi de 9,27 %, meilleure hausse du CAC 40.",
+   "why": "C'est la plus grosse acquisition de Sanofi. Le groupe prépare l'après-Dupixent, son médicament vedette qui va perdre son exclusivité.",
+   "sources": [
+    {
+     "name": "Communiqué Sanofi (SEC)",
+     "url": "https://www.sec.gov/Archives/edgar/data/0001121404/000119312526473314/d130092dex991.htm"
+    },
+    {
+     "name": "Boursorama",
+     "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-termine-proche-de-l-equilibre-sanofi-flambe-de-pres-de-10-17026de273bdee7dcc84006ce12fdbcd"
+    }
+   ]
+  },
+  {
+   "cat": "btp",
+   "title": "Loi logement : adoptée à l'Assemblée, sans l'interdiction des passoires",
+   "summary": "Les députés ont adopté le projet de loi de relance du logement par 362 voix contre 118 et 50 abstentions. Le texte vise 400 000 logements par an, élargit le dispositif Jeanbrun et crée l'Anru 3, avec 5 milliards d'euros pour au moins 150 quartiers. Un amendement RN, voté par 108 voix contre 102, supprime le calendrier d'interdiction de louer les logements classés F et G. Une commission mixte paritaire doit maintenant trouver un texte commun avec le Sénat.",
+   "why": "C'est le grand texte de relance de la construction. Le sort des passoires thermiques pèse directement sur le marché de la rénovation.",
+   "sources": [
+    {
+     "name": "MySweetImmo (AFP)",
+     "url": "https://www.mysweetimmo.com/2026/11/24/loi-logement-adoptee-assemblee-dpe/"
+    },
+    {
+     "name": "PoliGraph",
+     "url": "https://poligraph.fr/parlement/votes/2026-11-24-scrutin-10102-l-ensemble-du-projet-de-loi-visant-la-relance-et-la"
+    },
+    {
+     "name": "Banque des Territoires",
+     "url": "https://www.banquedesterritoires.fr/adoption-de-lanru-3-coup-de-theatre-sur-les-passoires-thermiques-le-projet-de-loi-logement-demarre"
+    }
+   ]
+  },
+  {
+   "cat": "btp",
+   "title": "Logement neuf : les ventes reculent encore",
+   "summary": "Au 3e trimestre 2026, les particuliers ont réservé 15 823 logements neufs, soit 6 % de moins qu'un an plus tôt. Les ventes en bloc chutent de 12,4 % sur le trimestre, la quatrième baisse d'affilée. Le stock de logements neufs à vendre monte à 126 178, et les annulations progressent de 8 % sur un an.",
+   "why": "Moins de ventes aujourd'hui, c'est moins de chantiers demain pour le BTP. L'objectif de 400 000 logements par an paraît loin.",
+   "sources": [
+    {
+     "name": "Batiweb",
+     "url": "https://www.batiweb.com/actualites/conjoncture/logement-neuf-baisse-ventes-troisieme-trimestre-2026-49663"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "title": "IA : Amazon rachète la technologie de Decart pour défier Nvidia",
+   "summary": "Amazon reprend le logiciel d'optimisation de la start-up israélienne Decart, ainsi que ses fondateurs et ses chercheurs. Bloomberg estime le prix à environ 7,5 milliards de dollars, un montant non confirmé. Ce logiciel rend les modèles d'IA plus efficaces sur les puces maison d'Amazon, Trainium et Inferentia. L'opération doit encore être autorisée par les régulateurs.",
+   "why": "Amazon veut vendre ses puces à d'autres entreprises, comme alternative à Nvidia. La bataille des puces pour l'IA s'intensifie.",
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
+    },
+    {
+     "name": "GeekWire",
+     "url": "https://www.geekwire.com/2026/amazon-is-buying-decarts-ai-chip-software-for-a-reported-7-5b-and-bringing-its-founders-aboard/"
+    }
+   ]
+  },
+  {
+   "cat": "science",
+   "title": "Climat : une glaciation aurait débuté puis été stoppée",
+   "summary": "Selon une étude publiée dans Science, la calotte glaciaire du Canada a atteint sa plus petite taille il y a 3 000 ans, puis s'est remise à grossir il y a 2 000 ans. Les chercheurs de l'université Columbia ont daté des plantes anciennes libérées par la fonte d'une calotte sur l'île de Baffin. Depuis les années 1960, la fonte y dépasse la neige tombée. L'idée d'un « début de glaciation » dépend toutefois de la définition retenue et contredit des modèles plus anciens.",
+   "why": "L'étude suggère que le réchauffement d'origine humaine a interrompu un refroidissement naturel.",
+   "sources": [
+    {
+     "name": "ScienceDaily (Columbia)",
+     "url": "https://www.sciencedaily.com/releases/2026/11/261123005350.htm"
+    }
+   ]
+  },
+  {
+   "cat": "science",
+   "title": "Longévité : les secrets de Jonathan, tortue de 194 ans",
+   "summary": "Des chercheurs de Cambridge ont analysé pour la première fois l'épigénome d'une tortue géante, Jonathan, qui vit à Sainte-Hélène. Ils ont identifié 287 variants génétiques liés à la réparation de l'ADN, à l'inflammation et à la lutte contre les cancers. Ses mécanismes ressemblent à ceux de tortues plus jeunes. Le résultat, publié dans Science Advances, reste préliminaire : il repose sur un seul animal.",
+   "why": "L'étude donne des pistes pour comprendre la longévité extrême. Toute application à l'humain reste lointaine.",
+   "sources": [
+    {
+     "name": "ScienceDaily (Cambridge)",
+     "url": "https://www.sciencedaily.com/releases/2026/11/261121221130.htm"
+    }
+   ]
+  },
+  {
+   "cat": "societe",
+   "title": "Féminicides : 47 000 femmes tuées par un proche en 2025",
+   "summary": "Selon l'ONU, environ 47 000 femmes et filles ont été tuées par un partenaire ou un proche en 2025, soit 60 % des femmes tuées dans le monde. Le taux est de 0,5 pour 100 000 femmes en Europe, contre 2,9 en Afrique. Seules 7 % des victimes de violences s'adressent à la police. Le rapport sort pour la journée du 25 novembre contre les violences faites aux femmes.",
+   "why": "En Europe, les féminicides baissent moins vite que les autres homicides. Le rapport souligne le manque de signalements.",
+   "sources": [
+    {
+     "name": "ONU Info",
+     "url": "https://news.un.org/fr/story/2026/11/1159900"
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Quelle entreprise Sanofi a-t-elle annoncé racheter ?",
+   "options": [
+    "Clariane",
+    "Insmed",
+    "Decart",
+    "Legrand"
+   ],
+   "answer": 1,
+   "explain": "Sanofi rachète l'américain Insmed pour 41 milliards de dollars, sa plus grosse acquisition."
+  },
+  {
+   "q": "Par combien de voix la loi logement a-t-elle été adoptée à l'Assemblée ?",
+   "options": [
+    "302 voix contre 178",
+    "342 voix contre 128",
+    "382 voix contre 108",
+    "362 voix contre 118"
+   ],
+   "answer": 3,
+   "explain": "Le texte a été adopté par 362 voix contre 118, avec 50 abstentions."
+  },
+  {
+   "q": "À combien le Sénat a-t-il plafonné l'abattement de 10 % des retraités ?",
+   "options": [
+    "1 000 €",
+    "3 000 €",
+    "2 000 €",
+    "5 000 €"
+   ],
+   "answer": 0,
+   "explain": "Le Sénat a voté un plafond de 1 000 €, contre 3 000 € dans le texte du gouvernement."
+  }
+ ]
+}
