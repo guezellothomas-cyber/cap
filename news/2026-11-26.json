@@ -1,0 +1,282 @@
+{
+ "date": "2026-11-26",
+ "generatedAt": "2026-11-26T06:38:36+01:00",
+ "lede": "La Bourse de Paris a reculé de 0,75 % mercredi, entraînée par la chute des valeurs technologiques à Wall Street et une inflation américaine au plus haut depuis trois ans. À Paris, les maires réunis en congrès dénoncent l'effort de 5,5 milliards d'euros que le budget 2027 leur demande.",
+ "figures": [
+  {
+   "label": "CAC 40 (clôture du 25 nov.)",
+   "value": "7 980,57 pts",
+   "note": "-0,75 % sur la séance, STMicroelectronics en dernière place",
+   "source": "Boursorama / AFP"
+  },
+  {
+   "label": "Taux d'emprunt France à 10 ans (25 nov.)",
+   "value": "4,73 %",
+   "note": "Contre 4,77 % la veille",
+   "source": "Boursorama / AFP"
+  },
+  {
+   "label": "Pétrole Brent (25 nov., matin)",
+   "value": "89,82 $",
+   "note": "-1,73 %, malgré de nouvelles attaques dans le détroit d'Ormuz",
+   "source": "Anadolu"
+  },
+  {
+   "label": "Confiance des ménages (nov. 2026)",
+   "value": "82",
+   "note": "+1 point sur un mois, loin de la moyenne de long terme (100)",
+   "source": "Insee"
+  },
+  {
+   "label": "Inflation PCE aux États-Unis (oct. 2026)",
+   "value": "+3,8 % sur un an",
+   "note": "Après 3,6 % en septembre, plus haut depuis trois ans",
+   "source": "MoneyVox / Boursorama"
+  },
+  {
+   "label": "Taux de dépôt BCE (décision du 29 oct. 2026)",
+   "value": "2,50 %",
+   "note": "Prochaine réunion de politique monétaire en décembre",
+   "source": "BCE"
+  },
+  {
+   "label": "Inflation en France (oct. 2026)",
+   "value": "+3,4 % sur un an",
+   "note": "Chiffre de novembre attendu en fin de mois",
+   "source": "Insee"
+  }
+ ],
+ "items": [
+  {
+   "cat": "politique",
+   "title": "Budget 2027 : le Sénat vote les recettes samedi",
+   "summary": "Le Sénat examine le budget 2027 depuis le 20 novembre, après son rejet à l'Assemblée par 458 voix contre 0. Le vote sur la partie recettes est prévu samedi 28 novembre, le vote final le 9 décembre. Le 23 novembre, les sénateurs ont voté l'imposition totale des indemnités journalières pour affection de longue durée (194 voix contre 146).",
+   "why": "Le Parlement a jusqu'au 17 décembre à minuit pour voter. Au-delà, le gouvernement peut passer par ordonnance, ce qui serait une première.",
+   "sources": [
+    {
+     "name": "NosParlementaires",
+     "url": "https://nosparlementaires.fr/actualites/budget-2027-calendrier-assemblee-cinq-semaines"
+    },
+    {
+     "name": "Public Sénat",
+     "url": "https://www.publicsenat.fr/actualites/politique/budget-2027-le-senat-vote-la-fiscalisation-integrale-des-indemnites-pour-affections-de-longue-duree"
+    }
+   ]
+  },
+  {
+   "cat": "politique",
+   "title": "LFI promet de nationaliser ArcelorMittal en cas de victoire",
+   "summary": "Manuel Bompard, coordinateur de La France insoumise, a confirmé le 24 novembre que le parti nationaliserait ArcelorMittal si Jean-Luc Mélenchon gagnait la présidentielle de 2027. Le sidérurgiste est au cœur des débats sur l'avenir de l'industrie lourde en France.",
+   "why": "La place de l'État dans l'industrie devient un thème de la campagne présidentielle.",
+   "sources": [
+    {
+     "name": "Presse Évasion",
+     "url": "https://www.presse-evasion.fr/article/revue-presse-25-11-2026"
+    }
+   ]
+  },
+  {
+   "cat": "economie",
+   "title": "Bourse : le CAC 40 recule, la tech plombe les marchés",
+   "summary": "Le CAC 40 a fini à 7 980,57 points mercredi, en baisse de 0,75 %. STMicroelectronics a perdu 4,69 %, après déjà -10,21 % mardi. Schneider Electric (-4,18 %) et Legrand (-3,27 %) ont aussi reculé. Bureau Veritas a pris 6,60 % malgré un démenti de discussions avec le fonds Advent.",
+   "why": "Les valeurs liées aux puces et à l'électrification souffrent des doutes sur la bulle de l'IA.",
+   "sources": [
+    {
+     "name": "Boursorama / AFP",
+     "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-termine-en-baisse-entrainee-par-le-decrochage-de-wall-street-433969c54c4595bb9b96daa1793758d6"
+    },
+    {
+     "name": "Zonebourse / AWP",
+     "url": "https://www.zonebourse.com/actualite-bourse/paris-termine-en-baisse-entrainee-par-le-decrochage-de-wall-street-ce7851d8da88f225"
+    }
+   ]
+  },
+  {
+   "cat": "economie",
+   "title": "Le moral des ménages reste bas en novembre",
+   "summary": "L'indicateur de confiance des ménages de l'Insee gagne 1 point en novembre, à 82. Il reste très en dessous de sa moyenne de long terme, fixée à 100. Le solde sur la capacité d'épargne recule de 2 points, à 116, mais reste élevé.",
+   "why": "Des ménages inquiets consomment moins et épargnent plus, ce qui freine la croissance.",
+   "sources": [
+    {
+     "name": "Insee",
+     "url": "https://www.insee.fr/fr/statistiques/9156257"
+    }
+   ]
+  },
+  {
+   "cat": "economie",
+   "title": "États-Unis : inflation à 3,8 %, croissance à 4,3 %",
+   "summary": "L'inflation PCE, suivie de près par la Fed, a atteint 3,8 % sur un an en octobre, contre 3,6 % en septembre. Hors énergie et alimentation, elle est de 3,3 %. La croissance du troisième trimestre a été révisée à 4,3 % en rythme annualisé. Le Nasdaq a chuté de plus de 4 % en séance.",
+   "why": "Une inflation plus forte réduit les chances de baisse des taux de la Fed, ce qui pèse sur les marchés mondiaux.",
+   "sources": [
+    {
+     "name": "MoneyVox",
+     "url": "https://www.moneyvox.fr/bourse/actualites/111425/le-nasdaq-plonge-le-cac-40-limite-la-casse-les-infos-bourse-du-mercredi-25-novembre-2026"
+    }
+   ]
+  },
+  {
+   "cat": "international",
+   "title": "Ukraine et Hongrie ouvrent « un nouveau chapitre »",
+   "summary": "Volodymyr Zelensky a reçu mardi en Transcarpatie le Premier ministre hongrois Péter Magyar. Budapest envoie une aide d'un milliard de forints (matériel médical, générateurs), sans armes. Selon la presse, la Hongrie a levé ses objections aux derniers chapitres de l'adhésion de l'Ukraine à l'UE.",
+   "why": "La Hongrie bloquait depuis des années le rapprochement entre Kiev et l'Union européenne.",
+   "sources": [
+    {
+     "name": "Euronews",
+     "url": "https://fr.euronews.com/2026/11/25/lukraine-et-la-hongrie-tournent-la-page-des-tensions-et-ouvrent-un-nouveau-chapitre"
+    }
+   ]
+  },
+  {
+   "cat": "international",
+   "title": "Ormuz : de nouveaux pétroliers touchés",
+   "summary": "L'Iran a signalé mercredi que deux pétroliers avaient heurté des mines dans le détroit d'Ormuz. L'agence britannique UKMTO fait état de trois navires touchés par des projectiles non identifiés, sans disparus. Le Brent a pourtant reculé vers 90 $, l'AIE prévoyant une offre de pétrole supérieure à la demande.",
+   "why": "Une grande partie du pétrole mondial passe par Ormuz. Les attaques entretiennent la volatilité des prix de l'énergie.",
+   "sources": [
+    {
+     "name": "Anadolu",
+     "url": "https://www.aa.com.tr/fr/%C3%A9conomie/les-cours-du-p%C3%A9trole-et-du-gaz-europ%C3%A9en-reculent-malgr%C3%A9-de-nouvelles-attaques-dans-le-d%C3%A9troit-d-ormuz/4136955"
+    },
+    {
+     "name": "FinScans",
+     "url": "https://finscans.com/fr/news/2026/11/25/liran-signale-deux-nouvelles-explosions-de-petroliers-dans"
+    }
+   ]
+  },
+  {
+   "cat": "entreprises",
+   "title": "Huawei reconnu coupable par un jury américain",
+   "summary": "Un jury fédéral de Brooklyn a condamné mardi Huawei et trois filiales après 12 semaines de procès. Les chefs retenus incluent vol de secrets commerciaux, fraude bancaire et violation des sanctions contre l'Iran. Le groupe chinois rejette le verdict. Les peines possibles sont financières : amendes et confiscations.",
+   "why": "Ce verdict tend encore les relations technologiques entre la Chine et les États-Unis.",
+   "sources": [
+    {
+     "name": "Département de la Justice (EDNY)",
+     "url": "https://www.justice.gov/usao-edny/pr/chinese-telecommunications-conglomerate-huawei-and-subsidiaries-convicted-sanctions"
+    },
+    {
+     "name": "Presse Évasion",
+     "url": "https://www.presse-evasion.fr/article/revue-presse-25-11-2026"
+    }
+   ]
+  },
+  {
+   "cat": "btp",
+   "title": "NGE et France Travail s'allient pour recruter",
+   "summary": "NGE et France Travail ont signé le 25 novembre, au Salon des maires, leur premier partenariat national, pour trois ans. NGE recrute en moyenne 5 000 personnes par an. L'accord mise sur l'immersion en entreprise, le recrutement par simulation et des formations via le CFA du groupe, Plate Forme. Il vise les seniors, les bénéficiaires du RSA, les personnes handicapées et les femmes.",
+   "why": "Le BTP manque de bras. Ce type d'accord ouvre le recrutement à des profils sans CV classique.",
+   "sources": [
+    {
+     "name": "Socialmag",
+     "url": "https://www.socialmag.news/25/11/2026/nge-france-travail-btp-formation-recrutement-2026/"
+    }
+   ]
+  },
+  {
+   "cat": "btp",
+   "title": "Congrès des maires : les communes freinent leurs chantiers",
+   "summary": "Le budget 2027 demande 5,5 milliards d'euros d'effort aux collectivités, 7 milliards avec la hausse des cotisations retraite. Au Congrès des maires, des élus disent renoncer à des projets : un maire de l'Isère a dû choisir entre sa salle polyvalente et son gymnase. Le gouvernement promet des ressources qui suivent l'inflation.",
+   "why": "Les collectivités portent une grande part de l'investissement public. Moins de projets, c'est moins de commandes pour les travaux publics.",
+   "sources": [
+    {
+     "name": "Sud Radio",
+     "url": "https://www.sudradio.fr/politique/congres-des-maires-de-france-les-collectivites-vent-debout-contre-le-budget-lecornu"
+    },
+    {
+     "name": "FNTP",
+     "url": "https://www.fntp.fr/salon-des-maires-2026-laudace-cest-dinvestir-la-fntp-au-rendez-vous-du-nouveau-mandat/"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "title": "Anthropic passe sous son prix d'introduction",
+   "summary": "L'action Anthropic, cotée au Nasdaq, a clôturé mardi à 81,91 $, sous son prix d'introduction de 83 $. Elle avait atteint 115,10 $ le 19 novembre. Mercredi, le Nasdaq a encore chuté de plus de 4 % en séance, plombé par les valeurs technologiques.",
+   "why": "Le recul des grandes valeurs de l'IA montre que les investisseurs doutent des valorisations du secteur.",
+   "sources": [
+    {
+     "name": "MoneyVox",
+     "url": "https://www.moneyvox.fr/bourse/actualites/111425/le-nasdaq-plonge-le-cac-40-limite-la-casse-les-infos-bourse-du-mercredi-25-novembre-2026"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "title": "OpenAI : GPT-6 conçoit des protéines",
+   "summary": "OpenAI affirme que ses modèles GPT-6 savent concevoir des protéines. Des protéines créées par l'IA ont montré des signes de liaison à cinq cibles lors de tests en laboratoire. C'est une annonce de l'entreprise, pas encore validée par une revue scientifique.",
+   "why": "Si elle se confirme, cette capacité pourrait accélérer la recherche de médicaments.",
+   "sources": [
+    {
+     "name": "The Neuron",
+     "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-november-25-2026/"
+    }
+   ]
+  },
+  {
+   "cat": "science",
+   "title": "Des virus géants cousins de la variole dans nos intestins",
+   "summary": "Une équipe pilotée par Tom Delmont (CNRS) avec le CEA a découvert les egovirus, des virus géants présents dans l'intestin d'humains et d'animaux. Ce sont les plus proches parents connus des poxvirus, la famille de la variole et du mpox. Ils seraient présents chez plus de 2 % de la population mondiale. L'étude est publiée dans Nature.",
+   "why": "Cette découverte éclaire l'origine des poxvirus, dont l'ancêtre commun remonterait à 700 millions d'années.",
+   "sources": [
+    {
+     "name": "Vidal / AFP",
+     "url": "https://www.vidal.fr/actualites/38617-decouverte-de-virus-geants-intestinaux-une-piste-sur-l-origine-de-la-variole.html"
+    },
+    {
+     "name": "L'Info Durable / AFP",
+     "url": "https://www.linfodurable.fr/decouverte-de-virus-geants-intestinaux-une-piste-sur-lorigine-de-la-variole-etude-59782"
+    }
+   ]
+  },
+  {
+   "cat": "science",
+   "title": "Un papillon de nuit migre avec une boussole magnétique",
+   "summary": "Le papillon Bogong d'Australie parcourt plus de 1 000 km de nuit. Des chercheurs de l'université de Lund montrent dans Nature qu'il s'oriente avec le seul champ magnétique terrestre. Sa boussole a besoin de lumière bleu-violet et se dérègle avec un faible bruit radio. En 2025, la même équipe avait montré qu'il suit aussi les étoiles.",
+   "why": "C'est l'un des rares insectes dont on prouve l'usage d'une boussole magnétique, comme les oiseaux migrateurs.",
+   "sources": [
+    {
+     "name": "EurekAlert / Université de Lund",
+     "url": "https://www.eurekalert.org/news-releases/1152375"
+    },
+    {
+     "name": "Nature Asia",
+     "url": "https://www.natureasia.com/en/info/press-releases/detail/9487"
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "À combien le CAC 40 a-t-il clôturé le 25 novembre ?",
+   "options": [
+    "8 040,49 points",
+    "8 146,83 points",
+    "7 980,57 points",
+    "7 891,20 points"
+   ],
+   "answer": 2,
+   "explain": "Le CAC 40 a perdu 0,75 % à 7 980,57 points, entraîné par la chute de la tech à Wall Street."
+  },
+  {
+   "q": "Combien de personnes NGE recrute-t-il en moyenne chaque année ?",
+   "options": [
+    "5 000 personnes",
+    "2 000 personnes",
+    "8 000 personnes",
+    "3 500 personnes"
+   ],
+   "answer": 0,
+   "explain": "NGE recrute environ 5 000 personnes par an, selon l'accord signé avec France Travail."
+  },
+  {
+   "q": "Quel est l'effort demandé aux collectivités dans le budget 2027 ?",
+   "options": [
+    "2,5 milliards d'euros",
+    "9 milliards d'euros",
+    "4,7 milliards d'euros",
+    "5,5 milliards d'euros"
+   ],
+   "answer": 3,
+   "explain": "Le budget 2027 demande 5,5 milliards d'euros aux collectivités, 7 milliards avec la hausse des cotisations retraite."
+  }
+ ]
+}
