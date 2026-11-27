@@ -1,0 +1,280 @@
+{
+ "date": "2026-11-27",
+ "generatedAt": "2026-11-27T06:31:59+01:00",
+ "lede": "Députés et sénateurs ont échoué jeudi à s'entendre sur le budget 2027 de la Sécurité sociale, qui repart à l'Assemblée. À la Bourse, le CAC 40 a bondi de 1,61 % pendant que le pétrole grimpait à 96,57 dollars après des incidents dans le détroit d'Ormuz.",
+ "figures": [
+  {
+   "label": "CAC 40 (clôture du 26 nov.)",
+   "value": "8 108,74 pts",
+   "note": "+1,61 % sur la séance",
+   "source": "Zonebourse / BFM Bourse"
+  },
+  {
+   "label": "Pétrole Brent (clôture du 26 nov.)",
+   "value": "96,57 $",
+   "note": "+1,2 %, environ +5 % sur la semaine",
+   "source": "Reuters via N Globe"
+  },
+  {
+   "label": "Taux d'emprunt France à 10 ans (26 nov.)",
+   "value": "4,74 %",
+   "note": "Stable, contre 3,25 % pour l'Allemagne",
+   "source": "Zonebourse (AWP)"
+  },
+  {
+   "label": "Euro / dollar (26 nov.)",
+   "value": "1,0969 $",
+   "note": "-0,1 %",
+   "source": "BFM Bourse"
+  },
+  {
+   "label": "Demandeurs d'emploi cat. A (fin du 3e trim. 2026)",
+   "value": "3,35 millions",
+   "note": "+0,9 % sur le trimestre",
+   "source": "France Travail / Dares via Econostrum"
+  },
+  {
+   "label": "Prises de commandes travaux publics (3e trim. 2026)",
+   "value": "-32,1 %",
+   "note": "En volume, sur un an",
+   "source": "FNTP via Unicem / Batinfo"
+  }
+ ],
+ "items": [
+  {
+   "cat": "politique",
+   "title": "Budget de la Sécu 2027 : échec de la commission mixte paritaire",
+   "summary": "Députés et sénateurs ne se sont pas mis d'accord jeudi matin sur le budget 2027 de la Sécurité sociale. La réunion a duré environ une heure et quart. Le vote négatif des députés sur la partie recettes a clos le débat. Le texte repart en nouvelle lecture à l'Assemblée, avec un examen en séance prévu le 7 décembre.",
+   "why": "Le principal désaccord porte sur la suspension de la réforme des retraites. Faute de vote dans les délais, le gouvernement pourrait recourir aux ordonnances ou au 49.3.",
+   "sources": [
+    {
+     "name": "Public Sénat",
+     "url": "https://www.publicsenat.fr/actualites/politique/budget-2027-de-la-securite-sociale-echec-de-la-tentative-de-compromis-entre-deputes-et-senateurs"
+    },
+    {
+     "name": "NosParlementaires",
+     "url": "https://nosparlementaires.fr/actualites/budget-2027-calendrier-assemblee-cinq-semaines"
+    }
+   ]
+  },
+  {
+   "cat": "politique",
+   "title": "Congrès des maires : Lecornu propose une réforme de la DGF sur trois ans",
+   "summary": "Le Premier ministre a débattu jeudi avec Gérard Larcher et David Lisnard, réélu à la tête de l'AMF. Il a évoqué une loi de programmation des finances locales et une réforme de la dotation globale de fonctionnement (DGF) sur trois ans, sans chiffre précis. Il se dit « intellectuellement favorable » à une règle d'or budgétaire dans la Constitution, mais « aucune décision n'est prise ». Gérard Larcher veut un budget voté le 9 décembre.",
+   "why": "La DGF est la principale dotation de l'État aux communes. Sa réforme pèse directement sur l'investissement local, donc sur les chantiers publics.",
+   "sources": [
+    {
+     "name": "Public Sénat",
+     "url": "https://www.publicsenat.fr/actualites/politique/direct-suivez-le-debat-entre-david-lisnard-gerard-larcher-et-sebastien-lecornu-au-congres-des-maires-de-france"
+    },
+    {
+     "name": "Economie Matin",
+     "url": "https://www.economiematin.fr/dotation-globale-fonctionnement-lecornu-finances-locales-trois-ans"
+    }
+   ]
+  },
+  {
+   "cat": "economie",
+   "title": "Bourse : le CAC 40 bondit de 1,61 % pendant Thanksgiving",
+   "summary": "Le CAC 40 a gagné 1,61 % jeudi, à 8 108,74 points, alors que Wall Street était fermée pour Thanksgiving. 39 valeurs sur 40 ont progressé. Francfort a pris 2,14 % et Londres 1,75 %. La veille, l'indice parisien avait reculé de 0,75 %.",
+   "why": "Le marché rebondit après les craintes sur la tech et l'IA. Selon un analyste cité par BFM Bourse, la séance de vendredi sera « le véritable test ».",
+   "sources": [
+    {
+     "name": "Boursorama (Zonebourse)",
+     "url": "https://www.boursorama.com/bourse/actualites/l-europe-s-offre-un-net-rebond-pour-thanksgiving-b02a988296b744ea6f7621fc8d0fa7ba"
+    },
+    {
+     "name": "BFM Bourse via Shango",
+     "url": "https://www.shango.media/bfm-bourse-cac-40-alors-que-wall-street-celebre-thanksgiving-le-cac-40-cede-a-leuphorie-et-termine-en-hausse-d16-12089591"
+    }
+   ]
+  },
+  {
+   "cat": "economie",
+   "title": "Dette : S&P rend son avis sur la France ce vendredi",
+   "summary": "L'agence S&P publie vendredi sa revue semestrielle de la note de la France. Des économistes envisagent une révision négative de la perspective. Jeudi, le taux d'emprunt français à 10 ans est resté stable à 4,74 %, contre 3,25 % pour l'Allemagne.",
+   "why": "Une perspective dégradée peut renchérir le coût de la dette publique. Un gérant cité estime toutefois que le marché traite déjà la France comme un « simple A ».",
+   "sources": [
+    {
+     "name": "Zonebourse (AWP)",
+     "url": "https://www.zonebourse.com/actualite-bourse/paris-en-forte-hausse-jeudi-ce7851d9d889f622"
+    }
+   ]
+  },
+  {
+   "cat": "economie",
+   "title": "Pétrole : le Brent à 96,57 dollars après des mines à Ormuz",
+   "summary": "Le baril de Brent a clôturé jeudi à 96,57 dollars, en hausse de 1,2 %, selon Reuters. Les Gardiens de la révolution iraniens disent que deux pétroliers ont heurté des mines au nord de Khasab, à Oman. Les Houthis revendiquent une attaque contre la raffinerie saoudienne de Ras Tanura. Ces affirmations ne sont pas confirmées de façon indépendante.",
+   "why": "Le pétrole a pris environ 5 % sur la semaine. L'Opep+ se réunit dimanche 29 novembre, et un baril cher pèse sur l'inflation et les coûts des chantiers.",
+   "sources": [
+    {
+     "name": "N Globe (Reuters)",
+     "url": "https://nglobenews.com/fr/article/oil-brent-96-houthi-ras-tanura-hormuz-mines-2026-11-26"
+    },
+    {
+     "name": "Prix du baril",
+     "url": "https://prixdubaril.com/news-petrole/75251-houthis-contre-riyad-le-brent-repasse-au-dessus-de-91-dollars.html"
+    }
+   ]
+  },
+  {
+   "cat": "international",
+   "title": "Washington propose de nouveaux droits de douane contre 14 partenaires",
+   "summary": "L'administration Trump propose des droits de douane de 20 % à 40 % contre 14 partenaires, dont la Chine, le Japon et l'Union européenne. Pour l'UE, le taux proposé est de 15 %, droits existants compris. La mesure s'appuie sur la section 301 du Trade Act, après une enquête sur les surcapacités industrielles. Rien n'entrera en vigueur avant une audience publique le 25 janvier.",
+   "why": "Les exportateurs européens restent exposés. Pékin dénonce un « faux problème » mais n'a pas menacé de représailles.",
+   "sources": [
+    {
+     "name": "Boursorama (Reuters)",
+     "url": "https://www.boursorama.com/impots/actualites/trump-propose-de-nouveaux-droits-de-douane-contre-14-partenaires-dont-la-chine-et-l-ue-5ab43e5bd6dc3773ecd8aad032762dce"
+    }
+   ]
+  },
+  {
+   "cat": "international",
+   "title": "Ukraine : la Corée du Nord suspendrait son aide militaire à Moscou",
+   "summary": "Selon le renseignement militaire ukrainien, la Corée du Nord a suspendu ses livraisons de missiles KN-23 et d'obus à la Russie. Dans le même temps, les frappes russes ont fait 10 morts et 58 blessés en Ukraine en 24 heures, dont des missiles balistiques sur Kyiv. Volodymyr Zelensky dit que la Russie prépare une nouvelle attaque massive contre le réseau énergétique.",
+   "why": "Pyongyang était un fournisseur important de munitions pour Moscou. L'information vient d'une seule partie au conflit et reste à confirmer.",
+   "sources": [
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/north-korea-pauses-military-aid-to-russia-ukrainian-intelligence-says/"
+    },
+    {
+     "name": "Kyiv Independent",
+     "url": "https://kyivindependent.com/russian-attacks-kill-10-injure-58-across-ukraine-over-past-day-strike-kyiv-with-ballistic-missiles/"
+    }
+   ]
+  },
+  {
+   "cat": "entreprises",
+   "title": "Stellantis s'envole de 8,9 %, l'automobile et les puces en tête",
+   "summary": "Stellantis a fini jeudi en tête du CAC 40, à +8,91 %. Renault a pris 5,74 % et Alstom 6,98 %. Côté semi-conducteurs, Soitec a gagné 6,94 % et STMicroelectronics 4,48 %. Seul EssilorLuxottica a reculé, de 0,20 %.",
+   "why": "Les secteurs les plus chahutés ces dernières semaines profitent le plus du rebond. Cela montre la forte sensibilité de ces valeurs au climat de marché.",
+   "sources": [
+    {
+     "name": "Zonebourse (AWP)",
+     "url": "https://www.zonebourse.com/actualite-bourse/paris-en-forte-hausse-jeudi-ce7851d9d889f622"
+    },
+    {
+     "name": "BFM Bourse via Shango",
+     "url": "https://www.shango.media/bfm-bourse-cac-40-alors-que-wall-street-celebre-thanksgiving-le-cac-40-cede-a-leuphorie-et-termine-en-hausse-d16-12089591"
+    }
+   ]
+  },
+  {
+   "cat": "btp",
+   "title": "Travaux publics : les commandes chutent de 32 % au 3e trimestre",
+   "summary": "Selon la lettre de novembre de l'Unicem, les travaux réalisés dans les travaux publics ont reculé de 11,4 % sur un an au 3e trimestre, et les prises de commandes de 32,1 % en volume. Les granulats baissent de 5,9 % sur un an. Le béton prêt à l'emploi se stabilise, avec +1,9 % sur le trimestre. Les mises en chantier de logements bondissent de 41 % sur un an.",
+   "why": "La FNTP prévoit encore une baisse de 7 % de l'activité en 2027. Le contraste est net entre un logement qui repart et des travaux publics qui plongent.",
+   "sources": [
+    {
+     "name": "Batinfo",
+     "url": "https://batinfo.com/actualite/materiaux-de-construction-le-beton-se-stabilise-les-granulats-penalises-par-le-recul-des-travaux-publics_38037"
+    }
+   ]
+  },
+  {
+   "cat": "btp",
+   "title": "BTP : 90 % des professionnels misent sur l'IA",
+   "summary": "Le baromètre Orisha Construction 2027, mené auprès de 160 professionnels, montre que 90 % utilisent ou prévoient d'utiliser l'IA, contre 70 % en 2025. La hausse du coût des matériaux est la première difficulté citée (56 %, +15 points). Viennent ensuite l'incertitude des marchés (54 %) et le recrutement (53 %).",
+   "why": "L'IA s'installe dans la gestion des chantiers et des documents. 86 % attendent ou utilisent déjà l'analyse automatique des documents métier, un sujet proche du contrôle de gestion.",
+   "sources": [
+    {
+     "name": "Construction BTP",
+     "url": "https://constructionbtp.com/batiment/article/2026/11/26/156855/btp-sous-tension-90-des-professionnels-tournent-vers-ia"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "title": "SpaceX autorisé à lancer un million de satellites pour l'IA",
+   "summary": "Le régulateur américain des télécoms (FCC) a autorisé SpaceX à déployer jusqu'à un million de satellites pour Starmind, un réseau de centres de données d'IA en orbite. Le calendrier prévoit un début de déploiement d'ici novembre 2033 et 100 000 satellites d'ici novembre 2035.",
+   "why": "Le besoin en calcul pour l'IA pousse à imaginer des data centers dans l'espace. L'échelle du projet pose des questions sur l'encombrement de l'orbite.",
+   "sources": [
+    {
+     "name": "The Neuron",
+     "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-november-26-2026/"
+    },
+    {
+     "name": "ActuIA",
+     "url": "https://www.actuia.com/veille/2026-11-26/"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "title": "L'ANSM met en garde contre les conseils médicaux des chatbots",
+   "summary": "L'Agence du médicament (ANSM) alerte sur les conseils donnés par les IA sur les médicaments. Huit cas ont été déclarés en France entre 2024 et 2026, dont une hospitalisation. Il s'agit surtout d'erreurs de dosage, dont deux surdosages de paracétamol.",
+   "why": "Les chatbots sont de plus en plus utilisés pour la santé. Le message officiel est clair : demander l'avis d'un médecin ou d'un pharmacien.",
+   "sources": [
+    {
+     "name": "ActuIA",
+     "url": "https://www.actuia.com/veille/2026-11-26/"
+    },
+    {
+     "name": "ANSM",
+     "url": "https://ansm.sante.fr/actualites/medicaments-et-traitements-attention-les-conseils-dune-ia-peuvent-etre-dangereux"
+    }
+   ]
+  },
+  {
+   "cat": "science",
+   "title": "Préhistoire : des dents chinoises révèlent peut-être une lignée humaine inconnue",
+   "summary": "Une étude parue le 25 novembre dans Nature analyse les protéines de quatre dents trouvées dans deux grottes du Guangxi, en Chine. Deux dents de Longchuandong correspondent aux Dénisoviens. Deux autres, de Chuanshandong, vieilles d'au moins 100 800 ans, ne ressemblent à aucun groupe connu. Les données sont protéiques et non génomiques, et certains chercheurs jugent prématuré de parler de nouvelle lignée.",
+   "why": "Le sud de la Chine apparaît comme une zone clé de l'évolution humaine. Le résultat reste discuté et devra être confirmé.",
+   "sources": [
+    {
+     "name": "Curiosmos",
+     "url": "https://curiosmos.com/chuanshandong-tooth-unknown-human-lineage-china/"
+    }
+   ]
+  },
+  {
+   "cat": "science",
+   "title": "Génétique : l'ADN ancien retrace la diffusion des langues celtiques",
+   "summary": "Le numéro de Nature du 26 novembre publie une étude fondée sur les génomes de 4 587 individus anciens pour suivre la diffusion des langues celtiques. Une étude voisine fait le même travail pour les langues germaniques. Les chercheurs relient les mouvements de populations à la carte des langues en Europe.",
+   "why": "La génétique éclaire l'histoire des peuples européens. Lier gènes et langues reste toutefois une interprétation, pas une preuve directe.",
+   "sources": [
+    {
+     "name": "Nature, numéro du 26 novembre 2026",
+     "url": "https://www.nature.com/nature/volumes/659/issues/8142"
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "À combien le CAC 40 a-t-il clôturé le 26 novembre ?",
+   "options": [
+    "7 980,57 points",
+    "8 122,43 points",
+    "8 046,12 points",
+    "8 108,74 points"
+   ],
+   "answer": 3,
+   "explain": "Le CAC 40 a gagné 1,61 % à 8 108,74 points, Wall Street étant fermée pour Thanksgiving."
+  },
+  {
+   "q": "Quel taux de droits de douane Washington propose-t-il pour l'Union européenne ?",
+   "options": [
+    "15 %",
+    "20 %",
+    "25 %",
+    "40 %"
+   ],
+   "answer": 0,
+   "explain": "Le taux proposé pour l'UE est de 15 %, droits existants compris. Les taux vont de 20 % à 40 % pour les autres, avec des plafonds selon les accords."
+  },
+  {
+   "q": "De combien les prises de commandes des travaux publics ont-elles chuté au 3e trimestre ?",
+   "options": [
+    "11,4 % sur un an",
+    "32,1 % sur un an",
+    "24,4 % sur un an",
+    "5,9 % sur un an"
+   ],
+   "answer": 1,
+   "explain": "Les prises de commandes ont reculé de 32,1 % en volume. Les travaux réalisés baissent de 11,4 %."
+  }
+ ]
+}
