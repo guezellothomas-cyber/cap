@@ -1,0 +1,282 @@
+{
+ "date": "2026-11-28",
+ "generatedAt": "2026-11-28T06:31:18+01:00",
+ "lede": "S&P a gardé la note A+ de la France vendredi soir, mais l'a placée sous perspective négative à cause du déficit. Le même jour, l'Insee a annoncé une inflation en net recul à 2,9 % en novembre et un PIB en baisse de 0,2 % au 3e trimestre.",
+ "figures": [
+  {
+   "label": "Inflation sur un an (novembre 2026, provisoire)",
+   "value": "2,9 %",
+   "note": "Après 3,4 % en octobre. Prix en baisse de 0,7 % sur un mois",
+   "source": "Insee"
+  },
+  {
+   "label": "PIB France (3e trimestre 2026, révisé)",
+   "value": "-0,2 %",
+   "note": "Contre -0,1 % en première estimation",
+   "source": "Insee via Boursorama (AFP) / Upside"
+  },
+  {
+   "label": "Note de la France chez S&P (27 nov.)",
+   "value": "A+",
+   "note": "Perspective abaissée de stable à négative",
+   "source": "Boursorama (AFP)"
+  },
+  {
+   "label": "CAC 40 (clôture du 27 nov.)",
+   "value": "8 156,09 pts",
+   "note": "+0,58 % sur la séance, +2,88 % sur la semaine",
+   "source": "BFM Bourse"
+  },
+  {
+   "label": "Taux d'emprunt France à 10 ans (27 nov.)",
+   "value": "4,72 %",
+   "note": "Avant l'avis de S&P",
+   "source": "Upside"
+  },
+  {
+   "label": "Euro / dollar (27 nov.)",
+   "value": "1,0942 $",
+   "note": "-0,25 %",
+   "source": "BFM Bourse"
+  },
+  {
+   "label": "Mises en chantier de logements (octobre 2026)",
+   "value": "28 290",
+   "note": "+2 % sur un mois, données provisoires",
+   "source": "SDES via Batinfo (AFP)"
+  }
+ ],
+ "items": [
+  {
+   "cat": "economie",
+   "title": "Dette : S&P garde le A+ mais menace la France",
+   "summary": "S&P Global a maintenu vendredi soir la note de la France à A+. L'agence a abaissé sa perspective de stable à négative, ce qui annonce une possible dégradation. Elle prévoit un déficit de 5,3 % du PIB en 2027, alors que le gouvernement vise 5 % au plus. Fitch et Moody's ont déjà une perspective négative.",
+   "why": "Une note plus basse peut faire monter le coût de la dette française. Les trois grandes agences sont désormais alignées sur un risque de baisse.",
+   "sources": [
+    {
+     "name": "Boursorama (AFP)",
+     "url": "https://www.boursorama.com/bourse/actualites/dette-s-p-maintient-la-note-de-la-france-mais-menace-de-la-degrader-af56fb175f680c54051c9a57983e65f9"
+    },
+    {
+     "name": "Boursorama",
+     "url": "https://www.boursorama.com/bourse/actualites/s-p-assortit-la-note-souveraine-de-la-france-d-une-perspective-negative-480ecf2212c42e72497c6bc0bc15ec88"
+    }
+   ]
+  },
+  {
+   "cat": "economie",
+   "title": "Inflation à 2,9 % en novembre, PIB en recul au 3e trimestre",
+   "summary": "Selon l'estimation provisoire de l'Insee, les prix augmentent de 2,9 % sur un an en novembre, après 3,4 % en octobre. Sur un mois, ils baissent de 0,7 %. L'énergie ralentit (+19,2 % sur un an, après +24,1 %) grâce aux produits pétroliers. Le PIB du 3e trimestre est révisé à -0,2 %, avec des exportations en baisse de 1,6 % et une consommation en hausse de 0,3 %.",
+   "why": "L'inflation reste élevée à cause de l'énergie, alors que l'activité recule. Ce mélange complique la tâche du gouvernement et de la BCE.",
+   "sources": [
+    {
+     "name": "Insee",
+     "url": "https://www.insee.fr/fr/statistiques/9161375"
+    },
+    {
+     "name": "Upside",
+     "url": "https://www.upside24.com/articles/inflation-retombe-a-2-9-pib-recule"
+    }
+   ]
+  },
+  {
+   "cat": "economie",
+   "title": "Bourse : le CAC 40 gagne près de 3 % sur la semaine",
+   "summary": "Le CAC 40 a fini vendredi à 8 156,09 points, en hausse de 0,58 %. Sur la semaine, il gagne 2,88 %. Les valeurs des puces ont mené la hausse, avec Soitec (+5 %) et STMicroelectronics (+3,9 %), portées par le retour de l'appétit pour l'IA à Wall Street.",
+   "why": "La Bourse a progressé avant l'avis de S&P. Lundi dira si la perspective négative pèse sur les marchés.",
+   "sources": [
+    {
+     "name": "BFM Bourse",
+     "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-en-attendant-la-decision-de-sp-sur-la-note-de-credit-de-la-france-le-cac-40-termine-en-hausse-ce-vendredi-et-reprend-pres-de-3-sur-la-semaine-1174568.html"
+    },
+    {
+     "name": "MoneyVox",
+     "url": "https://www.moneyvox.fr/bourse/actualites/111472/0-58-pour-le-cac-40-opa-ia-le-journal-de-la-bourse-du-vendredi-27-novembre-2026"
+    }
+   ]
+  },
+  {
+   "cat": "politique",
+   "title": "Congrès des maires : Lecornu et Larcher débattent du budget",
+   "summary": "Le 108e congrès des maires s'est terminé jeudi par un débat entre Sébastien Lecornu, Gérard Larcher et David Lisnard, réélu président de l'AMF. Gérard Larcher refuse de prélever plus de 2,5 milliards d'euros sur les collectivités. Il annonce que le Sénat adoptera le budget 2027, « largement amendé », le 9 décembre. Sébastien Lecornu dit qu'une absence de budget « nous mènerait dans l'abîme ».",
+   "why": "Le Sénat va réécrire le budget sur la part des collectivités. Les communes sont de gros donneurs d'ordre pour le BTP.",
+   "sources": [
+    {
+     "name": "Maire-info",
+     "url": "https://www.maire-info.com/_print2.php?date=20261127"
+    },
+    {
+     "name": "Public Sénat",
+     "url": "https://www.publicsenat.fr/actualites/politique/budget-2027-il-nest-pas-question-de-prelever-plus-de-25-milliards-deuros-sur-les-collectivites-previent-gerard-larcher"
+    }
+   ]
+  },
+  {
+   "cat": "politique",
+   "title": "Violences contre les élus : +25 % en un an",
+   "summary": "Une circulaire publiée le 26 novembre au Journal officiel compte 3 109 faits de violences ou de menaces contre des élus au 15 novembre 2026. C'est 25 % de plus que sur toute l'année 2025. Un décret crée aussi un label « employeur partenaire de la démocratie locale ».",
+   "why": "Ces chiffres arrivent à quelques mois des prochaines échéances électorales. Ils pèsent sur l'envie de s'engager comme élu local.",
+   "sources": [
+    {
+     "name": "Maire-info",
+     "url": "https://www.maire-info.com/_print2.php?date=20261127"
+    }
+   ]
+  },
+  {
+   "cat": "international",
+   "title": "Iran : Trump dit la victoire « à portée de main »",
+   "summary": "Lors d'un appel de Thanksgiving depuis la Floride, Donald Trump a affirmé que la victoire sur l'Iran était « à portée de main ». Il a menacé de frapper le site de Pickaxe Mountain. Le ministre iranien Abbas Araghchi a mis en garde contre la présence militaire étrangère dans le Golfe.",
+   "why": "Le conflit menace le détroit d'Ormuz, par où passe une grande partie du pétrole mondial. Il pèse donc sur les prix de l'énergie en Europe.",
+   "sources": [
+    {
+     "name": "The Times of Israel",
+     "url": "https://www.timesofisrael.com/liveblog-november-27-2026/"
+    }
+   ]
+  },
+  {
+   "cat": "international",
+   "title": "OPEP+ : réunion sous tension ce dimanche",
+   "summary": "L'OPEP+ se réunit dimanche 29 novembre en visioconférence sur ses objectifs de production. Selon des sources citées par Reuters, le groupe pourrait les reconduire au moins jusqu'au premier trimestre 2027. Mercredi, les Houthis ont revendiqué une attaque contre la raffinerie saoudienne de Ras Tanura. L'Irak conteste aussi l'estimation de sa capacité.",
+   "why": "La décision orientera le prix du baril, donc celui du carburant. Le BTP y est très exposé avec ses engins et ses transports.",
+   "sources": [
+    {
+     "name": "ObligInfos",
+     "url": "https://www.obliginfos.fr/2026/11/27/opep-la-reunion-de-dimanche-sur-les-objectifs-de-production-sous-pression/"
+    }
+   ]
+  },
+  {
+   "cat": "entreprises",
+   "title": "Thales veut racheter Lumibird, l'action bondit de 18 %",
+   "summary": "Thales est en négociations exclusives pour prendre le contrôle de Lumibird, spécialiste des lasers. Le groupe doit d'abord racheter les 51,6 % du fondateur, puis proposer 30,10 euros par action, dividende exceptionnel compris. Un complément de 2,56 euros est possible. L'action Lumibird a fini à 29 euros, en hausse de 18,13 %.",
+   "why": "Thales continue ses achats dans la défense après Exail. C'est un cas concret de prise de contrôle suivie d'une offre aux autres actionnaires.",
+   "sources": [
+    {
+     "name": "MoneyVox",
+     "url": "https://www.moneyvox.fr/bourse/actualites/111472/0-58-pour-le-cac-40-opa-ia-le-journal-de-la-bourse-du-vendredi-27-novembre-2026"
+    },
+    {
+     "name": "Zonebourse",
+     "url": "https://www.zonebourse.com/actualite-bourse/bourse-thales-s-offre-lumibird-succes-de-l-opa-sur-fnac-darty-et-cure-d-amaigrissement-chez-sap-ce7851d9da8ef522"
+    }
+   ]
+  },
+  {
+   "cat": "btp",
+   "title": "Logement : les mises en chantier remontent de 2 % en octobre",
+   "summary": "Selon les données provisoires du SDES publiées vendredi, 28 290 logements ont été mis en chantier en octobre, soit 2 % de plus qu'en septembre. Les permis de construire progressent de 0,7 %, tirés par la maison individuelle (+6,3 %). Sur douze mois, les mises en chantier restent en recul de 4,3 % par rapport à la moyenne des cinq années précédentes.",
+   "why": "La reprise reste fragile et à deux vitesses. Le collectif, clé pour les gros chantiers, recule encore côté permis.",
+   "sources": [
+    {
+     "name": "Batinfo (AFP)",
+     "url": "https://batinfo.com/actualite/construction-de-logements-les-mises-en-chantier-progressent-de-2-en-octobre_38125"
+    },
+    {
+     "name": "Batiweb",
+     "url": "https://batiweb.com/actualites/construction/construction-logements-neufs-octobre-2026-reprise-49688"
+    }
+   ]
+  },
+  {
+   "cat": "btp",
+   "title": "Artisanat du bâtiment : l'activité recule encore de 1 %",
+   "summary": "Selon la CAPEB, l'activité des artisans du bâtiment baisse de 1 % sur un an au 3e trimestre. La rénovation énergétique remonte de 1 %, une première depuis début 2024. Près d'une entreprise sur trois a une trésorerie dégradée, et 94 % subissent la hausse des carburants. La CAPEB lance une pétition « Laissez-nous travailler ».",
+   "why": "Les petites entreprises du bâtiment souffrent du coût de l'énergie. La CAPEB demande des aides aux travaux dans le budget 2027.",
+   "sources": [
+    {
+     "name": "Infobtp",
+     "url": "https://www.infobtp.fr/actu/artisanat-batiment-activite-recule-troisieme-trimestre-2026/"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "title": "Serveurs IA : le chiffre d'affaires de Dell double",
+   "summary": "Dell a annoncé un chiffre d'affaires trimestriel de 54,9 milliards de dollars, en hausse de 103 %. Son action a gagné environ 6 % vendredi à Wall Street. Ces résultats ont relancé l'appétit pour les valeurs liées à l'IA, dont les puces en Europe.",
+   "why": "La demande de serveurs pour l'IA reste très forte. Elle tire toute la chaîne, des fabricants de puces aux centres de données.",
+   "sources": [
+    {
+     "name": "MoneyVox",
+     "url": "https://www.moneyvox.fr/bourse/actualites/111472/0-58-pour-le-cac-40-opa-ia-le-journal-de-la-bourse-du-vendredi-27-novembre-2026"
+    },
+    {
+     "name": "BFM Bourse",
+     "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-en-attendant-la-decision-de-sp-sur-la-note-de-credit-de-la-france-le-cac-40-termine-en-hausse-ce-vendredi-et-reprend-pres-de-3-sur-la-semaine-1174568.html"
+    }
+   ]
+  },
+  {
+   "cat": "tech",
+   "title": "Les Mousquetaires déploient Claude dans 500 points de vente",
+   "summary": "Le Groupement Mousquetaires (Intermarché, Netto, Bricomarché) va déployer l'assistant Claude d'Anthropic dans 500 points de vente à partir de janvier 2027. 300 salariés des fonctions support sont aussi concernés. Le déploiement passe par Amazon Bedrock.",
+   "why": "La grande distribution passe de l'essai à l'usage de l'IA à grande échelle. Les fonctions support, comme le contrôle de gestion, sont en première ligne.",
+   "sources": [
+    {
+     "name": "ActuIA",
+     "url": "https://www.actuia.com/veille/2026-11-27/"
+    }
+   ]
+  },
+  {
+   "cat": "science",
+   "title": "Ebola : un antidiarrhéique associé à moins de décès",
+   "summary": "Une étude parue le 25 novembre dans The Lancet Global Health a analysé 5 509 cas d'Ebola de l'épidémie de 2013-2016 en Afrique de l'Ouest. Le lopéramide donné dans les 2 à 3 premiers jours est associé à une mortalité nettement plus basse. Il s'agit d'une analyse rétrospective, pas d'un essai : les auteurs parlent d'un bénéfice possible et réclament un essai randomisé.",
+   "why": "Le médicament est bon marché et disponible partout. Plus de 10 000 cas d'Ebola ont été recensés en RDC depuis mai 2026.",
+   "sources": [
+    {
+     "name": "World Today Journal",
+     "url": "https://world-today-journal.com/loperamide-may-cut-ebola-mortality-by-two-thirds-when-given-early-lancet-global-health-study-finds/"
+    }
+   ]
+  },
+  {
+   "cat": "science",
+   "title": "Infarctus : le risque génétique logé dans les muscles des artères",
+   "summary": "Une équipe de WashU Medicine a publié le 25 novembre dans Nature une carte des gènes du risque de maladie coronarienne. Sur les artères de 44 personnes greffées du cœur, elle montre que les cellules musculaires lisses concentrent le plus fort risque héréditaire. L'échantillon est petit et aucun traitement n'a été testé.",
+   "why": "Beaucoup de signaux de risque ne passent pas par le cholestérol. Ces cellules pourraient devenir de nouvelles cibles de traitement.",
+   "sources": [
+    {
+     "name": "Tech Times",
+     "url": "https://www.techtimes.com/articles/331614/20261126/coronary-artery-disease-genes-smooth-muscle-cells-hold-top-inherited-risk-washu-study-finds.htm"
+    }
+   ]
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Qu'a décidé S&P vendredi pour la France ?",
+   "options": [
+    "Note abaissée à A, perspective stable",
+    "Note A+ gardée, perspective négative",
+    "Note relevée à AA-, perspective stable",
+    "Note A+ gardée, perspective positive"
+   ],
+   "answer": 1,
+   "explain": "S&P garde le A+ mais passe la perspective de stable à négative, signe d'une possible dégradation."
+  },
+  {
+   "q": "Quelle est l'inflation sur un an en novembre selon l'Insee ?",
+   "options": [
+    "3,4 %",
+    "3,2 %",
+    "2,3 %",
+    "2,9 %"
+   ],
+   "answer": 3,
+   "explain": "2,9 % sur un an, après 3,4 % en octobre. 3,2 % est l'indice harmonisé européen."
+  },
+  {
+   "q": "Combien de logements ont été mis en chantier en octobre ?",
+   "options": [
+    "28 290",
+    "31 166",
+    "19 546",
+    "24 100"
+   ],
+   "answer": 0,
+   "explain": "28 290 mises en chantier, en hausse de 2 % sur un mois. 31 166 correspond aux permis de construire."
+  }
+ ]
+}
